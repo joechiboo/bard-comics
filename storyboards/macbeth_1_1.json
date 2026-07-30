@@ -9,12 +9,12 @@
         {
           "weight": 0.45,
           "prompt": "wide establishing shot, desolate Scottish moor at dusk, storm clouds, a single lightning bolt splitting the sky, no characters",
-          "dialogue": [{"speaker": "音效", "text": "轟隆———"}]
+          "dialogue": [{"speaker": "音效", "text": "轟隆———", "en": "RRUMBLE—"}]
         },
         {
           "weight": 0.35,
           "prompt": "medium shot of a twisted dead tree and scattered rocks on a windswept moor, grass bent flat by violent wind, no characters",
-          "dialogue": [{"speaker": "音效", "text": "呼———"}]
+          "dialogue": [{"speaker": "音效", "text": "呼———", "en": "HOWL—"}]
         },
         {
           "weight": 0.2,
@@ -29,17 +29,17 @@
         {
           "weight": 0.5,
           "prompt": "three witches revealed facing forward, {characters}, standing on a stormy moor",
-          "dialogue": [{"speaker": "女巫甲", "text": "我們三個何時再相會？在雷聲、閃電，還是雨中？"}]
+          "dialogue": [{"speaker": "女巫甲", "text": "我們三個何時再相會？在雷聲、閃電，還是雨中？", "en": "When shall we three meet again? In thunder, lightning, or in rain?"}]
         },
         {
           "weight": 0.25,
           "prompt": "close-up of the second witch, a torn grinning mouth splitting her shadowed face",
-          "dialogue": [{"speaker": "女巫乙", "text": "等這場混亂平息，等那場仗打完——有人贏，有人輸。"}]
+          "dialogue": [{"speaker": "女巫乙", "text": "等這場混亂平息，等那場仗打完——有人贏，有人輸。", "en": "When the hurly-burly's done, when the battle's lost and won."}]
         },
         {
           "weight": 0.25,
           "prompt": "close-up of the third witch looking up at the sky, a lightning bolt reflected in her pale white pupils",
-          "dialogue": [{"speaker": "女巫丙", "text": "那就在太陽落山之前。"}]
+          "dialogue": [{"speaker": "女巫丙", "text": "那就在太陽落山之前。", "en": "That will be ere the set of sun."}]
         }
       ]
     },
@@ -49,17 +49,17 @@
         {
           "weight": 0.25,
           "prompt": "top-down bird's eye view of three cloaked witches standing in a circle on dark moorland",
-          "dialogue": [{"speaker": "女巫甲", "text": "在什麼地方？"}]
+          "dialogue": [{"speaker": "女巫甲", "text": "在什麼地方？", "en": "Where the place?"}]
         },
         {
           "weight": 0.25,
           "prompt": "a withered bony hand of a witch pointing into deep fog",
-          "dialogue": [{"speaker": "女巫乙", "text": "就在這片荒野上。"}]
+          "dialogue": [{"speaker": "女巫乙", "text": "就在這片荒野上。", "en": "Upon the heath."}]
         },
         {
           "weight": 0.5,
           "prompt": "three witches turning their heads simultaneously to stare directly at the viewer, {characters}, six glowing eyes in shadow, dramatic low angle, thick fog",
-          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "去見——馬克白。"}]
+          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "去見——馬克白。", "en": "There to meet with Macbeth."}]
         }
       ]
     },
@@ -69,17 +69,17 @@
         {
           "weight": 0.34,
           "prompt": "a grey cat's glowing eyes in darkness among moorland rocks, fog swirling",
-          "dialogue": [{"speaker": "音效", "text": "喵嗚———"}, {"speaker": "女巫甲", "text": "來了，灰貓！"}]
+          "dialogue": [{"speaker": "音效", "text": "喵嗚———", "en": "MEOW—"}, {"speaker": "女巫甲", "text": "來了，灰貓！", "en": "I come, Graymalkin!"}]
         },
         {
           "weight": 0.33,
           "prompt": "a toad sitting on a wet stone, throat sac inflated, lit by faint lightning",
-          "dialogue": [{"speaker": "女巫乙", "text": "蟾蜍在叫我。"}]
+          "dialogue": [{"speaker": "女巫乙", "text": "蟾蜍在叫我。", "en": "Paddock calls."}]
         },
         {
           "weight": 0.33,
           "prompt": "the third witch half-dissolved into fog, only the side of her face visible, pale white pupil glowing",
-          "dialogue": [{"speaker": "女巫丙", "text": "就來。"}]
+          "dialogue": [{"speaker": "女巫丙", "text": "就來。", "en": "Anon."}]
         }
       ]
     },
@@ -89,12 +89,13 @@
         {
           "weight": 0.8,
           "prompt": "full page dramatic panel, three fading witch silhouettes dissolving into thick fog, a charred dead tree in the foreground, near-monochrome with a single accent of dark red war banners in the far distance",
-          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "美即是醜，醜即是美——穿過迷霧與濁氣，飄然而去。"}]
+          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "美即是醜，醜即是美——穿過迷霧與濁氣，飄然而去。", "en": "Fair is foul, and foul is fair: hover through the fog and filthy air."}],
+          "quote": {"text": "美即醜惡醜即美，翱翔毒霧妖雲裡", "en": "Fair is foul, and foul is fair."}
         },
         {
           "weight": 0.2,
           "prompt": "narrow panel, fog parting to reveal distant marching army banners and dust on the horizon",
-          "dialogue": [{"speaker": "旁白", "text": "戰場上，有一個名字正被反覆傳頌……"}]
+          "dialogue": [{"speaker": "旁白", "text": "戰場上，有一個名字正被反覆傳頌……", "en": "On the battlefield, one name is on every tongue…"}]
         }
       ]
     }

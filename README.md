@@ -34,14 +34,30 @@ pages/        整頁成品 PNG（自動生成，不進版控）
 ## 產製流程
 
 ```text
-分鏡 JSON → OpenAI 生圖 (gpt-image-1) → Pillow 排版上對白 → 整頁 PNG → 人工校稿
+分鏡 JSON → 生圖 API（三供應商擇一）→ Pillow 排版上對白 → 整頁 PNG → 人工校稿
 ```
+
+生圖供應商用環境變數 `COMIC_PROVIDER` 切換：
+
+| Provider | 費用 | 現況（2026-07 實測） |
+| --- | --- | --- |
+| `gemini` | 需開帳單，約 $0.039/張 | ⚠️ 免費層生圖額度已收掉：新專案打 `gemini-2.5-flash-image` / `gemini-3.1-flash-image` 一律 429 且 `limit: 0`。網路上「免費 500 張/天」是舊聞。key 本身有效，開帳單（Tier 1）即可用 |
+| `pollinations`（預設） | 免費、零 key | ✅ 可用，畫質與角色一致性較差，適合校分鏡與排版 |
+| `openai` | 付費，$0.04–0.06/張 | 可用，需 `OPENAI_API_KEY` |
+
+**目前策略**：先用 `pollinations` 迭代分鏡與排版，定稿要出正式圖再幫 Google 專案開帳單走 `gemini`。
 
 ### 快速開始
 
 ```bash
 pip install -r requirements.txt
-export OPENAI_API_KEY=sk-xxx        # Windows: set OPENAI_API_KEY=sk-xxx
+
+# 免費路線（目前預設走法）
+set COMIC_PROVIDER=pollinations     # mac/linux: export COMIC_PROVIDER=pollinations
+python tools/generate_comic.py storyboards/macbeth_1_1.json
+
+# Gemini 路線（需先在 Google 專案開帳單）
+set GEMINI_API_KEY=xxx              # https://aistudio.google.com/apikey
 python tools/generate_comic.py storyboards/macbeth_1_1.json
 ```
 
@@ -66,7 +82,9 @@ python tools/generate_comic.py storyboards/macbeth_1_1.json
 
 - [x] 馬克白 1-1 荒野女巫：分鏡腳本 + JSON + pipeline
 - [ ] 馬克白 1-1：首輪生圖與校稿
-- [ ] 馬克白 1-2 戰報
+- [x] 馬克白 1-2 戰報：分鏡 JSON（待生圖）
+- [ ] 馬克白 1-2：首輪生圖與校稿
+- [x] 馬克白 1-3 女巫預言：分鏡 JSON（待生圖）
 - [ ] 對白框氣泡樣式優化（尾巴指向說話者）
 
 ## 版權備忘

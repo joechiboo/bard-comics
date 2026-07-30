@@ -1,0 +1,115 @@
+{
+  "title": "馬克白 4-2~3 滅門與流亡",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macduff, a burly thane with a thick unkempt red-brown beard, a jagged boar-tusk pendant at his neck, in a weathered grey-green tartan cloak",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "a warm firelit hall in a Scottish castle, a noblewoman clutching her young son's shoulders while arguing with a gaunt thane in a travel-stained grey cloak",
+          "dialogue": [{"speaker": "麥克德夫夫人", "text": "他把妻子兒女、宅第尊位一齊丟下，這算是明智嗎？最小的鷦鷯，也會為巢裡的雛鳥和貓頭鷹拚命！", "en": "He loves us not; he wants the natural touch: for the poor wren, the most diminutive of birds, will fight, her young ones in her nest, against the owl."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the grey-cloaked thane bowing out the doorway, unable to meet the woman's eyes, rain beginning outside",
+          "dialogue": [{"speaker": "洛斯", "text": "時世太冷酷了——我們自己還不知道，就已經蒙上了叛徒的惡名。", "en": "Cruel are the times, when we are traitors and do not know ourselves."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a bright-eyed boy perched on a bench by the fire swinging his legs, chin up, bantering with his mother",
+          "dialogue": [{"speaker": "麥克德夫子", "text": "爸爸沒有死。要是他真的死了，您會哭的；您不哭，我就有新爸爸了。", "en": "If he were dead, you'ld weep for him: if you would not, it were a good sign that I should quickly have a new father."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "a breathless messenger gripping the doorframe of the hall, terror in his eyes, the fire guttering in the draft",
+          "dialogue": [{"speaker": "使者", "text": "夫人，快帶著孩子逃——沒人道的事，就要落到您頭上了！", "en": "Be not found here; hence, with your little ones! To fright you thus, methinks, I am too savage."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "long murderers' shadows falling across the firelit hall floor, a mother pushing her small son behind her skirts",
+          "dialogue": [{"speaker": "刺客", "text": "你的丈夫呢？——他是個反賊。", "en": "Where is your husband? … He's a traitor."}, {"speaker": "麥克德夫子", "text": "你胡說，你這蓬頭的惡人！", "en": "Thou liest, thou shag-haired villain!"}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the castle hall seen from outside through a leaded window, only violent shadows on the wall, birds bursting from the eaves into a grey sky",
+          "dialogue": [{"speaker": "麥克德夫子", "text": "他殺死我了，媽媽——您快逃吧！", "en": "He has killed me, mother: run away, I pray you!"}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a quiet stone garden before an English palace, a young fair-haired prince in conversation with {characters} on a bench, autumn leaves drifting",
+          "dialogue": [{"speaker": "馬爾康", "text": "讓我們找一處荒涼的樹蔭，把胸中的悲哀哭個痛快吧。", "en": "Let us seek out some desolate shade, and there weep our sad bosoms empty."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters}, turned away with a fist against his chest, eyes fixed on the horizon toward a stormy north",
+          "dialogue": [{"speaker": "麥克德夫", "text": "流血吧，流血吧，苦難的祖國！", "en": "Bleed, bleed, poor country!"}],
+          "quote": {"text": "流血吧，流血吧，苦難的祖國", "en": "Bleed, bleed, poor country!"}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "a gaunt grey-cloaked thane arriving travel-stained in the garden, hat in hand, unable to speak, the birds gone silent",
+          "dialogue": [{"speaker": "麥克德夫", "text": "我的妻子好嗎？我的孩子們呢？", "en": "How does my wife? And all my children?"}, {"speaker": "洛斯", "text": "你的城堡受到襲擊。妻子、孩子、僕人——殺得，一個不存。", "en": "Your castle is surprised; your wife and babes savagely slaughtered."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "extreme close-up of a red-bearded face, hat brim pulled low over the eyes, one tear cutting a line through road dust",
+          "dialogue": [{"speaker": "馬爾康", "text": "用言語把悲傷傾洩出來吧。無言的哀痛，會叫不堪重壓的心裂成片片。", "en": "Give sorrow words: the grief that does not speak whispers the o'er-fraught heart and bids it break."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "{characters}, on his knees in the garden with fists clenched toward the sky, scattered autumn leaves whirling around him, grief tearing his face",
+          "dialogue": [{"speaker": "麥克德夫", "text": "我所有可愛的雞雛們，和他們的母親，一個也不存嗎？啊，地獄裡的惡鳥！——他自己，沒有兒女。", "en": "All my pretty ones? Did you say all? O hell-kite! All? … He has no children."}],
+          "quote": {"text": "我可愛的雞雛們，一個也不存嗎", "en": "All my pretty ones? Did you say all?"}
+        },
+        {
+          "weight": 0.35,
+          "prompt": "the young prince gripping the kneeling man's shoulder hard, jaw set",
+          "dialogue": [{"speaker": "馬爾康", "text": "把這仇恨作為磨快劍鋒的礪石。讓哀痛變成憤怒——激起你心裡的怒火來！", "en": "Be this the whetstone of your sword: let grief convert to anger; blunt not the heart, enrage it."}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters}, rising to his feet and drawing his sword, holding it point-down before him like a vow, wind tearing leaves through the garden",
+          "dialogue": [{"speaker": "麥克德夫", "text": "仁慈的上天，撤除一切障礙——讓我跟這蘇格蘭的惡魔正面相對，我的劍夠得到他就好！", "en": "Gentle heavens, cut short all intermission; front to front bring thou this fiend of Scotland and myself; within my sword's length set him."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "an army mustering before the English palace at dawn, war banners rising against the pale sky, heavy black title-card borders",
+          "dialogue": [{"speaker": "馬爾康", "text": "麥克白氣數將絕，天誅將至。黑夜無論怎樣悠長，白晝總會到來。", "en": "Macbeth is ripe for shaking, and the powers above put on their instruments. The night is long that never finds the day."}],
+          "quote": {"text": "黑夜無論怎樣悠長，白晝總會到來", "en": "The night is long that never finds the day."}
+        }
+      ]
+    }
+  ]
+}

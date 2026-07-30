@@ -1,0 +1,103 @@
+{
+  "title": "馬克白 2-3~4 門房與加冕",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "a drunken porter with a lantern and ale jug stumbling through a dark castle gatehouse, comically grumbling, the great door shaking with huge knocking, exaggerated cartoonish shadows",
+          "dialogue": [{"speaker": "音效", "text": "咚！咚！咚！", "en": "KNOCK! KNOCK! KNOCK!"}, {"speaker": "門房", "text": "敲，敲！憑著魔鬼的名義，誰在那兒？要是在地獄裡當管門人，光拔閂開鎖就夠他忙的了。", "en": "Knock, knock! Who's there, i' th' name of Beelzebub? If a man were porter of hell-gate, he should have old turning the key."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the porter swinging the great gate open with a mock bow, cold grey morning light flooding in over two cloaked noblemen",
+          "dialogue": [{"speaker": "門房", "text": "可是這兒太冷，當不成地獄。請記著我這看門的。", "en": "But this place is too cold for hell. I pray you, remember the porter."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "Macduff, a burly thane with a thick unkempt red-brown beard, a jagged boar-tusk pendant at his neck, in a weathered grey-green tartan cloak, standing at the castle gate in morning light, impatient",
+          "dialogue": [{"speaker": "麥克德夫", "text": "王上叫我一早就來叫他——我幾乎誤了時間。", "en": "He did command me to call timely on him: I have almost slipped the hour."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "a tall dark-haired lord in a hastily thrown-on robe greeting guests in a stone corridor, eyes shadowed and sleepless, gesturing toward a door",
+          "dialogue": [{"speaker": "馬克白", "text": "我帶您去看王上。……這門裡就是。", "en": "I'll bring you to him. … This is the door."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "a windswept castle corridor, tapestries billowing, a young nobleman glancing uneasily at the storm-damaged rafters",
+          "dialogue": [{"speaker": "列諾克斯", "text": "昨晚的暴風把煙囪都吹倒了——還有人聽見空中有哀哭的聲音。", "en": "The night has been unruly: chimneys were blown down, and lamentings heard i' th' air."}, {"speaker": "馬克白", "text": "果然是一個可怕的晚上。", "en": "'Twas a rough night."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "Macduff, red-brown wild beard, boar-tusk pendant, bursting from a royal bedchamber with face white with horror, screaming down a torchlit corridor, servants recoiling",
+          "dialogue": [{"speaker": "麥克德夫", "text": "可怕！可怕！可怕！大逆不道的兇手，打開了王上的聖殿，把生命偷走了！", "en": "O horror, horror, horror! Most sacrilegious murder hath broke ope the Lord's anointed temple, and stole thence the life o' the building!"}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "an alarm bell swinging wildly in a stone bell tower against a bruised dawn sky, crows scattering",
+          "dialogue": [{"speaker": "麥克德夫", "text": "醒來！醒來！敲起警鐘——起來瞧瞧世界末日的影子！", "en": "Awake, awake! Ring the alarum-bell! Up, up, and see the great doom's image!"}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "torchlit royal bedchamber doorway, a dark-haired lord standing over two slain grooms with a dripping dagger, stunned courtiers crowding the doorway behind him",
+          "dialogue": [{"speaker": "馬克白", "text": "我後悔一時魯莽把他們殺了——可是誰能在驚愕之中保持冷靜，在忠憤之中保持鎮定？", "en": "O, yet I do repent me of my fury, that I did kill them. Who can be wise, amazed, temperate and furious, loyal and neutral, in a moment?"}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Lady Macbeth, pale noblewoman with long straight black hair, in a deep crimson gown with a high collar, swooning backward into attendants' arms, watched sidelong by a braided-bearded warrior with narrowed eyes",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "啊，快來扶我進去！", "en": "Help me hence, ho!"}, {"speaker": "班柯（內心）", "text": "我一定要從尚未揭發的假面具下面，探出叛逆的陰謀。", "en": "Against the undivulged pretence I fight of treasonous malice."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "two young princes whispering urgently in a dark stable, saddling horses by a single lantern, straw and long shadows",
+          "dialogue": [{"speaker": "馬爾康", "text": "假裝悲哀，是奸人的拿手好戲。我去英格蘭。", "en": "To show an unfelt sorrow is an office which the false man does easy. I'll to England."}, {"speaker": "道納本", "text": "我去愛爾蘭。這裡的人，笑臉裡都藏著利刃。", "en": "To Ireland, I. There's daggers in men's smiles."}],
+          "quote": {"text": "這裡的人，笑臉裡都藏著利刃", "en": "There's daggers in men's smiles."}
+        },
+        {
+          "weight": 0.5,
+          "prompt": "two riders galloping out of a castle gate in opposite directions under a blood-streaked dawn sky",
+          "dialogue": [{"speaker": "旁白", "text": "殺人的利箭已經射出——避開它的目標，是唯一的活路。", "en": "This murderous shaft that's shot hath not yet lighted, and our safest way is to avoid the aim."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "an ancient white-haired man and a thane in a grey travel-stained cloak talking outside castle walls under an unnaturally dark daytime sky, a dead falcon on the ground with an owl perched above it, two horses fighting in a far field",
+          "dialogue": [{"speaker": "老翁", "text": "活了七十年，沒見過這樣的夜晚。白晝變成了黑夜，鷹被貓頭鷹啄死——鄧肯的馬，吃了自己的同類。", "en": "Threescore and ten I can remember well … A falcon was by a mousing owl hawked at and killed; and Duncan's horses ate each other."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "black-bordered title-card style panel, a small distant vignette of a crown being lowered onto a shadowed head in an abbey, heavy blacks all around",
+          "dialogue": [{"speaker": "旁白", "text": "王位落到了馬克白頭上，加冕在斯貢。麥克德夫沒有去觀禮——他回費輔去了。", "en": "Macbeth is named king, and crowned at Scone. Macduff is gone home to Fife."}]
+        }
+      ]
+    }
+  ]
+}

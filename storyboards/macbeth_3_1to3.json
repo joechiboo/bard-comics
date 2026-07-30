@@ -1,0 +1,100 @@
+{
+  "title": "馬克白 3-1~3 刺殺班柯",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "{characters}, standing alone in a torchlit palace gallery at dawn, arms crossed, staring at a distant empty throne",
+          "dialogue": [{"speaker": "班柯", "text": "國王、考特、葛萊密斯——你都如願以償了。只怕，你得到富貴的手段不大正當。", "en": "Thou hast it now: King, Cawdor, Glamis, all, as the weird women promised, and I fear thou play'dst most foully for't."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "a crowned king and a queen in a deep crimson gown sweeping into the gallery with courtiers, the king's smile wide and cold",
+          "dialogue": [{"speaker": "馬克白", "text": "將軍，今晚的盛宴，請你千萬出席。", "en": "Fail not our feast."}, {"speaker": "班柯", "text": "謹遵陛下命令。", "en": "My lord, I will not."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "close two-shot in the gallery, the crowned king asking casually with glittering eyes, a braided-bearded warrior in half-armor pulling on riding gloves",
+          "dialogue": [{"speaker": "馬克白", "text": "今天下午要騎馬去嗎？要騎到很遠的地方？……弗里恩斯也跟著你去？", "en": "Ride you this afternoon? Is't far you ride? … Goes Fleance with you?"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "a braided-bearded warrior and a young boy riding out of the palace gate below, watched from a high window by a crowned figure whose reflection is fractured in the leaded glass",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "除了他，我什麼人都不怕——只有他的存在，使我惴惴不安。", "en": "There is none but he whose being I do fear: and under him my genius is rebuked."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "a crowned king alone on his throne in a darkened hall, gripping the sceptre white-knuckled, a spectral procession of crowned children marching through the shadows of his imagination",
+          "dialogue": [{"speaker": "馬克白", "text": "她們把一頂沒有後嗣的王冠戴在我頭上，一根沒有人繼承的御杖放在我手裡。我玷汙了自己的手——只是為了班柯的後裔！", "en": "Upon my head they placed a fruitless crown, and put a barren sceptre in my gripe. … For Banquo's issue have I filed my mind."}],
+          "quote": {"text": "沒有後嗣的王冠，沒有人繼承的御杖", "en": "A fruitless crown, a barren sceptre."}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "two rough scarred murderers kneeling before the throne in a pool of torchlight, the crowned king leaning down toward them out of darkness",
+          "dialogue": [{"speaker": "馬克白", "text": "班柯是你們的仇人，也是我的。今晚動手——宮門外一哩之內。弗里恩斯也不能留。", "en": "Banquo was your enemy. So is he mine. It must be done tonight, and something from the palace. Fleance must embrace the fate of that dark hour."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a queen in a deep crimson high-collared gown standing at a dark window, her reflection pale and hollow, the crown lying heavy on the table beside her",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "費盡了一切，結果還是一無所得。目的雖然達到，卻一點不感覺滿足。", "en": "Naught's had, all's spent, where our desire is got without content."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "a crowned king clutching his own head at a table, huge shadows of scorpions crawling across the stone wall behind him",
+          "dialogue": [{"speaker": "馬克白", "text": "我的頭腦裡充滿著蠍子，親愛的妻子！你知道，班柯和他的弗里恩斯還在人間。", "en": "O, full of scorpions is my mind, dear wife! Thou know'st that Banquo, and his Fleance, lives."}],
+          "quote": {"text": "我的頭腦裡充滿著蠍子", "en": "O, full of scorpions is my mind."}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "three cloaked murderers crouched behind a hedge along a park road at dusk, the last streak of daylight dying in the west",
+          "dialogue": [{"speaker": "刺客甲", "text": "西方還閃著一線白晝的餘暉。聽——馬蹄聲。目標來了。", "en": "The west yet glimmers with some streaks of day. Hark! I hear horses."}]
+        },
+        {
+          "weight": 0.55,
+          "prompt": "a torch flaring on the dark road, {characters}, walking his horse beside a young boy with a torch, cloaked shadows leaping from the hedge with drawn blades",
+          "dialogue": [{"speaker": "班柯", "text": "今晚恐怕要下雨。", "en": "It will be rain tonight."}, {"speaker": "刺客甲", "text": "讓它下吧！", "en": "Let it come down."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "{characters}, falling under murderers' blades on the dark road, with his last strength shoving a young boy away into the night, the dropped torch guttering on wet ground",
+          "dialogue": [{"speaker": "班柯", "text": "陰謀！快逃，好弗里恩斯——逃，逃，逃！你也許可以替我報仇！", "en": "O, treachery! Fly, good Fleance, fly, fly, fly! Thou mayst revenge."}],
+          "quote": {"text": "逃，好弗里恩斯，逃！", "en": "Fly, good Fleance, fly!"}
+        },
+        {
+          "weight": 0.35,
+          "prompt": "the torch extinguished in mud, a small figure vanishing into black woods, three murderers staring after him in the sudden dark",
+          "dialogue": [{"speaker": "刺客丙", "text": "誰把火滅了？只有一個人倒下——那兒子，逃了。", "en": "Who did strike out the light? There's but one down; the son is fled."}, {"speaker": "旁白", "text": "預言的種子，逃進了黑夜。", "en": "The prophecy's seed escapes into the night."}]
+        }
+      ]
+    }
+  ]
+}

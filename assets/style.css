@@ -16,6 +16,10 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* 全域連結底色：任何沒被特別指定的 <a>（含 :visited）都走金色，
+   不讓瀏覽器預設的藍/紫跑出來破壞舞台色調 */
+a, a:visited { color: var(--gold); }
+
 body {
   background:
     radial-gradient(ellipse 120% 70% at 50% -10%, var(--spot) 0%, var(--stage) 60%),

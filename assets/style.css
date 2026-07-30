@@ -103,6 +103,41 @@ main {
   height: 3px;
 }
 
+/* ── 幕次分組 ── */
+.act + .act { margin-top: 3rem; }
+
+.act-head {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+.act-head::before,
+.act-head::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  height: 3px;
+}
+.act-head .act-label {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  text-indent: 0.3em;
+  color: var(--gold);
+}
+.act-head .latin {
+  display: block;
+  font-family: var(--font-latin);
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.45em;
+  text-indent: 0.45em;
+  color: var(--gold-dim);
+  margin-top: 0.25rem;
+}
+
 /* ── 節目條目 ── */
 .cards { list-style: none; display: flex; flex-direction: column; gap: 1.4rem; }
 
@@ -135,12 +170,14 @@ a.card:hover {
 .card .bill.soon { color: var(--muted); }
 .card .bill.now { color: var(--gold); }
 
-.card h2 {
+.card h2,
+.card h3 {
   font-size: 1.35rem;
   font-weight: 700;
   letter-spacing: 0.1em;
 }
-.card h2 .latin {
+.card h2 .latin,
+.card h3 .latin {
   display: block;
   font-family: var(--font-latin);
   font-size: 0.6em;
@@ -158,6 +195,30 @@ a.card:hover {
 }
 
 .card.disabled { opacity: 0.5; }
+
+/* ── 漫畫頁閱讀 ── */
+.draft-note {
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  color: var(--crimson);
+  border: 1px solid var(--rule);
+  padding: 0.5rem 1rem;
+  margin-bottom: 1.8rem;
+  display: inline-block;
+}
+
+.comic-pages {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+.comic-pages img {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  border: 1px solid var(--rule);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.5);
+}
 
 /* ── 頁尾 ── */
 footer {

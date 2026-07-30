@@ -89,7 +89,7 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "{characters} cupping the face of Macbeth, a broad-shouldered warrior with a pale diagonal scar across his left cheek, whispering to him, their shadows on the wall behind forming a serpent coiled beneath a flower",
+          "prompt": "medium two-shot in full profile, {characters} reaching up to cup the face of Macbeth, a broad-shouldered warrior with a pale diagonal scar across his left cheek, both figures entirely in frame facing each other, their shadows on the wall behind forming a serpent coiled beneath a flower",
           "dialogue": [{"speaker": "夫人", "text": "您的臉像一本書，寫滿了奇怪的事。要騙過世人，就得裝出跟世人一樣的神氣——瞧著像純潔的花，花瓣底下卻藏著毒蛇。", "en": "Your face, my thane, is as a book where men may read strange matters… Look like the innocent flower, but be the serpent under 't."}]
         },
         {
@@ -170,7 +170,7 @@
         },
         {
           "weight": 0.6,
-          "prompt": "{characters} with a terrifying tender expression, arms curved as if cradling an invisible infant, her shadow on the wall huge and distorted",
+          "prompt": "high angle looking straight down, {characters} kneeling on the stone floor with arms curved as if cradling an invisible infant, her huge distorted shadow thrown long across the floorboards toward the viewer",
           "dialogue": [{"speaker": "夫人", "text": "我哺育過嬰孩，知道母親怎樣憐愛吮乳的孩子。可要是我像你一樣發過誓——我會在他對我微笑的時候，砸碎他的腦袋。", "en": "I have given suck… I would, while it was smiling in my face, have plucked my nipple from his boneless gums and dashed the brains out, had I so sworn as you have done to this."}]
         }
       ]

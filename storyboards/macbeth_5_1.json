@@ -13,7 +13,7 @@
         },
         {
           "weight": 0.55,
-          "prompt": "{characters}, gliding down a dark stone staircase, candlelight hollowing her pale face, eyes wide open and unseeing",
+          "prompt": "view from behind a stone pillar, the doctor and gentlewoman as dark foreground silhouettes watching {characters} glide past through the distant hall, her candle the only point of light in the blackness",
           "dialogue": [{"speaker": "侍女", "text": "您瞧，她來了。眼睛睜著——視覺卻關著。", "en": "You see, her eyes are open. Ay, but their sense is shut."}]
         }
       ]
@@ -23,7 +23,7 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "extreme close-up of pale slender hands rubbing each other obsessively over a candle flame, faint dark stains on the skin that will not leave",
+          "prompt": "extreme close-up of pale slender hands rubbing each other obsessively over a candle flame, bright red blood stains on her small pale hands that will not leave",
           "dialogue": [{"speaker": "馬克白夫人", "text": "去，該死的血跡！去吧！", "en": "Out, damned spot! Out, I say!"}],
           "quote": {"text": "去，該死的血跡！去吧！", "en": "Out, damned spot!"}
         },
@@ -39,7 +39,7 @@
       "panels": [
         {
           "weight": 0.7,
-          "prompt": "{characters}, holding one small hand up before her face in candlelight as if smelling it, despair twisting her features, absolute darkness pressing in around the candle glow",
+          "prompt": "side profile extreme close-up, {characters} lifting the back of her small hand toward her nose, candlelight from below carving her face out of absolute darkness, despair twisting her features",
           "dialogue": [{"speaker": "馬克白夫人", "text": "這兒還有一股血腥氣。所有阿拉伯的香料，都不能叫這隻小手變得香一點。啊！啊！", "en": "Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. O, O, O!"}],
           "quote": {"text": "所有阿拉伯的香料都薰不香這隻小手", "en": "All the perfumes of Arabia will not sweeten this little hand."}
         },
@@ -55,7 +55,7 @@
       "panels": [
         {
           "weight": 0.55,
-          "prompt": "{characters}, whispering earnestly to an empty dark corridor, one hand beckoning to no one, the candle guttering",
+          "prompt": "very wide shot down a long pitch-black vaulted corridor, a tiny white-gowned figure with a guttering candle at the far end, whispering and beckoning to the empty darkness",
           "dialogue": [{"speaker": "馬克白夫人", "text": "洗淨你的手，披上你的睡衣，別這樣面無人色——班柯已經下葬了，他不會從墳墓裡出來的。", "en": "Wash your hands, put on your nightgown; look not so pale. I tell you yet again, Banquo's buried; he cannot come out on's grave."}]
         },
         {

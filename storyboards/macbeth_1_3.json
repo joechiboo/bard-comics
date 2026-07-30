@@ -139,12 +139,12 @@
       "panels": [
         {
           "weight": 0.5,
-          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, standing apart from the others in the foreground, face half-swallowed by shadow, a spectral crown glimmering faintly in the dark storm clouds above him",
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, standing apart from the others in the foreground, face half-swallowed by shadow, staring down at a dark rain puddle at his feet, inside the puddle his blurred reflection wears a glowing crown, rippling water distorting the reflected image, storm clouds overhead",
           "dialogue": [{"speaker": "馬克白（內心）", "text": "葛萊密斯，考特……最大的尊榮還在後頭。這啟示不是凶兆，也不像吉兆——可為什麼那個念頭，讓我毛髮悚然、心跳失了常態？", "en": "Glamis, and Thane of Cawdor: the greatest is behind… Why do I yield to that suggestion whose horrid image doth unfix my hair and make my seated heart knock at my ribs?"}]
         },
         {
           "weight": 0.25,
-          "prompt": "Banquo, a sturdy warrior with a thick braided beard, watching Macbeth from behind with narrowed eyes, two thanes waiting further back in the fog",
+          "prompt": "over-the-shoulder shot from behind Banquo's braided-bearded head in near foreground, the small distant figure of Macbeth walking away into thick fog, two thanes as faint shapes far behind",
           "dialogue": [{"speaker": "班柯", "text": "瞧，我們的同伴想得出神了。新尊榮像新衣服——穿慣以前，總不合身。", "en": "Look how our partner's rapt. New honors come upon him, like our strange garments, cleave not to their mold but with the aid of use."}]
         },
         {

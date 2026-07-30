@@ -57,6 +57,14 @@
 }
 .pager button:hover { border-color: var(--gold); }
 .pager button:disabled { color: var(--muted); opacity: 0.5; cursor: default; border-color: var(--rule); }
+
+/* 跳章鈕：雙框做出區隔 */
+.pager .scene-btn {
+  outline: 1px solid var(--rule);
+  outline-offset: 2px;
+  font-size: 0.85rem;
+}
+.pager .scene-btn:hover:enabled { outline-color: var(--gold-dim); }
 .pager .page-indicator {
   font-family: var(--font-latin);
   font-size: 0.85rem;

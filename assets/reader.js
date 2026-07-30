@@ -14,6 +14,7 @@
   var btnPaged = document.getElementById("mode-paged");
   var btnPrev = document.getElementById("prev");
   var btnNext = document.getElementById("next");
+  var btnScene = document.getElementById("next-scene");
   var sceneEnd = document.getElementById("scene-end");
   // 下一場已上線時在 #reader 加 data-next-url / data-next-label，最後一頁的「下一頁」變「下一場」
   var nextUrl = reader.getAttribute("data-next-url");
@@ -56,6 +57,16 @@
   btnPaged.addEventListener("click", function () { setMode(true); });
   btnPrev.addEventListener("click", function () { show(cur - 1, true); });
   btnNext.addEventListener("click", goNext);
+
+  if (btnScene) {
+    if (nextUrl) {
+      btnScene.textContent = nextLabel + " »";
+      btnScene.addEventListener("click", function () { window.location.href = nextUrl; });
+    } else {
+      btnScene.disabled = true;
+      btnScene.title = "下一場製作中";
+    }
+  }
 
   imgs.forEach(function (im) {
     im.addEventListener("click", function (e) {

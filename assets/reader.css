@@ -63,3 +63,33 @@
   letter-spacing: 0.2em;
   color: var(--muted);
 }
+
+/* ── 完場導引：卷軸模式恆顯示；翻頁模式只在最後一頁出現 ── */
+.scene-end { margin-top: 2.4rem; }
+.comic-pages.paged ~ .scene-end { display: none; }
+.comic-pages.paged ~ .scene-end.show { display: block; }
+
+.scene-end .fin {
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.5em;
+  text-indent: 0.5em;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+.scene-end .next-scene {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+}
+.scene-end .next-scene a {
+  color: var(--gold);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--gold-dim);
+  padding-bottom: 0.1rem;
+}
+.scene-end .next-scene a:hover { border-bottom-style: solid; border-color: var(--gold); }
+.scene-end .next-scene .soon { color: var(--muted); }

@@ -14,17 +14,32 @@
   var btnPaged = document.getElementById("mode-paged");
   var btnPrev = document.getElementById("prev");
   var btnNext = document.getElementById("next");
+  var sceneEnd = document.getElementById("scene-end");
+  // 下一場已上線時在 #reader 加 data-next-url / data-next-label，最後一頁的「下一頁」變「下一場」
+  var nextUrl = reader.getAttribute("data-next-url");
+  var nextLabel = reader.getAttribute("data-next-label") || "下一場";
   var cur = 0;
   var paged = false;
 
   function show(i, scroll) {
     cur = Math.max(0, Math.min(imgs.length - 1, i));
+    var last = cur === imgs.length - 1;
     imgs.forEach(function (im, k) { im.classList.toggle("current", k === cur); });
     indicator.textContent = (cur + 1) + " ／ " + imgs.length;
     btnPrev.disabled = cur === 0;
-    btnNext.disabled = cur === imgs.length - 1;
+    btnNext.disabled = last && !nextUrl;
+    btnNext.textContent = last && nextUrl ? nextLabel + " →" : "下一頁 →";
+    if (sceneEnd) sceneEnd.classList.toggle("show", last);
     if (imgs[cur + 1]) { (new Image()).src = imgs[cur + 1].src; } // 預載下一頁
     if (scroll) reader.scrollIntoView({ block: "start" });
+  }
+
+  function goNext() {
+    if (cur === imgs.length - 1) {
+      if (nextUrl) window.location.href = nextUrl;
+      return;
+    }
+    show(cur + 1, true);
   }
 
   function setMode(p) {
@@ -40,20 +55,20 @@
   btnScroll.addEventListener("click", function () { setMode(false); });
   btnPaged.addEventListener("click", function () { setMode(true); });
   btnPrev.addEventListener("click", function () { show(cur - 1, true); });
-  btnNext.addEventListener("click", function () { show(cur + 1, true); });
+  btnNext.addEventListener("click", goNext);
 
   imgs.forEach(function (im) {
     im.addEventListener("click", function (e) {
       if (!paged) return;
       var rect = im.getBoundingClientRect();
-      show(e.clientX - rect.left < rect.width / 2 ? cur - 1 : cur + 1, true);
+      if (e.clientX - rect.left < rect.width / 2) { show(cur - 1, true); } else { goNext(); }
     });
   });
 
   document.addEventListener("keydown", function (e) {
     if (!paged) return;
     if (e.key === "ArrowLeft") show(cur - 1, true);
-    if (e.key === "ArrowRight") show(cur + 1, true);
+    if (e.key === "ArrowRight") goNext();
   });
 
   var saved = null;

@@ -1,0 +1,91 @@
+:root {
+  --bg: #faf7f2;
+  --card: #ffffff;
+  --ink: #2b2620;
+  --muted: #8a7f70;
+  --accent: #8b2635;
+  --border: #e6ded2;
+  --shadow: 0 2px 8px rgba(43, 38, 32, 0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1915;
+    --card: #262119;
+    --ink: #ece5da;
+    --muted: #9b9184;
+    --accent: #d4737f;
+    --border: #3a332a;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  }
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Noto Serif TC", "PMingLiU", Georgia, serif;
+  line-height: 1.7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  width: min(720px, 92vw);
+  margin: 0 auto;
+  flex: 1;
+  padding: 3rem 0 4rem;
+}
+
+.crumbs {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 2.5rem;
+  font-family: system-ui, sans-serif;
+}
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); }
+
+h1 { font-size: 2rem; letter-spacing: 0.05em; margin-bottom: 0.4rem; }
+.tagline { color: var(--muted); margin-bottom: 3rem; }
+
+.cards { display: flex; flex-direction: column; gap: 1rem; list-style: none; }
+
+.card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.3rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+a.card:hover { transform: translateY(-2px); border-color: var(--accent); }
+
+.card h2 { font-size: 1.25rem; display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
+.card p { color: var(--muted); font-size: 0.92rem; margin-top: 0.3rem; }
+.card.disabled { opacity: 0.55; }
+
+.badge {
+  font-family: system-ui, sans-serif;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  white-space: nowrap;
+}
+.badge.soon { border-color: var(--muted); color: var(--muted); }
+
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--muted);
+  padding: 1.5rem 0;
+  font-family: system-ui, sans-serif;
+}
+footer a { color: var(--muted); }

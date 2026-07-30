@@ -1,0 +1,73 @@
+{
+  "title": "馬克白 1-4 立儲",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "interior of a medieval Scottish palace hall at Forres, banners and torches, elderly King Duncan with a long white beard, gold crown, fur-trimmed deep blue robe seated on a throne, courtiers below",
+          "dialogue": [{"speaker": "鄧肯", "text": "考特的死刑，執行完畢了嗎？", "en": "Is execution done on Cawdor?"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "young prince Malcolm, clean-shaven, short fair hair, thin gold circlet, reporting to the throne with a solemn face",
+          "dialogue": [{"speaker": "馬爾康", "text": "他坦白認罪，深切悔恨，從容就死——他一生行事，沒有比臨終時更得體的了。", "en": "Nothing in his life became him like the leaving it."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "elderly King Duncan with a long white beard gazing down ruefully, while in the background {characters} enters the hall through a great doorway",
+          "dialogue": [{"speaker": "鄧肯", "text": "世上沒有一種方法，能從一個人的臉上探察他的居心。他是我絕對信任過的人……", "en": "There's no art to find the mind's construction in the face: he was a gentleman on whom I built an absolute trust."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "elderly King Duncan with a long white beard, gold crown, stepping down from his throne to clasp the shoulders of {characters}, warm torchlight",
+          "dialogue": [{"speaker": "鄧肯", "text": "最值得欽佩的表弟！你的功勞太超越尋常，飛得最快的報酬都追不上你。", "en": "O worthiest cousin! ... More is thy due than more than all can pay."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} kneeling with his head bowed before the king, beside him Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, standing at ease",
+          "dialogue": [{"speaker": "馬克白", "text": "為陛下盡忠效命，它本身就是酬報。", "en": "The service and the loyalty I owe, in doing it, pays itself."}, {"speaker": "鄧肯", "text": "尊貴的班柯，你的功勞也不在他之下——讓我把你擁抱在心頭。", "en": "Noble Banquo, that hast no less deserved... let me infold thee and hold thee to my heart."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "elderly King Duncan with a long white beard, gold crown, raising the hand of young prince Malcolm, clean-shaven, short fair hair, thin gold circlet, before the assembled court, trumpets and banners",
+          "dialogue": [{"speaker": "鄧肯", "text": "我向你們宣布——立長子馬爾康為儲君，冊封肯勃蘭親王！", "en": "We will establish our estate upon our eldest, Malcolm, whom we name hereafter the Prince of Cumberland."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "close-up of {characters} frozen mid-bow among the applauding courtiers, his eyes sunk in shadow while his mouth keeps a courteous smile",
+          "dialogue": [{"speaker": "馬克白", "text": "讓我先行一步回去，把陛下光臨的喜訊報告我的妻子。就此告辭。", "en": "I'll be myself the harbinger, and make joyful the hearing of my wife with your approach."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "{characters} standing alone in a dark palace courtyard at night, a sky full of cold stars above him, his long shadow stretching toward the viewer, half his face swallowed by darkness",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "肯勃蘭親王！這是橫在我前路的一塊階石——我得跳過去，不然就栽在它上面。", "en": "The Prince of Cumberland! That is a step on which I must fall down, or else o'erleap, for in my way it lies."}],
+          "quote": {"text": "星星啊，收起你們的火焰，別讓光照見我黑暗的欲望", "en": "Stars, hide your fires; let not light see my black and deep desires."}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "back in the warm bright hall, elderly King Duncan with a long white beard laughing with Banquo, a sturdy warrior with a thick braided beard, both unaware, wine cups raised",
+          "dialogue": [{"speaker": "鄧肯", "text": "真是英勇非凡的國戚！他先回去替我們預備款待了——跟上去吧。", "en": "It is a peerless kinsman. ... Let's after him, whose care is gone before to bid us welcome."}]
+        }
+      ]
+    }
+  ]
+}

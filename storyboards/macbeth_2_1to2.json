@@ -1,0 +1,139 @@
+{
+  "title": "馬克白 2-1~2 弒君之夜",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "castle courtyard at dead of night, a starless pitch-black sky above the battlements, one small torch flame, two figures walking",
+          "dialogue": [{"speaker": "班柯", "text": "孩子，夜過了幾更了？", "en": "How goes the night, boy?"}, {"speaker": "弗里恩斯", "text": "月亮下去了，還沒聽見打鐘。", "en": "The moon is down; I have not heard the clock."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, handing his sword to Fleance, a slender boy carrying a torch, while glancing uneasily at the black sky",
+          "dialogue": [{"speaker": "班柯", "text": "天上也講究節儉，把燈燭全熄了……慈悲的神明啊，抑制那些罪惡的思想，別讓它們潛入我的睡夢！", "en": "There's husbandry in heaven; their candles are all out... Merciful powers, restrain in me the cursed thoughts that nature gives way to in repose!"}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "torchlight revealing {characters} emerging from the dark colonnade, Banquo's hand instinctively on his sword hilt",
+          "dialogue": [{"speaker": "班柯", "text": "——誰？", "en": "Who's there?"}, {"speaker": "馬克白", "text": "一個朋友。", "en": "A friend."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "Banquo, a sturdy warrior with a thick braided beard, speaking in a low voice, holding up a jeweled diamond that catches the torchlight",
+          "dialogue": [{"speaker": "班柯", "text": "王上睡了，他今天非常高興——這顆金剛鑽，是他送給尊夫人的。……昨晚我夢見那三個女巫。她們對您說的話，有幾分應驗了。", "en": "The King's a-bed... I dreamt last night of the three weird sisters: to you they have showed some truth."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of {characters} with half his face in deep shadow, a too-casual expression",
+          "dialogue": [{"speaker": "馬克白", "text": "我沒有想到她們。……等有了工夫再談吧。請安息。", "en": "I think not of them... Good repose the while."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "{characters} alone in a vast dark hall, a spectral glowing dagger floating in the air before him, its handle turned toward his hand, he reaches for it with trembling fingers",
+          "dialogue": [{"speaker": "馬克白", "text": "在我面前搖晃、刀柄對著我的手的——不是一把刀子嗎？來，讓我抓住你！", "en": "Is this a dagger which I see before me, the handle toward my hand? Come, let me clutch thee."}],
+          "quote": {"text": "這是一把刀子嗎，在我眼前晃動？", "en": "Is this a dagger which I see before me?"}
+        },
+        {
+          "weight": 0.35,
+          "prompt": "his armored hand passing straight through the spectral dagger, and now thick drops of blood forming on its blade and hilt",
+          "dialogue": [{"speaker": "馬克白", "text": "抓不到你，卻仍舊看見你……你的刃上、柄上，還流著一滴滴剛才沒有的血！——沒有這樣的事，是殺人的惡念讓我看見這種異象。", "en": "I have thee not, and yet I see thee still... on thy blade and dudgeon gouts of blood, which was not so before. There's no such thing: it is the bloody business which informs thus to mine eyes."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters} stalking barefoot-quiet through a sleeping castle corridor, his shadow on the wall stretching into the shape of a gaunt wolf, sleeping servants unaware",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "堅固的大地啊，別聽我的腳步聲往哪裡去——我怕連磚石都會洩漏我的行蹤。", "en": "Thou sure and firm-set earth, hear not my steps, which way they walk, for fear thy very stones prate of my whereabout."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "a small bell swinging in the darkness, below it {characters} at the foot of a staircase leading up to the king's chamber door, one hand on the rail, face resolute",
+          "dialogue": [{"speaker": "音效", "text": "噹———", "en": "DONG—"}, {"speaker": "馬克白", "text": "鐘聲在招引我。不要聽它，鄧肯——這是召喚你上天堂、或下地獄的喪鐘。", "en": "The bell invites me. Hear it not, Duncan, for it is a knell that summons thee to heaven or to hell."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a deep crimson gown with a high collar, alone by a dying fire, cheeks flushed with wine, listening intently",
+          "dialogue": [{"speaker": "夫人", "text": "酒醉倒了他們，卻點起了我的火。聽——夜梟在啼，牠正鳴著喪鐘。……他動手了。", "en": "That which hath made them drunk hath made me bold... It was the owl that shrieked, the fatal bellman... He is about it."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "an almost entirely black panel, only the silhouette of an owl with spread wings crossing a sliver of moonlight",
+          "dialogue": [{"speaker": "音效", "text": "嘎———！", "en": "SHRIEK—!"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "Lady Macbeth in the crimson gown starting upright at a muffled voice, one hand gripping the mantel, knuckles white",
+          "dialogue": [{"speaker": "馬克白（畫外）", "text": "誰？……喂？", "en": "Who's there? What, ho!"}, {"speaker": "夫人", "text": "噯喲——要是他們醒了、事情還沒辦好……毀掉我們的不是罪行，是失敗的企圖！倘不是他睡著的樣子像我的父親，我早就自己動手了。", "en": "Alack, I am afraid they have awaked, and 'tis not done... Had he not resembled my father as he slept, I had done 't."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "{characters} descending a dark staircase toward the viewer, a bloody dagger hanging from each hand, his eyes hollow and unfocused",
+          "dialogue": [{"speaker": "馬克白", "text": "我把事情……辦好了。你沒聽見一個聲音嗎？", "en": "I have done the deed. Didst thou not hear a noise?"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "close-up of two blood-covered hands raised before a horrified face, blood running down the wrists into the armor",
+          "dialogue": [{"speaker": "馬克白", "text": "一個喊「上帝保佑我們」，一個喊「阿門」……我想跟著說「阿門」，卻哽在喉頭，怎麼也說不出來。", "en": "One cried 'God bless us!' and 'Amen' the other... I could not say 'Amen' when they did say 'God bless us.'"}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "{characters} clutching his head in the darkness, surrounded by spectral screaming faces swirling in the black air around him, horror composition",
+          "dialogue": [{"speaker": "馬克白", "text": "我彷彿聽見一個聲音喊：「不要再睡了！馬克白已經殺害了睡眠——葛萊密斯殺害了睡眠，考特再也得不到睡眠，馬克白，再也得不到睡眠！」", "en": "Methought I heard a voice cry 'Sleep no more! Macbeth does murder sleep'... 'Glamis hath murdered sleep, and therefore Cawdor shall sleep no more; Macbeth shall sleep no more.'"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "Lady Macbeth in the deep crimson gown snatching the two bloody daggers from his frozen hands, her face cold and set",
+          "dialogue": [{"speaker": "夫人", "text": "意志動搖的人！刀子給我。睡著的和死了的不過是畫像——只有小孩才怕畫裡的魔鬼。", "en": "Infirm of purpose! Give me the daggers: the sleeping and the dead are but as pictures; 'tis the eye of childhood that fears a painted devil."}]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "{characters} staring at his outstretched bloody hands, behind him a visionary ocean rising in the darkness, its waves turning dark red where they touch him",
+          "dialogue": [{"speaker": "馬克白", "text": "不——是我這手上的血，要把無垠的碧海，染成一片殷紅。", "en": "No, this my hand will rather the multitudinous seas incarnadine, making the green one red."}, {"speaker": "音效", "text": "叩！叩！", "en": "KNOCK! KNOCK!"}],
+          "quote": {"text": "大洋裡所有的水，能洗淨我手上的血跡嗎", "en": "Will all great Neptune's ocean wash this blood clean from my hand?"}
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Lady Macbeth in the crimson gown, her hands now bloody too, pulling the dazed warrior toward a doorway as knocking echoes, both looking back over their shoulders",
+          "dialogue": [{"speaker": "夫人", "text": "我的手也跟你同色了——可我的心，羞於像你那樣慘白。一點點水就能泯除痕跡。披上睡衣，走！", "en": "My hands are of your color, but I shame to wear a heart so white... A little water clears us of this deed."}, {"speaker": "馬克白", "text": "用你的敲門聲把鄧肯敲醒吧——我但願你能敲醒他！", "en": "Wake Duncan with thy knocking! I would thou couldst!"}]
+        }
+      ]
+    }
+  ]
+}

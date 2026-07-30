@@ -286,11 +286,12 @@ def main():
     sb_path = sys.argv[1] if len(sys.argv) > 1 else "storyboards/macbeth_1_1.json"
     sb = json.loads(Path(sb_path).read_text(encoding="utf-8"))
     print(f"== {sb['title']} ({PROVIDER}) ==")
+    scene = Path(sb_path).stem  # 檔名帶場次前綴，多場輸出才不互蓋
     for page_def in sb["pages"]:
         n = page_def["page"]
         print(f"[Page {n}]")
         img = build_page(page_def, sb.get("style_suffix", ""), sb.get("characters", ""))
-        out = OUT / f"page_{n:02d}.png"
+        out = OUT / f"{scene}_page_{n:02d}.png"
         img.save(out)
         print(f"    -> {out}")
     print("完成，去 pages/ 資料夾校稿。")

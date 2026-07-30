@@ -1,0 +1,199 @@
+{
+  "title": "馬克白 1-5~7 夫人讀信",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a deep crimson gown with a high collar",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "wide establishing shot, a grim Scottish castle on a crag at dusk, crows wheeling around its towers, a single lit window, no characters",
+          "dialogue": [{"speaker": "旁白", "text": "殷佛納斯。馬克白的城堡。", "en": "Inverness. Macbeth's castle."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "{characters}, seated alone by candlelight in a stone chamber, reading a letter, her face lit from below by the flame",
+          "dialogue": [{"speaker": "馬克白夫人（讀信）", "text": "「……她們稱我『考特爵士』，還預示：祝福，未來的君王！我最親愛的、有福同享的伴侶啊，把它放在你的心頭。」", "en": "…they made themselves air… 'Hail, king that shalt be!' This have I thought good to deliver thee, my dearest partner of greatness."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "close-up of {characters} lowering the letter, her piercing eyes gleaming over the candle flame, the ghost of a smile",
+          "dialogue": [{"speaker": "夫人", "text": "你已是葛萊密斯，又成了考特——將來還會到達預言的高位。可我擔心你的天性：", "en": "Glamis thou art, and Cawdor, and shalt be what thou art promised. Yet do I fear thy nature:"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "symbolic vision, an armored warrior hesitating before a floating crown, bathed in soft milky light, his hand half-raised and half-withdrawn",
+          "dialogue": [{"speaker": "夫人（內心）", "text": "它充滿了太多人情的乳臭，不敢抄最近的捷徑。你有野心，卻缺少該配上的狠毒。趕快回來吧——讓我把我的精神，灌進你的耳朵。", "en": "It is too full o' the milk of human kindness to catch the nearest way… Hie thee hither, that I may pour my spirits in thine ear."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "a breathless messenger bowing at the chamber door, {characters} turning sharply from the candle",
+          "dialogue": [{"speaker": "使者", "text": "王上——今晚駕到！", "en": "The King comes here tonight."}, {"speaker": "夫人", "text": "你說瘋話嗎？！", "en": "Thou'rt mad to say it!"}]
+        },
+        {
+          "weight": 0.65,
+          "prompt": "{characters} standing at a tall narrow window, a raven perched on the battlement outside against a bruised storm sky",
+          "dialogue": [{"speaker": "夫人（內心）", "text": "連報信的烏鴉都叫啞了嗓子——鄧肯，正走進我這堡門來送死。", "en": "The raven himself is hoarse that croaks the fatal entrance of Duncan under my battlements."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "{characters} with arms outstretched in the center of the dark chamber, ribbons of black smoke and spectral shapes swirling down into her body, candle flames guttering sideways, her crimson gown the only color",
+          "dialogue": [{"speaker": "夫人", "text": "來吧，窺伺人心惡念的魔鬼們！凝結我的血液，別讓憐憫鑽進我的心頭！", "en": "Come, you spirits that tend on mortal thoughts… Make thick my blood; stop up the access and passage to remorse."}],
+          "quote": {"text": "解除我女性的柔弱，用最凶惡的殘忍灌注我全身", "en": "Unsex me here, and fill me from the crown to the toe top-full of direst cruelty."}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "the chamber plunging into near-total darkness, only the outline of {characters} and one dying candle visible",
+          "dialogue": [{"speaker": "夫人", "text": "來，陰沉的黑夜，用地獄最濃的煙罩住你自己——讓我的刀，瞧不見它自己切開的傷口！", "en": "Come, thick night, and pall thee in the dunnest smoke of hell, that my keen knife see not the wound it makes."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, entering the chamber, {characters} turning to greet him with radiant dangerous joy",
+          "dialogue": [{"speaker": "夫人", "text": "偉大的葛萊密斯！尊貴的考特！比這二者更偉大的——未來的統治者！", "en": "Great Glamis, worthy Cawdor, greater than both by the all-hail hereafter!"}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "the couple face to face in candlelight, foreheads almost touching, whispering",
+          "dialogue": [{"speaker": "馬克白", "text": "我最親愛的——鄧肯今晚要到這兒來。", "en": "My dearest love, Duncan comes here tonight."}, {"speaker": "夫人", "text": "什麼時候走？", "en": "And when goes hence?"}, {"speaker": "馬克白", "text": "他預備明天回去。", "en": "Tomorrow, as he purposes."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "extreme close-up of the lady's lips beside the candle flame, the flame bending as she speaks",
+          "dialogue": [{"speaker": "夫人", "text": "啊——太陽，永遠不會見到那樣一個明天。", "en": "O, never shall sun that morrow see!"}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters} cupping the face of Macbeth, a broad-shouldered warrior with a pale diagonal scar across his left cheek, whispering to him, their shadows on the wall behind forming a serpent coiled beneath a flower",
+          "dialogue": [{"speaker": "夫人", "text": "您的臉像一本書，寫滿了奇怪的事。要騙過世人，就得裝出跟世人一樣的神氣——瞧著像純潔的花，花瓣底下卻藏著毒蛇。", "en": "Your face, my thane, is as a book where men may read strange matters… Look like the innocent flower, but be the serpent under 't."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "two figures at the top of a spiral stone staircase, descending into darkness together, one trailing crimson",
+          "dialogue": [{"speaker": "夫人", "text": "今晚的大事交給我。憑此一舉——日日夜夜，君臨萬民。", "en": "Leave all the rest to me."}, {"speaker": "馬克白", "text": "我們……還要商量商量。", "en": "We will speak further."}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "evening, torches at the castle gate, elderly King Duncan with a long white beard, gold crown, fur-trimmed deep blue robe arriving with a royal procession, swallows nesting under the stone eaves above",
+          "dialogue": [{"speaker": "鄧肯", "text": "這座城堡的位置很好，和風輕拂，叫人心神舒暢。", "en": "This castle hath a pleasant seat; the air nimbly and sweetly recommends itself unto our gentle senses."}, {"speaker": "班柯", "text": "巡禮廟宇的燕子也在這裡築巢——凡牠們生息的地方，空氣總是芬芳。", "en": "This guest of summer, the temple-haunting martlet… the air is delicate."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "{characters} sweeping a deep curtsy at the torchlit gate, elderly King Duncan with a long white beard taking her hand graciously, seen from inside the dark gateway so the darkness frames them",
+          "dialogue": [{"speaker": "鄧肯", "text": "瞧，我們尊貴的主婦！今天晚上，我要做您的賓客了。把您的手給我。", "en": "See, see, our honored hostess!… Give me your hand; conduct me to mine host."}, {"speaker": "旁白", "text": "大門，在國王身後合上。", "en": "The gates close behind the King."}]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "servants with platters and torches streaming past a feast hall doorway spilling golden light, one armored figure slipping away into a dark corridor in the foreground",
+          "dialogue": [{"speaker": "旁白", "text": "堡中，盛宴正酣。", "en": "Within the castle, the feast is at its height."}]
+        },
+        {
+          "weight": 0.65,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, alone in a cold stone corridor, leaning against the wall, face carved by a single shaft of torchlight",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "要是憑這一刀就能完成一切、終結一切——那麼來生，我也顧不到了。", "en": "If the assassination could trammel up the consequence… we'd jump the life to come."}],
+          "quote": {"text": "要是做了以後就完了，那麼還是快點做", "en": "If it were done when 'tis done, then 'twere well it were done quickly."}
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "symbolic vision, a hand pouring poison into a golden chalice while an identical spectral hand raises the same chalice to the pourer's own lips, dark mirror composition",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "我們往往逃不過現世的裁判——樹立血的榜樣，教會別人殺人，反被人所殺。下毒的人，終將自飲毒酒。", "en": "We but teach bloody instructions, which, being taught, return to plague the inventor: this even-handed justice commends the ingredients of our poisoned chalice to our own lips."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "symbolic vision, a naked newborn babe striding upon a storm wind above a sleeping white-bearded king, trumpeting angels dissolving into rain",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "他是我的君王、我的親戚、我的客人。他秉性仁慈——「憐憫」會像赤裸的嬰兒駕著狂風，把這暴行揭給每一雙眼睛。", "en": "He's here in double trust… And pity, like a naked newborn babe, striding the blast… shall blow the horrid deed in every eye, that tears shall drown the wind."}]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "{characters} bursting into the corridor from the bright feast hall, backlit, confronting the armored warrior",
+          "dialogue": [{"speaker": "夫人", "text": "他快吃完了！你為什麼跑出來？", "en": "He has almost supped. Why have you left the chamber?"}, {"speaker": "馬克白", "text": "……我們別幹這件事了。他剛給我極大的尊榮。", "en": "We will proceed no further in this business: he hath honored me of late."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "close-up of {characters} gripping the warrior's collar, her face inches from his, eyes blazing with contempt",
+          "dialogue": [{"speaker": "夫人", "text": "你的希望是醉後的妄想嗎？你敢想，卻不敢做？要讓「我不敢」永遠跟在「我想要」後面——像隻畏首畏尾的貓？", "en": "Art thou afeard to be the same in thine own act and valor as thou art in desire? … Letting 'I dare not' wait upon 'I would,' like the poor cat i' the adage?"}]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "the armored warrior snarling back, fist clenched, torch flame flaring between the couple",
+          "dialogue": [{"speaker": "馬克白", "text": "住口！只要是男子漢做的事，我都敢做——沒有人比我更大膽。", "en": "Prithee, peace: I dare do all that may become a man; who dares do more is none."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "{characters} with a terrifying tender expression, arms curved as if cradling an invisible infant, her shadow on the wall huge and distorted",
+          "dialogue": [{"speaker": "夫人", "text": "我哺育過嬰孩，知道母親怎樣憐愛吮乳的孩子。可要是我像你一樣發過誓——我會在他對我微笑的時候，砸碎他的腦袋。", "en": "I have given suck… I would, while it was smiling in my face, have plucked my nipple from his boneless gums and dashed the brains out, had I so sworn as you have done to this."}]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "the warrior's face wavering in the torchlight, sweat on his brow",
+          "dialogue": [{"speaker": "馬克白", "text": "假如我們失敗了……", "en": "If we should fail?"}, {"speaker": "夫人", "text": "失敗？把你的勇氣擰上弦，我們就不會失敗。", "en": "We fail? But screw your courage to the sticking-place, and we'll not fail."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "conspiratorial close shot, {characters} whispering over a wine pitcher, two drowsy guards silhouetted in the background outside a royal bedchamber",
+          "dialogue": [{"speaker": "夫人", "text": "鄧肯睡熟後，我去灌醉他的兩個侍衛。到時毫無防衛的他，還不隨我們擺布？罪名——推給爛醉的侍衛。", "en": "His two chamberlains will I with wine and wassail so convince… what cannot you and I perform upon the unguarded Duncan?"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "the couple walking back toward the golden doorway of the feast hall wearing perfect smiles, their long shadows behind them twisting into monstrous shapes",
+          "dialogue": [{"speaker": "馬克白", "text": "我的決心已定。用最美妙的外表騙過人們的耳目——奸詐的心，罩上虛偽的笑臉。", "en": "I am settled… Away, and mock the time with fairest show: false face must hide what the false heart doth know."}]
+        }
+      ]
+    }
+  ]
+}

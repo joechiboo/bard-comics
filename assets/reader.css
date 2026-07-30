@@ -1,0 +1,65 @@
+/* ── 漫畫閱讀模式：卷軸 / 翻頁（搭配 assets/reader.js） ── */
+
+.reader-controls {
+  display: inline-flex;
+  margin-bottom: 1.6rem;
+  border: 1px solid var(--rule);
+}
+.mode-btn {
+  font-family: var(--font-latin);
+  font-size: 0.72rem;
+  letter-spacing: 0.25em;
+  text-indent: 0.25em;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: none;
+  border: none;
+  padding: 0.55rem 1.2rem;
+  cursor: pointer;
+  transition: color 0.2s, background 0.2s;
+}
+.mode-btn + .mode-btn { border-left: 1px solid var(--rule); }
+.mode-btn:hover { color: var(--gold); }
+.mode-btn.active { color: var(--gold); background: rgba(201, 162, 39, 0.08); }
+
+/* 翻頁模式：跳出窄欄滿版置中，以視窗高度定圖大小（PC 上看得夠大） */
+.comic-pages.paged {
+  display: block;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+.comic-pages.paged img { display: none; }
+.comic-pages.paged img.current {
+  display: block;
+  margin: 0 auto;
+  width: auto;
+  max-width: 96vw;
+  max-height: calc(100vh - 150px);
+  cursor: pointer; /* 點左半＝上一頁、右半＝下一頁 */
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.4rem;
+  margin-top: 1.2rem;
+}
+.pager button {
+  font-family: var(--font-latin);
+  font-size: 1rem;
+  color: var(--gold);
+  background: none;
+  border: 1px solid var(--rule);
+  padding: 0.4rem 1.4rem;
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+.pager button:hover { border-color: var(--gold); }
+.pager button:disabled { color: var(--muted); opacity: 0.5; cursor: default; border-color: var(--rule); }
+.pager .page-indicator {
+  font-family: var(--font-latin);
+  font-size: 0.85rem;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}

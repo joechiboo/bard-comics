@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Noto+Serif+TC:wght@400;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../../../assets/style.css">
+  <link rel="stylesheet" href="../../../assets/reader.css">
 </head>
 <body>
   <main>
@@ -21,13 +22,26 @@
 
     <p class="draft-note">首輪草稿・Pollinations 免費生圖——校構圖與對白用，角色定裝後會全面重生</p>
 
-    <section class="comic-pages">
+    <div class="reader-controls">
+      <button id="mode-paged" class="mode-btn" type="button">翻頁 Flip</button>
+      <button id="mode-scroll" class="mode-btn" type="button">卷軸 Scroll</button>
+    </div>
+
+    <section class="comic-pages" id="reader">
       <img src="page_01.jpg" alt="第 1 頁：荒野遠景，雷電交加" loading="lazy">
       <img src="page_02.jpg" alt="第 2 頁：三女巫現身對話" loading="lazy">
       <img src="page_03.jpg" alt="第 3 頁：相約荒野，去見馬克白" loading="lazy">
       <img src="page_04.jpg" alt="第 4 頁：灰貓與蟾蜍的召喚" loading="lazy">
       <img src="page_05.jpg" alt="第 5 頁：美即是醜，醜即是美" loading="lazy">
     </section>
+
+    <nav class="pager" id="pager" hidden>
+      <button id="prev" type="button">← 上一頁</button>
+      <span class="page-indicator" id="page-indicator">1 ／ 5</span>
+      <button id="next" type="button">下一頁 →</button>
+    </nav>
+
+    <script src="../../../assets/reader.js"></script>
   </main>
   <footer>
     <a href="https://github.com/joechiboo/bard-comics">GitHub</a>

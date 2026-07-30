@@ -21,6 +21,8 @@
 .mode-btn + .mode-btn { border-left: 1px solid var(--rule); }
 .mode-btn:hover { color: var(--gold); }
 .mode-btn.active { color: var(--gold); background: rgba(201, 162, 39, 0.08); }
+/* 「劇本」入口是 <a>，共用 mode-btn 外觀 */
+a.mode-btn { text-decoration: none; display: inline-block; }
 
 /* 翻頁模式：跳出窄欄滿版置中，以視窗高度定圖大小（PC 上看得夠大） */
 .comic-pages.paged {

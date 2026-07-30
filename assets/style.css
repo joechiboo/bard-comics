@@ -196,6 +196,107 @@ a.card:hover {
 
 .card.disabled { opacity: 0.5; }
 
+/* 卡片內的連結標題與進場提示（卡片本身不是 <a> 時用） */
+.card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+.card h2 a:hover { color: var(--gold); }
+.card .enter {
+  display: inline-block;
+  font-family: var(--font-latin);
+  font-size: 0.72rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--gold);
+  text-decoration: none;
+  border-bottom: 1px solid var(--gold-dim);
+  padding-bottom: 0.15rem;
+  margin-top: 1rem;
+  transition: border-color 0.2s;
+}
+.card .enter:hover { border-color: var(--gold); }
+
+/* ── 長簡介：節目冊摺頁（點開展開） ── */
+.synopsis {
+  margin-top: 1.1rem;
+  border-top: 1px dotted var(--rule);
+  padding-top: 0.9rem;
+}
+.synopsis summary {
+  cursor: pointer;
+  list-style: none;               /* 藏掉預設三角 */
+  font-family: var(--font-latin);
+  font-size: 0.7rem;
+  letter-spacing: 0.35em;
+  text-indent: 0.35em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  transition: color 0.2s;
+  user-select: none;
+}
+.synopsis summary::-webkit-details-marker { display: none; }
+.synopsis summary::after { content: " ▾"; }
+.synopsis[open] summary::after { content: " ▴"; }
+.synopsis summary:hover { color: var(--gold); }
+.synopsis p { text-align: justify; }
+
+/* ── 登場人物 Dramatis Personae（劇目頁） ── */
+.cast { margin-bottom: 3rem; }
+.cast ul { list-style: none; text-align: left; }
+.cast li {
+  display: grid;
+  grid-template-columns: minmax(8.5em, auto) 1fr;
+  gap: 0.2rem 1.2rem;
+  align-items: baseline;
+  padding: 0.6rem 0.2rem;
+}
+.cast li + li { border-top: 1px dotted var(--rule); }
+.cast .who {
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+}
+.cast .who .latin {
+  display: block;
+  font-family: var(--font-latin);
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  color: var(--gold-dim);
+  margin-top: 0.15rem;
+}
+.cast .desc {
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.75;
+}
+.cast .mark { color: var(--gold); }
+.cast .cast-note {
+  margin-top: 1rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  color: var(--gold-dim);
+}
+
+/* ── 本場人物角註（場次頁） ── */
+.cast-strip {
+  display: inline-block;
+  border: 1px solid var(--rule);
+  padding: 0.5rem 1.2rem;
+  margin-bottom: 1.2rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+.cast-strip .label {
+  font-size: 0.78rem;
+  letter-spacing: 0.35em;
+  color: var(--gold-dim);
+  margin-right: 0.9em;
+}
+.cast-strip .mark { color: var(--gold); }
+
 /* ── 漫畫頁閱讀 ── */
 .draft-note {
   font-size: 0.8rem;

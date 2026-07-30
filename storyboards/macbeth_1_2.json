@@ -1,0 +1,113 @@
+{
+  "title": "馬克白 1-2 戰報",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "wide establishing shot, medieval Scottish military camp near Forres at dawn after battle, smoke drifting over tents and tattered war banners, crows circling in a pale sky, no characters",
+          "dialogue": [{"speaker": "旁白", "text": "福累斯附近的軍營。戰火剛歇。", "en": "A camp near Forres. The battle has just ended."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "elderly King Duncan with a long white beard, gold crown, fur-trimmed deep blue robe, standing before the royal tent with young prince Malcolm, clean-shaven, short fair hair, thin gold circlet, both turning toward something off-panel",
+          "dialogue": [{"speaker": "鄧肯", "text": "那個渾身是血的人是誰？看他的樣子，該有前線最新的消息。", "en": "What bloody man is that? He can report, as seemeth by his plight, of the revolt the newest state."}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "a blood-soaked sergeant with a bandaged brow and blood-streaked face staggering forward supported by a young soldier, cold dawn light",
+          "dialogue": [{"speaker": "馬爾康", "text": "是他！當初奮戰救我突圍的軍曹。勇敢的朋友，把你離開時的戰況稟告王上！", "en": "This is the sergeant who like a good and hardy soldier fought 'gainst my captivity. Hail, brave friend!"}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "close-up of a blood-soaked sergeant's face, bandaged brow, blood-streaked cheek, speaking through gritted teeth",
+          "dialogue": [{"speaker": "軍曹", "text": "勝負未分——兩軍像兩個力竭的泳者扭抱在一起，誰也使不出本事。", "en": "Doubtful it stood, as two spent swimmers that do cling together and choke their art."}]
+        },
+        {
+          "weight": 0.65,
+          "prompt": "flashback battle scene, chaotic melee of highland rebels on a misty moor, a hulking rebel chieftain laughing amid the slaughter, a spectral wheel of fortune looming in the storm clouds above him",
+          "dialogue": [{"speaker": "軍曹（旁白）", "text": "叛徒麥克唐華德——天下的奸惡都聚在他一身，連命運都像娼妓一樣對他賣笑。", "en": "The merciless Macdonwald—worthy to be a rebel—and Fortune, on his damned quarrel smiling, showed like a rebel's whore."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "flashback, {characters}, carving a path through enemy soldiers with a greatsword smoking with blood, bodies falling aside, dramatic backlight through battle smoke, like the personification of valor",
+          "dialogue": [{"speaker": "軍曹（旁白）", "text": "可是英勇的馬克白——他當得起這名字——根本不把命運放在眼裡。他揮著染血的劍，像煞星一樣殺開一條路，直取那奴才面前！", "en": "For brave Macbeth—well he deserves that name—disdaining Fortune, with his brandished steel, which smoked with bloody execution, like valor's minion carved out his passage till he faced the slave."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "stark silhouette of a sword thrust against blinding white, then a severed head mounted on castle battlements against a grey sky, crows perched nearby",
+          "dialogue": [{"speaker": "軍曹", "text": "不行禮，不搭話，一劍從肚臍剖到下巴——那顆頭，已經掛上我們的城樓。", "en": "He unseamed him from the nave to th' chops, and fixed his head upon our battlements."}, {"speaker": "鄧肯", "text": "啊，英勇的表弟！尊貴的壯士！", "en": "O valiant cousin, worthy gentleman!"}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "flashback, fresh Norwegian troops in gleaming armor pouring over a ridge under storm clouds, banners with a sea-raven emblem, spears like a forest",
+          "dialogue": [{"speaker": "軍曹", "text": "但風暴偏從東方捲來——挪威王看準時機，率一批甲械精良的生力軍，發動新一波猛攻！", "en": "The Norweyan lord, surveying vantage, with furbished arms and new supplies of men began a fresh assault."}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "close-up of elderly King Duncan's worried face, long white beard, gripping the fur trim of his robe",
+          "dialogue": [{"speaker": "鄧肯", "text": "我們的將軍——馬克白和班柯，沒有因此膽怯吧？", "en": "Dismayed not this our captains, Macbeth and Banquo?"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "flashback, {characters} fighting back to back with Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, both swinging swords against a wall of enemies, sparks of clashing steel",
+          "dialogue": [{"speaker": "軍曹", "text": "膽怯？除非麻雀嚇得退老鷹、兔子嚇得走雄獅！他們像裝了雙倍火藥的巨炮，愈打愈猛——咳……我不行了，傷口得治……", "en": "Yes, as sparrows eagles, or the hare the lion... as cannons overcharged with double cracks. But I am faint; my gashes cry for help."}, {"speaker": "鄧肯", "text": "你的話和你的傷一樣，都透著戰士的光榮。送他去軍醫！", "en": "So well thy words become thee as thy wounds: they smack of honor both. Go get him surgeons."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.3,
+          "prompt": "thane Ross, a gaunt middle-aged nobleman in a long travel-stained grey cloak, striding urgently into the royal camp, wind whipping the tent flaps, wide alarmed eyes",
+          "dialogue": [{"speaker": "列諾克斯", "text": "瞧他眼裡的慌張——像有天大的事要說。", "en": "What a haste looks through his eyes! So should he look that seems to speak things strange."}, {"speaker": "洛斯", "text": "上帝保佑吾王！", "en": "God save the King."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "flashback, epic duel between {characters} and an armored Norwegian king on a corpse-strewn field at Fife, dark foreign banners filling the sky behind them",
+          "dialogue": [{"speaker": "洛斯", "text": "在費輔，挪威王親率大軍，還有叛徒考特爵士相助——但馬克白披甲迎戰，刀來槍往，硬是挫了他的凶焰。勝利是我們的！", "en": "Norway himself, with terrible numbers, assisted by that most disloyal traitor the Thane of Cawdor... the victory fell on us."}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "the defeated Norwegian king kneeling, offering a chest of coins, grim Scottish soldiers standing over him in the fog",
+          "dialogue": [{"speaker": "洛斯", "text": "挪威王史威諾求和了。不繳一萬塊錢，就不准他埋葬戰死的將士。", "en": "Sweno, the Norways' king, craves composition. Nor would we deign him burial of his men till he disbursed ten thousand dollars."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "elderly King Duncan with a long white beard, gold crown, fur-trimmed deep blue robe, rising to pronounce judgment with one arm extended, torchlight casting long shadows across the war tent, attendants bowing",
+          "dialogue": [{"speaker": "鄧肯", "text": "考特爵士再也騙不了我。傳令——立即處死。他的爵位，移贈馬克白。", "en": "No more that Thane of Cawdor shall deceive our bosom interest. Go pronounce his present death, and with his former title greet Macbeth."}, {"speaker": "洛斯", "text": "遵命。", "en": "I'll see it done."}],
+          "quote": {"text": "他所失去的，也就是尊貴的馬克白所得到的", "en": "What he hath lost, noble Macbeth hath won."}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "narrow closing panel, a jeweled thane's chain and a wax-sealed decree lying on a map of Scotland, beyond the tent opening a distant moor wreathed in fog",
+          "dialogue": [{"speaker": "旁白", "text": "一個頭銜換了主人。而荒野上，有三雙眼睛正等著它的新主人……", "en": "A title changes hands. And out on the heath, three pairs of eyes await its new owner…"}]
+        }
+      ]
+    }
+  ]
+}

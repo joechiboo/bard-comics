@@ -1,0 +1,158 @@
+{
+  "title": "馬克白 1-3 女巫預言",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "witch one has a single eye, witch two has a torn grinning mouth, witch three has pale white pupils, all in tattered cloaks with faces mostly in shadow",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.3,
+          "prompt": "three witches huddled together on a thunderous heath, {characters}, witch one gesturing angrily as she tells a story, the others cackling",
+          "dialogue": [{"speaker": "女巫甲", "text": "一個水手的老婆不肯分我栗子——還罵我「滾開，妖巫」！哼，她丈夫是「猛虎號」的船長……", "en": "'Aroint thee, witch!' the rump-fed runnion cries. Her husband's to Aleppo gone, master o' the Tiger."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "nightmare vision, a tiny sailing ship tossed on a furious black sea, a hag silhouette riding a sieve among the storm clouds above, lightning veins",
+          "dialogue": [{"speaker": "女巫甲", "text": "我要坐著篩子追上他，讓狂風把海掀起來——終朝終夜不得安，骨瘦如柴血色乾！", "en": "In a sieve I'll thither sail... Sleep shall neither night nor day hang upon his penthouse lid."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "witch one holding up a shriveled severed thumb like a trophy, the other two witches leaning in greedily, {characters}",
+          "dialogue": [{"speaker": "女巫甲", "text": "瞧——歸途翻船淹死的舵工，他的大拇指。", "en": "Here I have a pilot's thumb, wrecked as homeward he did come."}, {"speaker": "音效", "text": "咚……咚……", "en": "DOOM… DOOM…"}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "three witches joining hands and spinning in a ritual circle, {characters}, fog spiraling around them like a vortex, seen from a low angle",
+          "dialogue": [{"speaker": "女巫丙", "text": "鼓聲！鼓聲！馬克白來了！", "en": "A drum, a drum! Macbeth doth come."}, {"speaker": "三女巫（合）", "text": "手攜手，三姊妹，滄海高山彈指地——三三九轉，蠱就練成！", "en": "The Weird Sisters, hand in hand, posters of the sea and land… Peace! The charm's wound up."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, walking beside Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, both crossing a fog-choked moor after battle, low sun breaking through storm clouds behind them",
+          "dialogue": [{"speaker": "馬克白", "text": "我從沒見過這樣陰鬱、又這樣光明的日子。", "en": "So foul and fair a day I have not seen."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, recoiling as three withered witches block the foggy path ahead, {characters}, each pressing a bony finger to her cracked lips",
+          "dialogue": [{"speaker": "班柯", "text": "這些是什麼東西？枯瘦成這樣，裝束古怪，不像地上的活物……該是女人吧，可你們的鬍鬚讓我不敢相信。", "en": "What are these, so withered and so wild in their attire… You should be women, and yet your beards forbid me to interpret that you are so."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, stepping forward with his hand raised in command, facing the three witches in the fog",
+          "dialogue": [{"speaker": "馬克白", "text": "你們要是能講話——說，你們是什麼人？", "en": "Speak, if you can: what are you?"}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.3,
+          "prompt": "close-up of the first witch bowing with mock reverence, a single eye gleaming under her hood",
+          "dialogue": [{"speaker": "女巫甲", "text": "萬福，馬克白！祝福你，葛萊密斯爵士！", "en": "All hail, Macbeth! Hail to thee, Thane of Glamis!"}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of the second witch bowing, a torn grinning mouth stretching wider",
+          "dialogue": [{"speaker": "女巫乙", "text": "萬福，馬克白！祝福你，考特爵士！", "en": "All hail, Macbeth! Hail to thee, Thane of Cawdor!"}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "the third witch pointing a long bony finger directly at the viewer, pale white pupils blazing, a faint spectral crown glowing in the fog above her head",
+          "dialogue": [{"speaker": "女巫丙", "text": "萬福，馬克白——未來的君王！", "en": "All hail, Macbeth, that shalt be king hereafter!"}],
+          "quote": {"text": "萬福馬克白，未來的君王", "en": "All hail, Macbeth, that shalt be king hereafter!"}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.3,
+          "prompt": "Macbeth frozen stiff, gripping his sword hilt, eyes wide, while Banquo, a sturdy warrior with a thick braided beard, studies his friend's face with concern",
+          "dialogue": [{"speaker": "班柯", "text": "將軍，您怎麼吃驚成這樣？倒像怕這大好的消息。（向女巫）那我呢？我不求恩惠、不怕憎恨——對我說吧。", "en": "Good sir, why do you start and seem to fear things that do sound so fair? … Speak then to me, who neither beg nor fear your favors nor your hate."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "three witches slowly circling Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder, {characters}, pointing at him from three directions in the swirling fog",
+          "dialogue": [{"speaker": "女巫甲", "text": "比馬克白低微，地位卻在他之上。", "en": "Lesser than Macbeth, and greater."}, {"speaker": "女巫乙", "text": "不如他幸運，卻比他更有福。", "en": "Not so happy, yet much happier."}, {"speaker": "女巫丙", "text": "你做不成君王，你的子孫卻將君臨一國。", "en": "Thou shalt get kings, though thou be none."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "Macbeth lunging forward with an outstretched hand, but the three witches are already dissolving into ribbons of mist",
+          "dialogue": [{"speaker": "馬克白", "text": "且慢！考特爵士還活著，君王更是無稽——說！消息從哪來？我命令你們！", "en": "Stay, you imperfect speakers, tell me more! … Speak, I charge you."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "empty heath where the witches stood, only a wisp of fog curling above the grass, two warriors staring at the vacant spot",
+          "dialogue": [{"speaker": "班柯", "text": "水有泡沫，大地也有——她們就是。消失到哪去了？", "en": "The earth hath bubbles, as the water has, and these are of them. Whither are they vanished?"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "two warriors exchanging an uneasy sidelong glance, faces half-lit, fog pressing in around them",
+          "dialogue": [{"speaker": "馬克白", "text": "像呼吸一樣，融進風裡了……您的子孫將要做君王。", "en": "Into the air… Your children shall be kings."}, {"speaker": "班柯", "text": "您自己將要做君王。", "en": "You shall be king."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "two riders approaching through the fog in the distance, silhouettes with a royal pennant",
+          "dialogue": [{"speaker": "班柯", "text": "誰來了？", "en": "Who's here?"}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "thane Ross, a gaunt middle-aged nobleman in a long travel-stained grey cloak, saluting Macbeth solemnly, beside him Angus, a broad-bearded thane in a dark green cloak, holding a sealed royal decree",
+          "dialogue": [{"speaker": "洛斯", "text": "王上聽了你的戰功，高興得說不出話。他命我替你加上——考特爵士的稱號。祝福你，最尊貴的爵士！", "en": "He bade me, from him, call thee Thane of Cawdor: in which addition, hail, most worthy thane, for it is thine."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of Banquo's shocked face half in shadow, braided beard, eyes darting toward the empty fog where the witches vanished",
+          "dialogue": [{"speaker": "班柯", "text": "什麼！魔鬼居然會說真話？", "en": "What, can the devil speak true?"}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of Macbeth's stunned face, a pale diagonal scar across his left cheek, eyes wide in the torch-lit dusk",
+          "dialogue": [{"speaker": "馬克白", "text": "考特爵士還活著——為什麼給我穿上借來的衣服？", "en": "The Thane of Cawdor lives: why do you dress me in borrowed robes?"}, {"speaker": "安格斯", "text": "他犯了叛國重罪，親口供認——命在旦夕。", "en": "Treasons capital, confessed and proved, have overthrown him."}]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, standing apart from the others in the foreground, face half-swallowed by shadow, a spectral crown glimmering faintly in the dark storm clouds above him",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "葛萊密斯，考特……最大的尊榮還在後頭。這啟示不是凶兆，也不像吉兆——可為什麼那個念頭，讓我毛髮悚然、心跳失了常態？", "en": "Glamis, and Thane of Cawdor: the greatest is behind… Why do I yield to that suggestion whose horrid image doth unfix my hair and make my seated heart knock at my ribs?"}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "Banquo, a sturdy warrior with a thick braided beard, watching Macbeth from behind with narrowed eyes, two thanes waiting further back in the fog",
+          "dialogue": [{"speaker": "班柯", "text": "瞧，我們的同伴想得出神了。新尊榮像新衣服——穿慣以前，總不合身。", "en": "Look how our partner's rapt. New honors come upon him, like our strange garments, cleave not to their mold but with the aid of use."}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "narrow closing panel, Macbeth's face in profile turning away, the ghost of a smile at the corner of his mouth, fog closing behind him",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "要是命運要我做君王——也許不用我動手，命運自己會替我加冕。", "en": "If chance will have me king, why, chance may crown me, without my stir."}]
+        }
+      ]
+    }
+  ]
+}

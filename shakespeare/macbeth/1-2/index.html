@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Noto+Serif+TC:wght@400;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../../../assets/style.css?v=2">
-  <link rel="stylesheet" href="../../../assets/reader.css?v=2">
+  <link rel="stylesheet" href="../../../assets/reader.css?v=3">
 </head>
 <body>
   <main>
@@ -29,7 +29,7 @@
       <button id="mode-scroll" class="mode-btn" type="button">卷軸 Scroll</button>
     </div>
 
-    <section class="comic-pages" id="reader" data-next-url="../1-3/" data-next-label="下一場">
+    <section class="comic-pages" id="reader" data-next-url="../1-3/" data-next-label="下一場" data-prev-url="../1-1/" data-prev-label="上一場">
       <img src="page_01.jpg" alt="戰報 第 1 頁" loading="lazy">
       <img src="page_02.jpg" alt="戰報 第 2 頁" loading="lazy">
       <img src="page_03.jpg" alt="戰報 第 3 頁" loading="lazy">
@@ -39,6 +39,7 @@
     </section>
 
     <nav class="pager" id="pager" hidden>
+      <button id="prev-scene" class="scene-btn" type="button">« 上一場</button>
       <button id="prev" type="button">← 上一頁</button>
       <span class="page-indicator" id="page-indicator">1 ／ 6</span>
       <button id="next" type="button">下一頁 →</button>
@@ -50,11 +51,12 @@
       <p class="fin">本場完</p>
       <p class="next-scene">
         <a href="../1-3/">下一場：第三場 女巫預言 »</a>
+        <a href="../1-1/">« 上一場：第一場 荒野女巫</a>
         <a href="../">回節目單 Programme</a>
       </p>
     </nav>
 
-    <script src="../../../assets/reader.js"></script>
+    <script src="../../../assets/reader.js?v=2"></script>
   </main>
   <footer>
     <a href="https://github.com/joechiboo/bard-comics">GitHub</a>

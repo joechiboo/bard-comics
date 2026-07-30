@@ -1,0 +1,102 @@
+{
+  "title": "馬克白 1-1 荒野女巫",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "witch one has a single eye, witch two has a torn grinning mouth, witch three has pale white pupils, all in tattered cloaks with faces mostly in shadow",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "wide establishing shot, desolate Scottish moor at dusk, storm clouds, a single lightning bolt splitting the sky, no characters",
+          "dialogue": [{"speaker": "音效", "text": "轟隆———"}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "medium shot of a twisted dead tree and scattered rocks on a windswept moor, grass bent flat by violent wind, no characters",
+          "dialogue": [{"speaker": "音效", "text": "呼———"}]
+        },
+        {
+          "weight": 0.2,
+          "prompt": "narrow cinematic panel, three blurred dark silhouettes emerging from thick fog, only outlines visible, no faces",
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "three witches revealed facing forward, {characters}, standing on a stormy moor",
+          "dialogue": [{"speaker": "女巫甲", "text": "我們三個何時再相會？在雷聲、閃電，還是雨中？"}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "close-up of the second witch, a torn grinning mouth splitting her shadowed face",
+          "dialogue": [{"speaker": "女巫乙", "text": "等這場混亂平息，等那場仗打完——有人贏，有人輸。"}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "close-up of the third witch looking up at the sky, a lightning bolt reflected in her pale white pupils",
+          "dialogue": [{"speaker": "女巫丙", "text": "那就在太陽落山之前。"}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.25,
+          "prompt": "top-down bird's eye view of three cloaked witches standing in a circle on dark moorland",
+          "dialogue": [{"speaker": "女巫甲", "text": "在什麼地方？"}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "a withered bony hand of a witch pointing into deep fog",
+          "dialogue": [{"speaker": "女巫乙", "text": "就在這片荒野上。"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "three witches turning their heads simultaneously to stare directly at the viewer, {characters}, six glowing eyes in shadow, dramatic low angle, thick fog",
+          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "去見——馬克白。"}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.34,
+          "prompt": "a grey cat's glowing eyes in darkness among moorland rocks, fog swirling",
+          "dialogue": [{"speaker": "音效", "text": "喵嗚———"}, {"speaker": "女巫甲", "text": "來了，灰貓！"}]
+        },
+        {
+          "weight": 0.33,
+          "prompt": "a toad sitting on a wet stone, throat sac inflated, lit by faint lightning",
+          "dialogue": [{"speaker": "女巫乙", "text": "蟾蜍在叫我。"}]
+        },
+        {
+          "weight": 0.33,
+          "prompt": "the third witch half-dissolved into fog, only the side of her face visible, pale white pupil glowing",
+          "dialogue": [{"speaker": "女巫丙", "text": "就來。"}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.8,
+          "prompt": "full page dramatic panel, three fading witch silhouettes dissolving into thick fog, a charred dead tree in the foreground, near-monochrome with a single accent of dark red war banners in the far distance",
+          "dialogue": [{"speaker": "三女巫（齊聲）", "text": "美即是醜，醜即是美——穿過迷霧與濁氣，飄然而去。"}]
+        },
+        {
+          "weight": 0.2,
+          "prompt": "narrow panel, fog parting to reveal distant marching army banners and dust on the horizon",
+          "dialogue": [{"speaker": "旁白", "text": "戰場上，有一個名字正被反覆傳頌……"}]
+        }
+      ]
+    }
+  ]
+}

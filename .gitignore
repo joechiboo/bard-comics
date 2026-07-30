@@ -1,0 +1,7 @@
+# 生成物與快取（不進版控）
+cache/
+pages/
+__pycache__/
+*.pyc
+.env
+.DS_Store

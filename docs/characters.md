@@ -13,7 +13,7 @@
 | 班柯 | `Banquo, a sturdy warrior with a thick braided beard, a raven feather pinned at his shoulder` | 辮鬚＋肩上鴉羽 | 1-2（戰場回憶） |
 | 洛斯 | `thane Ross, a gaunt middle-aged nobleman in a long travel-stained grey cloak` | 風塵灰斗篷 | 1-2 |
 | 馬克白夫人 | `Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a deep crimson gown with a high collar` | 深紅長袍（全劇唯一常駐紅色＝血的化身） | 1-5 |
-| 麥克德夫 | （未定案） | — | 2-3 |
+| 麥克德夫 | `Macduff, a burly thane with a thick unkempt red-brown beard, a jagged boar-tusk pendant at his neck, in a weathered grey-green tartan cloak` | 紅褐亂鬚・野豬牙墜 | 2-3（MVP 線於 5-2~9 首登場） |
 
 ## 使用方式
 

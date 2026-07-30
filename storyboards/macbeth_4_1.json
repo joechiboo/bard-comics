@@ -1,0 +1,114 @@
+{
+  "title": "馬克白 4-1 大釜幻影",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a firelit cave interior, a great iron cauldron boiling over green-tinged flames, steam coiling upward into shapes of screaming faces, three hunched crone silhouettes circling the cauldron, only outlines visible",
+          "dialogue": [{"speaker": "女巫甲", "text": "斑貓已經叫過三聲。", "en": "Thrice the brinded cat hath mewed."}, {"speaker": "女巫丙", "text": "怪鳥在鳴嘯：時候到了，時候到了。", "en": "Harpier cries ''Tis time, 'tis time.'"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "extreme close-up of a boiling cauldron surface, newt eyes and frog toes and bat fur and a forked snake tongue sinking into the bubbling black brew, sparks rising",
+          "dialogue": [{"speaker": "眾巫（合）", "text": "不憚辛勞不憚煩，釜中沸沫已成瀾。", "en": "Double, double toil and trouble; fire burn, and cauldron bubble."}],
+          "quote": {"text": "不憚辛勞不憚煩，釜中沸沫已成瀾", "en": "Double, double toil and trouble."}
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "close-up of a hag witch with a torn grinning mouth splitting her shadowed face, holding up her crooked thumb before the cauldron firelight, eyes gleaming",
+          "dialogue": [{"speaker": "女巫乙", "text": "拇指怦怦動，必有惡人來。", "en": "By the pricking of my thumbs, something wicked this way comes."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, stepping out of cave darkness into firelight, wind whipping a black cloak around him",
+          "dialogue": [{"speaker": "馬克白", "text": "你們這些幽冥的妖婆，在幹什麼？憑你們的法術，我命令你們——回答我！", "en": "How now, you secret, black, and midnight hags! What is't you do? I conjure you, answer me."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "thunder inside the cave, the cauldron erupting a pillar of black smoke, an armored helmeted head rising from it wreathed in sparks and lightning, a cloaked warrior shielding his eyes in the foreground",
+          "dialogue": [{"speaker": "第一幽靈", "text": "馬克白！馬克白！留心麥克德夫——留心費輔爵士！", "en": "Macbeth! Macbeth! Macbeth! Beware Macduff; beware the Thane of Fife."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of a scarred warrior's face lit from below by green cauldron fire, eyes narrowed in grim recognition",
+          "dialogue": [{"speaker": "馬克白", "text": "不管你是什麼精靈——你一語道破了我的憂慮。", "en": "Whate'er thou art, for thy good caution, thanks; thou hast harped my fear aright."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "a blood-covered newborn child apparition floating in cauldron smoke, glowing faintly against total darkness, one tiny hand outstretched",
+          "dialogue": [{"speaker": "第二幽靈", "text": "你要殘忍、勇敢、堅決。沒有一個婦人所生的人，可以傷害馬克白。", "en": "Be bloody, bold, and resolute … for none of woman born shall harm Macbeth."}],
+          "quote": {"text": "沒有一個婦人所生的人能傷害馬克白", "en": "None of woman born shall harm Macbeth."}
+        },
+        {
+          "weight": 0.35,
+          "prompt": "a cloaked king laughing darkly in green firelight, half relief half madness on his scarred face",
+          "dialogue": [{"speaker": "馬克白", "text": "那就活下去吧，麥克德夫——我何必怕你？", "en": "Then live, Macduff: what need I fear of thee?"}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "a child apparition wearing a golden crown and holding a leafy tree branch, rising in a column of pale smoke above the cauldron, solemn glowing eyes",
+          "dialogue": [{"speaker": "第三幽靈", "text": "除非勃南森林向鄧西嫩高山移動，馬克白永遠不會被人打敗。", "en": "Macbeth shall never vanquished be until Great Birnam Wood to high Dunsinane Hill shall come against him."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "a scarred king spreading his arms wide in the firelit cave, head thrown back in triumphant laughter, shadows dancing huge on the cave walls",
+          "dialogue": [{"speaker": "馬克白", "text": "誰能命令樹木，叫它拔起自己的根？好預兆！", "en": "That will never be: who can impress the forest, bid the tree unfix his earth-bound root?"}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "a spectral procession of eight crowned kings walking through cave mist, the last holding up a mirror reflecting an endless line of crowns, and behind them the blood-matted ghost of a braided-bearded warrior smiling and pointing at the procession",
+          "dialogue": [{"speaker": "馬克白", "text": "第八個還拿著鏡子，照出數不盡的王冠——血汙的班柯在微笑，指著他們：那都是他的子孫！", "en": "And yet the eighth appears, who bears a glass which shows me many more … blood-boltered Banquo smiles upon me, and points at them for his."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "the cave suddenly empty and cold, a dead fire pit, thin grey daylight leaking from the cave mouth",
+          "dialogue": [{"speaker": "馬克白", "text": "願這不祥的時辰，在日曆上永遠被人咒詛！", "en": "Let this pernicious hour stand aye accursed in the calendar!"}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "a nobleman in a riding cloak bowing at the bright cave mouth, rain behind him",
+          "dialogue": [{"speaker": "列諾克斯", "text": "啟稟陛下——麥克德夫已經逃奔英格蘭去了！", "en": "Macduff is fled to England."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, mounting a black warhorse against a storm sky, cloak spread like black wings, a distant castle on the horizon",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "從這一刻起——想到，便下手。突襲費輔，把麥克德夫的妻子兒女，一齊殺死。", "en": "From this moment the very firstlings of my heart shall be the firstlings of my hand. The castle of Macduff I will surprise … give to the edge o' the sword his wife, his babes."}]
+        }
+      ]
+    }
+  ]
+}

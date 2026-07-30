@@ -1,0 +1,124 @@
+{
+  "title": "馬克白 3-4 宴會驚魂",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "wide shot of a candlelit medieval great hall, long banquet table laden with roasted meats and goblets, rows of seated nobles as dark shapes, a crowned king standing at the head with arms spread in welcome, warm torchlight, deep shadows in the rafters",
+          "dialogue": [{"speaker": "馬克白", "text": "大家按著品級坐——總而言之一句話，我竭誠歡迎各位。", "en": "You know your own degrees; sit down: at first and last the hearty welcome."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "a rough murderer with fresh blood streaked on his face lurking at the shadowed side doorway of a banquet hall, half hidden behind a stone pillar, torchlight catching only half his face",
+          "dialogue": [{"speaker": "馬克白", "text": "（低聲）你臉上有血。", "en": "There's blood upon thy face."}, {"speaker": "刺客", "text": "那是班柯的。", "en": "'Tis Banquo's then."}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "extreme close-up of two faces whispering in shadow by a doorway, one blood-streaked, tension in clenched jaws",
+          "dialogue": [{"speaker": "刺客", "text": "他的咽喉割斷了——可是，弗里恩斯逃走了。", "en": "His throat is cut; that I did for him. … Fleance is 'scaped."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, now in royal robes and crown, face half in shadow beside a stone pillar, fist clenched, a huge spectral serpent coiling in the darkness behind him",
+          "dialogue": [{"speaker": "馬克白（內心）", "text": "大蛇躺在溝裡了；逃走的小蟲，遲早會長出毒牙。", "en": "There the grown serpent lies; the worm that's fled hath nature that in time will venom breed."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a deep crimson gown with a high collar, leaning toward the king's seat with a courteous smile that does not reach her eyes, banquet table in the foreground",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "陛下，您還沒勸過客呢——少了主人的殷勤，宴會就不成宴會了。", "en": "My royal lord, you do not give the cheer."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "an empty carved oak chair at a crowded banquet table, a faint translucent shape just beginning to gather on it like smoke, the guests around it oblivious and laughing",
+          "dialogue": [{"speaker": "列諾克斯", "text": "陛下，這兒給您留著一個位子。", "en": "Here is a place reserved, sir."}]
+        },
+        {
+          "weight": 0.65,
+          "prompt": "the ghost of Banquo, a sturdy warrior with a thick braided beard matted with blood, a raven feather at his shoulder, sitting bolt upright at the banquet table, staring forward with dead white eyes, dark gore trickling from gashes on his head, candle flames bending away from him",
+          "dialogue": [{"speaker": "馬克白", "text": "席上……已經坐滿了。", "en": "The table's full."}, {"speaker": "馬克白", "text": "你們哪一個幹的？！別對我搖你那染血的頭髮！", "en": "Which of you have done this? … Never shake thy gory locks at me."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a deep crimson gown with a high collar, rising smoothly from her seat with one hand raised to calm alarmed nobles, forced composure",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "各位安坐。王上從小就有這毛病，一會兒就好。", "en": "Sit, worthy friends: my lord is often thus, and hath been from his youth."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "extreme close-up, a woman's lips whispering fiercely at a king's ear, a candle flame burning between their profiles in the dark",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "你是男子漢嗎？這不過是你的恐懼畫出來的圖畫！", "en": "Are you a man? … This is the very painting of your fear."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "the carved oak chair now empty again, torch flames steadying, nobles' wary faces in the background gloom",
+          "dialogue": [{"speaker": "馬克白", "text": "要是我此刻站在這裡——那剛才，我明明看見他。", "en": "If I stand here, I saw him."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek, in royal robes, forcing a broad smile and raising a golden goblet high, banquet guests raising their cups in answer",
+          "dialogue": [{"speaker": "馬克白", "text": "這一杯，敬我們缺席的朋友班柯——要是他也在這兒就好了！", "en": "I drink to our dear friend Banquo, whom we miss; would he were here!"}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "the blood-matted ghost of Banquo looming directly behind the drinking king's shoulder, braided beard clotted dark, dead white eyes wide open, banquet guests frozen mid-toast in horror of the king's expression",
+          "dialogue": [{"speaker": "馬克白", "text": "去！離開我的眼前！你的骨髓已經枯竭，你的血已經冷了！", "en": "Avaunt, and quit my sight! Thy bones are marrowless, thy blood is cold."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "dramatic low angle, the king hurling his golden goblet with wine spraying like black blood, screaming at a ghost dissolving into smoke, the banquet table half overturned, nobles recoiling into shadow",
+          "dialogue": [{"speaker": "馬克白", "text": "像俄羅斯的巨熊、披甲的犀牛、舞爪的猛虎來吧——只要別是你現在的樣子！", "en": "Approach thou like the rugged Russian bear, the armed rhinoceros, or the Hyrcan tiger; take any shape but that!"}],
+          "quote": {"text": "去，可怕的影子！虛妄的揶揄，去！", "en": "Hence, horrible shadow! Unreal mockery, hence!"}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "nobles hurrying out of the great hall into darkness with backward glances, a woman in a deep crimson gown standing rigid by the door, the ruined banquet behind her",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "大家不必推先讓後——請立刻就去。晚安。", "en": "Stand not upon the order of your going, but go at once."}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "the king alone amid the wrecked banquet hall, seated on the steps of his throne staring at his own open hands, a single candle guttering, spilled wine spreading across the floor like a dark pool",
+          "dialogue": [{"speaker": "馬克白", "text": "流血必須引起流血。我已兩足深陷血泊——回頭的路，和前進一樣使人厭倦。", "en": "It will have blood, they say: blood will have blood. I am in blood stepped in so far that, should I wade no more, returning were as tedious as go o'er."}],
+          "quote": {"text": "我已兩足深陷於血泊之中", "en": "I am in blood stepped in so far."}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "grey dawn breaking over a bleak castle, three distant crows flying toward misty moorland on the horizon",
+          "dialogue": [{"speaker": "馬克白", "text": "明天，我要趁早去找那三個女巫——把最壞的命運，問個明白。", "en": "I will tomorrow to the weird sisters: more shall they speak."}, {"speaker": "馬克白夫人", "text": "你需要的，是睡眠。", "en": "You lack the season of all natures, sleep."}]
+        }
+      ]
+    }
+  ]
+}

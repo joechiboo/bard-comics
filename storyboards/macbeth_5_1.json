@@ -1,0 +1,84 @@
+{
+  "title": "馬克白 5-1 夫人夢遊",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Lady Macbeth, a pale stately noblewoman with long straight black hair, piercing dark eyes, in a plain white nightgown, carrying a lit taper candle",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "a cold stone chamber in a castle at night, a robed doctor and a gentlewoman waiting in candle shadow beside a curtained doorway, both leaning forward listening",
+          "dialogue": [{"speaker": "醫生", "text": "我陪你守了兩夜，什麼也沒看見。她最後一次夢遊，是什麼時候？", "en": "I have two nights watched with you, but can perceive no truth in your report. When was it she last walked?"}]
+        },
+        {
+          "weight": 0.55,
+          "prompt": "{characters}, gliding down a dark stone staircase, candlelight hollowing her pale face, eyes wide open and unseeing",
+          "dialogue": [{"speaker": "侍女", "text": "您瞧，她來了。眼睛睜著——視覺卻關著。", "en": "You see, her eyes are open. Ay, but their sense is shut."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "extreme close-up of pale slender hands rubbing each other obsessively over a candle flame, faint dark stains on the skin that will not leave",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "去，該死的血跡！去吧！", "en": "Out, damned spot! Out, I say!"}],
+          "quote": {"text": "去，該死的血跡！去吧！", "en": "Out, damned spot!"}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "the doctor and gentlewoman exchanging horrified glances in deep shadow, the doctor's pen frozen above his notebook",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "可是——誰想得到，這老頭兒會有這麼多血？", "en": "Yet who would have thought the old man to have had so much blood in him?"}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "{characters}, holding one small hand up before her face in candlelight as if smelling it, despair twisting her features, absolute darkness pressing in around the candle glow",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "這兒還有一股血腥氣。所有阿拉伯的香料，都不能叫這隻小手變得香一點。啊！啊！", "en": "Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. O, O, O!"}],
+          "quote": {"text": "所有阿拉伯的香料都薰不香這隻小手", "en": "All the perfumes of Arabia will not sweeten this little hand."}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of the old doctor's stricken face half lit by distant candlelight",
+          "dialogue": [{"speaker": "醫生", "text": "這一聲嘆息，多麼沉痛——她的心裡，蘊蓄著無限的悽苦。", "en": "What a sigh is there! The heart is sorely charged."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "{characters}, whispering earnestly to an empty dark corridor, one hand beckoning to no one, the candle guttering",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "洗淨你的手，披上你的睡衣，別這樣面無人色——班柯已經下葬了，他不會從墳墓裡出來的。", "en": "Wash your hands, put on your nightgown; look not so pale. I tell you yet again, Banquo's buried; he cannot come out on's grave."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "a small white-gowned figure receding up a vast dark staircase, the candle a shrinking point of light in blackness",
+          "dialogue": [{"speaker": "馬克白夫人", "text": "睡去，睡去，睡去……事情已經幹了，就算了。", "en": "To bed, to bed, to bed. What's done cannot be undone."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "the doctor closing his notebook with a trembling hand, the gentlewoman still staring up the empty dark staircase, both small in the cold stone chamber",
+          "dialogue": [{"speaker": "醫生", "text": "她需要的是教士的訓誨，不是醫生的診視。良心負疚的人，會向無言的枕頭洩漏他們的秘密。", "en": "More needs she the divine than the physician. Infected minds to their deaf pillows will discharge their secrets."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "outside the castle wall at night, the distant campfires of an approaching army dotting the dark countryside like a swarm of embers",
+          "dialogue": [{"speaker": "旁白", "text": "城牆之外，復仇的火，已經一堆一堆點起來了。", "en": "Beyond the walls, the fires of revenge are lit, one by one."}]
+        }
+      ]
+    }
+  ]
+}

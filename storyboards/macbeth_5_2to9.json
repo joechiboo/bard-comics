@@ -1,0 +1,145 @@
+{
+  "title": "馬克白 5-2~9 最終決戰",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, dark fantasy atmosphere",
+  "characters": "Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters}, in half-buckled armor pacing a war room strewn with maps and candles, cowering servants at the edge of the torchlight",
+          "dialogue": [{"speaker": "馬克白", "text": "讓他們一個個逃走吧！除非勃南森林會向鄧西嫩移動，我不知道有什麼值得害怕。", "en": "Let them fly all: till Birnam Wood remove to Dunsinane I cannot taint with fear."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "an old robed doctor bowing nervously in a torchlit doorway, avoiding the king's eyes",
+          "dialogue": [{"speaker": "馬克白", "text": "大夫，夫人治不好——那就把我的國家驗一驗，找出它的病根吧。", "en": "If thou couldst, doctor, cast the water of my land, find her disease."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "a vast army at the edge of a great forest at dawn, thousands of soldiers hacking leafy boughs from the trees and hoisting them, mist between the trunks",
+          "dialogue": [{"speaker": "馬爾康", "text": "每個兵士都砍下一根樹枝，舉在身前——隱去我們全軍的人數。", "en": "Let every soldier hew him down a bough and bear't before him."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Macduff, a burly thane with a thick unkempt red-brown beard, a jagged boar-tusk pendant at his neck, in a weathered grey-green tartan cloak, gripping his sword hilt, eyes burning with grief and resolve",
+          "dialogue": [{"speaker": "麥克德夫", "text": "少說推測的話。眼前，讓我們發揚戰士的堅毅精神。", "en": "Make we our march towards Birnam. Put we on industrious soldiership."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.4,
+          "prompt": "a torchlit castle corridor, women's cries echoing from deeper rooms, a grizzled old officer lowering his head before the king",
+          "dialogue": [{"speaker": "西登", "text": "陛下——王后死了。", "en": "The queen, my lord, is dead."}]
+        },
+        {
+          "weight": 0.6,
+          "prompt": "{characters}, standing utterly still on castle battlements at dusk, wind pulling at his cloak, face emptied of everything, a vast grey sky",
+          "dialogue": [{"speaker": "馬克白", "text": "她反正要死的——遲早，總會有聽到這個消息的一天。", "en": "She should have died hereafter; there would have been a time for such a word."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.8,
+          "prompt": "vast full-page panel, a lone armored king small on dark battlements under an immense empty sky, a single guttering candle flame superimposed huge and translucent against the storm clouds, his shadow stretching long and thin across the stones like a stage actor's",
+          "dialogue": [{"speaker": "馬克白", "text": "明天，明天，再一個明天，一天接著一天躡步前進，直到最後一秒鐘的時間。人生不過是一個行走的影子，一個愚人所講的故事，充滿著喧嘩和騷動，卻找不到一點意義。", "en": "Tomorrow, and tomorrow, and tomorrow, creeps in this petty pace from day to day, to the last syllable of recorded time. Life's but a walking shadow … it is a tale told by an idiot, full of sound and fury, signifying nothing."}],
+          "quote": {"text": "人生不過是一個行走的影子", "en": "Life's but a walking shadow."}
+        },
+        {
+          "weight": 0.2,
+          "prompt": "narrow panel, a candle flame snuffed by wind, a thin thread of smoke rising in darkness",
+          "dialogue": [{"speaker": "馬克白", "text": "熄滅了吧，熄滅了吧，短促的燭光！", "en": "Out, out, brief candle!"}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a terrified messenger on a watchtower pointing at the horizon, mouth open mid-shout",
+          "dialogue": [{"speaker": "使者", "text": "我向勃南望去——那邊的樹木……開始移動了！", "en": "As I did stand my watch upon the hill, I looked toward Birnam, and anon methought the wood began to move."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters}, gripping the messenger by the collar then staring past him, in the far distance a dark treeline crawling toward the castle, his certainty cracking on his scarred face",
+          "dialogue": [{"speaker": "馬克白", "text": "「不要害怕，除非勃南森林會到鄧西嫩」——現在，一座樹林真的來了。敲起警鐘！吹吧狂風，來吧滅亡！", "en": "'Fear not, till Birnam Wood do come to Dunsinane', and now a wood comes toward Dunsinane. Ring the alarum-bell! Blow, wind! Come, wrack!"}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "before the castle gates, an army casting down their leafy camouflage boughs to reveal ranks of soldiers and siege ladders, arrows and smoke filling the sky",
+          "dialogue": [{"speaker": "馬爾康", "text": "拋下你們樹葉的幕障，現出威武的軍容來！", "en": "Your leafy screens throw down, and show like those you are."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters}, cutting down a young knight in the smoke of a burning courtyard, embers swirling",
+          "dialogue": [{"speaker": "小西華德", "text": "你這暴君！", "en": "Thou liest, abhorred tyrant!"}, {"speaker": "馬克白", "text": "你是婦人所生的——我瞧不起一切婦人之子的刀劍。", "en": "Thou wast born of woman. But swords I smile at, brandished by man that's of a woman born."}]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "Macduff, a burly thane with a thick unkempt red-brown beard, a jagged boar-tusk pendant at his neck, in a weathered grey-green tartan cloak, bursting through battle smoke with sword drawn, face streaked with ash and grief",
+          "dialogue": [{"speaker": "麥克德夫", "text": "轉過來，地獄裡的惡狗——轉過來！", "en": "Turn, hell-hound, turn!"}]
+        },
+        {
+          "weight": 0.55,
+          "prompt": "{characters}, turning slowly in the burning courtyard, lowering his sword a fraction, weariness and dread in his eyes",
+          "dialogue": [{"speaker": "馬克白", "text": "所有人裡，我最不願見的就是你。回去吧——你一家人的血，已經沾得我的靈魂太多了。", "en": "Of all men else I have avoided thee. But get thee back; my soul is too much charged with blood of thine already."}]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "two warriors locked blade to blade in the firelight, sparks flying, a red-bearded face inches from the tyrant's scarred one",
+          "dialogue": [{"speaker": "麥克德夫", "text": "別再信你的魔法了。讓你信奉的神告訴你——麥克德夫，是沒有足月就從母親腹中剖出來的。", "en": "Despair thy charm, and let the angel whom thou still hast served tell thee: Macduff was from his mother's womb untimely ripped."}],
+          "quote": {"text": "麥克德夫不是婦人所生", "en": "From his mother's womb untimely ripped."}
+        },
+        {
+          "weight": 0.45,
+          "prompt": "{characters}, staggering back a step in the burning courtyard, sword point dropping, the world tilting around him",
+          "dialogue": [{"speaker": "馬克白", "text": "願告訴我這句話的舌頭受咒詛！這些魔鬼用模稜兩可的話愚弄我們——聽來大有希望，結果完全相反。", "en": "Accursed be that tongue that tells me so … and be these juggling fiends no more believed, that palter with us in a double sense."}]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "final clash silhouetted against a burning castle, two swords crossing in a blaze of white light, embers streaming upward into the night",
+          "dialogue": [{"speaker": "馬克白", "text": "我不投降。雖然勃南森林到了鄧西嫩，你也不是婦人所生——我還要擎起盾牌，戰到最後。來，麥克德夫！", "en": "I will not yield. Though Birnam Wood be come to Dunsinane, and thou opposed, being of no woman born, yet I will try the last. Lay on, Macduff!"}],
+          "quote": {"text": "誰先喊「住手，夠了」，讓他在地獄裡沉淪", "en": "Damned be him that first cries 'Hold, enough!'"}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "dawn over a quiet battlefield, a crown raised high by many hands before ranks of weary soldiers, and far away on the misty moor three tiny hunched silhouettes watching before dissolving into fog",
+          "dialogue": [{"speaker": "眾人", "text": "祝福，蘇格蘭的國王！", "en": "Hail, King of Scotland!"}, {"speaker": "旁白", "text": "荒野上，霧又合攏了。", "en": "On the moor, the fog closes again."}]
+        }
+      ]
+    }
+  ]
+}

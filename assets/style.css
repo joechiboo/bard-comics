@@ -10,6 +10,8 @@
   --gold-dim: #7a6524;
   --crimson: #9e2b25;          /* 布幕紅 */
   --rule: #4a3d2a;
+  --font-body: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", Georgia, serif;
+  --font-latin: "Cinzel", "Noto Serif TC", Georgia, serif;   /* 拉丁字一律碑文體 */
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -19,7 +21,7 @@ body {
     radial-gradient(ellipse 120% 70% at 50% -10%, var(--spot) 0%, var(--stage) 60%),
     var(--stage);
   color: var(--ink);
-  font-family: "Noto Serif TC", "PMingLiU", Georgia, serif;
+  font-family: var(--font-body);
   line-height: 1.8;
   min-height: 100vh;
   display: flex;
@@ -36,6 +38,7 @@ main {
 
 /* ── 麵包屑：戲票存根風 ── */
 .crumbs {
+  font-family: var(--font-latin);
   font-size: 0.8rem;
   letter-spacing: 0.15em;
   color: var(--muted);
@@ -48,7 +51,7 @@ main {
 .masthead { margin-bottom: 2.8rem; }
 
 .masthead .house {
-  font-family: "Cinzel", Georgia, serif;
+  font-family: var(--font-latin);
   font-size: 0.78rem;
   letter-spacing: 0.5em;
   text-indent: 0.5em; /* 抵銷最後一字的字距，維持置中 */
@@ -66,7 +69,7 @@ main {
   margin: 0.6rem 0;
 }
 .masthead h1 .latin {
-  font-family: "Cinzel", Georgia, serif;
+  font-family: var(--font-latin);
   display: block;
   font-size: 0.42em;
   font-weight: 500;
@@ -121,7 +124,7 @@ a.card:hover {
 }
 
 .card .bill {
-  font-family: "Cinzel", Georgia, serif;
+  font-family: var(--font-latin);
   font-size: 0.68rem;
   letter-spacing: 0.4em;
   text-indent: 0.4em;
@@ -139,7 +142,7 @@ a.card:hover {
 }
 .card h2 .latin {
   display: block;
-  font-family: "Cinzel", Georgia, serif;
+  font-family: var(--font-latin);
   font-size: 0.6em;
   font-weight: 500;
   letter-spacing: 0.25em;
@@ -158,6 +161,7 @@ a.card:hover {
 
 /* ── 頁尾 ── */
 footer {
+  font-family: var(--font-latin);
   text-align: center;
   font-size: 0.75rem;
   letter-spacing: 0.2em;

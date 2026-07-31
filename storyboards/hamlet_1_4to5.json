@@ -1,0 +1,153 @@
+{
+  "title": "哈姆雷特 1-4~5 亡魂吐真",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "{characters} on the freezing midnight battlements with Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, and sentinel Marcellus with a halberd, all three hunched against the biting wind, breath steaming",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "風刮得人骨頭都痛。現在什麼時候了？", "en": "The air bites shrewdly; it is very cold."},
+            {"speaker": "霍拉旭", "text": "快十二點了。", "en": "I think it lacks of twelve."},
+            {"speaker": "音效", "text": "（城堡下方——號角與炮聲）", "en": "A flourish of trumpets, and ordnance shot off, within."}
+          ]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} glancing down with contempt at the warm lit windows of the great hall far below the wall, where tiny revelling silhouettes raise goblets",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "國王今晚又在熬夜作樂，喝一杯，放一炮。就是這種風俗，讓我們丹麥人在各國背上了酗酒的臭名。", "en": "The king doth wake to-night and takes his rouse... and, as he drains his draughts of Rhenish down, the kettle-drum and trumpet thus bray out the triumph of his pledge... This heavy-headed revel east and west makes us traduced and tax'd of other nations."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.65,
+          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, looming suddenly out of the sea mist before {characters}, who staggers back one step then holds his ground, cloak whipping in the wind",
+          "dialogue": [
+            {"speaker": "霍拉旭", "text": "瞧，殿下，它來了！", "en": "Look, my lord, it comes!"},
+            {"speaker": "哈姆雷特", "text": "天使保佑我們！……不管你是善良的精靈還是萬惡的妖魔——我要叫你哈姆雷特，國王，父親！回答我！", "en": "Angels and ministers of grace defend us!... I'll call thee Hamlet, King, father, royal Dane: O, answer me!"}
+          ],
+          "quote": {"text": "天使保佑我們！", "en": "Angels and ministers of grace defend us!"}
+        },
+        {
+          "weight": 0.35,
+          "prompt": "the armoured gauntlet of the Ghost of old King Hamlet slowly beckoning with one finger, a faint cold blue glow tracing its edges against pure blackness",
+          "dialogue": [{"speaker": "馬西勒斯", "text": "它招手叫您跟它去——好像有話要對您一個人說。", "en": "It beckons you to go away with it, as if it some impartment did desire to you alone."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, and sentinel Marcellus grabbing the arms and cloak of {characters} to hold him back",
+          "dialogue": [{"speaker": "霍拉旭", "text": "萬一它把您引到海裡，或是引到那臨海的懸崖絕頂上呢？殿下，別去！", "en": "What if it tempt you toward the flood, my lord, or to the dreadful summit of the cliff...? Do not, my lord."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "{characters} wrenching himself free with sudden violence, following the receding blue-glowing spectre along the dark wall walk",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "我的命運在高聲呼喊！放手！我的性命，我看得不值一枚針——至於靈魂，它跟它一樣是不死的，怕什麼？", "en": "My fate cries out... Unhand me, gentlemen... I do not set my life at a pin's fee; and for my soul, what can it do to that, being a thing immortal as itself?"}]
+        },
+        {
+          "weight": 0.25,
+          "prompt": "Horatio and Marcellus left behind small on the misty battlements, watching the two figures vanish into darkness, Marcellus gripping his halberd uneasily",
+          "dialogue": [{"speaker": "馬西勒斯", "text": "丹麥這個國家，一定有什麼東西爛掉了。", "en": "Something is rotten in the state of Denmark."}],
+          "quote": {"text": "丹麥這個國家，有什麼東西爛掉了", "en": "Something is rotten in the state of Denmark."}
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a lonely windswept cliff-top beyond the walls, the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, turning at last to face {characters}, sea crashing far below",
+          "dialogue": [{"speaker": "鬼魂", "text": "我是你父親的靈魂。因為生前孽障未盡，被判在黑夜遊行地上，白晝忍受火焰的燒灼。", "en": "I am thy father's spirit, doom'd for a certain term to walk the night, and for the day confined to fast in fires, till the foul crimes done in my days of nature are burnt and purged away."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} dropping to one knee on the cliff-top rock, staring up at the towering glowing spectre, wind tearing at his black cloak",
+          "dialogue": [
+            {"speaker": "鬼魂", "text": "聽著，聽著，啊，聽著！要是你愛過你的父親——", "en": "List, list, O, list! If thou didst ever thy dear father love—"},
+            {"speaker": "哈姆雷特", "text": "上帝啊！", "en": "O God!"},
+            {"speaker": "鬼魂", "text": "——替他報復那逆倫慘惡的謀殺。", "en": "Revenge his foul and most unnatural murder."}
+          ],
+          "quote": {"text": "替他報復那逆倫慘惡的謀殺", "en": "Revenge his foul and most unnatural murder."}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "dreamlike inset scene: an old king asleep on a bench in a walled orchard in the afternoon, a dark hooded figure tipping a small vial into the sleeper's ear, the poison trailing a thin line of faint cold blue glow",
+          "dialogue": [{"speaker": "鬼魂", "text": "他們說我在花園裡睡覺的時候，被一條毒蛇螫死——全丹麥都被這個謊話騙了。可是你要知道，好孩子——那毒害你父親的蛇，頭上正戴著王冠呢。", "en": "'Tis given out that, sleeping in my orchard, a serpent stung me; so the whole ear of Denmark is by a forged process of my death rankly abused: but know, thou noble youth, the serpent that did sting thy father's life now wears his crown."}],
+          "quote": {"text": "那毒害你父親的蛇，頭上戴著王冠", "en": "The serpent that did sting thy father's life now wears his crown."}
+        },
+        {
+          "weight": 0.45,
+          "prompt": "extreme close-up of the horrified face of {characters}, pupils shrunk to points, the cold blue glow of the ghost reflected in his wide eyes",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "啊，我料事如神的靈魂！我的叔父！", "en": "O my prophetic soul! My uncle!"}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, arms wide in remembered agony against the black sky, storm clouds boiling behind him",
+          "dialogue": [{"speaker": "鬼魂", "text": "那個亂倫的、姦淫的畜生……趁我熟睡，把毒草汁灌進我的耳朵。我就這樣在睡夢之中，被一個兄弟同時奪去了生命、王冠和王后。", "en": "Ay, that incestuous, that adulterate beast... in the porches of my ears did pour the leperous distilment... Thus was I, sleeping, by a brother's hand of life, of crown, of queen, at once dispatch'd."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "the ghost dissolving into thin cold blue mist as the first grey of dawn touches the horizon, one gauntleted arm the last thing to fade, stretched toward {characters}",
+          "dialogue": [{"speaker": "鬼魂", "text": "再會，再會，再會！記著我。", "en": "Adieu, adieu, adieu! Hamlet, remember me."}],
+          "quote": {"text": "再會，再會！記著我", "en": "Adieu, adieu! remember me."}
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters} alone on the cliff-top in the grey pre-dawn, pressing both palms against his temples, then scribbling furiously in a small writing tablet, hair wild in the wind",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "記著你！是的，我要從記憶的碑版上，拭去一切瑣碎愚蠢的記錄——只讓你的命令，孤零零留在裡面。", "en": "Remember thee! Yea, from the table of my memory I'll wipe away all trivial fond records... and thy commandment all alone shall live within the book and volume of my brain."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "{characters} turning his head toward the distant castle where one window still glows with candlelight, his face twisting into a terrible bitter smile",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "啊，萬惡的婦人！啊，奸賊，奸賊——臉上堆著笑的萬惡的奸賊！一個人可以滿面都是笑，骨子裡卻是殺人的奸賊。", "en": "O most pernicious woman! O villain, villain, smiling, damned villain!... That one may smile, and smile, and be a villain."}],
+          "quote": {"text": "滿面都是笑，骨子裡卻是殺人的奸賊", "en": "One may smile, and smile, and be a villain."}
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, and sentinel Marcellus finding {characters} on the cliff-top, all three laying hands on the prince's drawn sword to swear, faint blue light seeping up between the rocks beneath their feet",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "把手按在我的劍上宣誓——今晚看見的事，永遠不許告訴任何人。", "en": "Never make known what you have seen to-night... upon my sword... Swear."},
+            {"speaker": "鬼魂", "text": "（地底下）宣誓！", "en": "(beneath) Swear!"}
+          ]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the three men descending the dark cliff path toward the castle in single file at dawn, {characters} last in line, pausing to look back at the paling sky",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "這是一個顛倒混亂的時代——唉，倒楣的我，卻要負起重整乾坤的責任！", "en": "The time is out of joint: O cursed spite, that ever I was born to set it right!"}],
+          "quote": {"text": "這是一個顛倒混亂的時代", "en": "The time is out of joint."}
+        }
+      ]
+    }
+  ]
+}

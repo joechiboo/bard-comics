@@ -1,0 +1,114 @@
+{
+  "title": "奧賽羅 1-1~2 威尼斯之夜",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, Venetian chiaroscuro atmosphere",
+  "characters": "Iago, a lean soldier with cropped sandy hair, a neat short beard, hooded watchful eyes, in a plain buff military jerkin",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "night-time Venice, a narrow canal under a crooked footbridge, black water reflecting scattered torchlight, two cloaked figures hurrying along the waterline between tall shuttered houses",
+          "dialogue": [{"speaker": "旁白", "text": "威尼斯。深夜。有人剛剛帶走了元老勃拉班修的女兒——消息最快的，永遠是心懷鬼胎的人。", "en": "Venice, deep in the night. A senator's daughter has just been carried away — and the first to know are those with poison in their hearts."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "{characters} gripping the sleeve of Roderigo, a foppish rich young Venetian with limp curled hair, a drooping feather in his cap, a perpetually anxious face, under a guttering wall torch",
+          "dialogue": [
+            {"speaker": "羅德利哥", "text": "你一直花我的錢，卻早知道這件事——伊阿古，你太不夠朋友了！", "en": "Tush! never tell me; I take it much unkindly that thou, Iago, who hast had my purse as if the strings were thine, shouldst know of this."},
+            {"speaker": "伊阿古", "text": "他媽的！你根本不聽我說。我恨那摩爾人——他把副將的位置給了那個只會紙上談兵的佛羅倫斯人卡西歐，而我，只落得替他扛旗。", "en": "'Sblood, but you will not hear me... I know my price, I am worth no worse a place... 'Despise me, if I do not.' He, in good time, must his lieutenant be, and I—God bless the mark!—his Moorship's ancient."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "close-up of {characters} leaning against the bridge parapet, half his face in torchlight half in blackness, a thin knowing smile, one hand laid flat over his own heart in mock sincerity",
+          "dialogue": [{"speaker": "伊阿古", "text": "我跟隨他，其實是跟隨我自己。天知道——我不是為了忠心和義務，只是假裝忠心，等著替自己打算。世人所知道的我，並不是實在的我。", "en": "In following him, I follow but myself; heaven is my judge, not I for love and duty, but seeming so, for my peculiar end... I am not what I am."}],
+          "quote": {"text": "世人所知道的我，並不是實在的我", "en": "I am not what I am."}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "{characters} and Roderigo, a foppish rich young Venetian with limp curled hair, a drooping feather in his cap, a perpetually anxious face, standing beneath the tall dark facade of a Venetian palazzo, Iago cupping his hands to shout up at the shuttered windows",
+          "dialogue": [{"speaker": "伊阿古", "text": "去，把她父親叫醒！大聲嚷，讓全城都聽見——喂！勃拉班修！勃拉班修老爺！起來！有賊！", "en": "Call up her father, rouse him... Awake! what, ho, Brabantio! thieves! thieves! thieves!"}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "Brabantio, an old Venetian senator with thin white hair under a black cap, a dark damask robe with a heavy gold chain, flinging open the shutters of an upper window with a candle, furious and disheveled from sleep",
+          "dialogue": [
+            {"speaker": "勃拉班修", "text": "半夜三更鬼叫什麼？你們是什麼人？", "en": "What is the reason of this terrible summons? What is the matter there?"},
+            {"speaker": "伊阿古", "text": "（黑暗中）老爺，您的心要碎了——就在這會兒，一頭老黑羊正在跟您的白母羊交配！起來，起來！", "en": "(from the dark) 'Zounds, sir, you're robb'd... Even now, now, very now, an old black ram is topping your white ewe. Arise, arise!"}
+          ]
+        },
+        {
+          "weight": 0.55,
+          "prompt": "the palazzo erupting with light, servants with torches spilling out of the door, Brabantio, an old Venetian senator with thin white hair under a black cap, a dark damask robe with a heavy gold chain, on the steps clutching his robe closed, howling at the empty bedchamber window above, while in the deep foreground shadow {characters} slips away along the canal wall unseen",
+          "dialogue": [
+            {"speaker": "勃拉班修", "text": "點起火把！叫醒我所有的人！——真的走了！黛絲德夢娜！啊，被騙走的父親！", "en": "Strike on the tinder, ho! Give me a taper! call up all my people!... It is too true an evil: gone she is."},
+            {"speaker": "伊阿古", "text": "（低聲）我得走了。讓我這面旗，繼續插在摩爾人身邊。", "en": "(aside) Farewell; for I must leave you... I must show out a flag and sign of love."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a torch-lit courtyard before a Venetian inn, Othello, a powerful Moorish general with deep brown skin, a shaved head, a short grizzled black beard, a single gold hoop earring, a curved scimitar at his hip, standing calm and unarmored as {characters} hurries up to him with urgent gestures",
+          "dialogue": [
+            {"speaker": "伊阿古", "text": "將軍，那老頭兒說話太難聽，我幾乎忍不住要捅他。他們就要來抓您了——躲一躲吧？", "en": "Nine or ten times I had thought to have yerk'd him here under the ribs... He will divorce you... You were best go in."},
+            {"speaker": "奧賽羅", "text": "不必。讓他們來。我的人品、我的地位和我無愧的良心，自然會替我說話。", "en": "Not I; I must be found: my parts, my title and my perfect soul shall manifest me rightly."}
+          ]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "torches and drawn swords flooding into the courtyard from two directions, Brabantio's armed servants on one side, officers of the Duke on the other, Othello, a powerful Moorish general with deep brown skin, a shaved head, a short grizzled black beard, a single gold hoop earring, a curved scimitar at his hip, standing motionless in the centre, one open palm raised",
+          "dialogue": [{"speaker": "奧賽羅", "text": "把你們雪亮的劍收起來吧——夜露會鏽壞它們的。", "en": "Keep up your bright swords, for the dew will rust them."}],
+          "quote": {"text": "把你們雪亮的劍收起來吧，夜露會鏽壞它們", "en": "Keep up your bright swords, for the dew will rust them."}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Brabantio, an old Venetian senator with thin white hair under a black cap, a dark damask robe with a heavy gold chain, pushing through his armed servants to jab a trembling finger in the face of the towering calm Moorish general",
+          "dialogue": [{"speaker": "勃拉班修", "text": "萬惡的賊！你把我的女兒藏到哪裡去了？你一定是用魔法迷住了她——不然她怎麼會逃出閨房，投進你這黑炭一樣的胸口！", "en": "O thou foul thief, where hast thou stow'd my daughter? Damn'd as thou art, thou hast enchanted her... Run from her guardage to the sooty bosom of such a thing as thou."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "an officer of the Duke stepping between the old senator and the general, holding up a sealed dispatch, distant war-drums implied by running messengers with torches behind him",
+          "dialogue": [
+            {"speaker": "軍官", "text": "兩位大人，公爵正連夜召開緊急會議——土耳其艦隊正撲向賽普勒斯，點名要奧賽羅將軍。", "en": "The duke's in council and your noble self, I am sure, is sent for... The Turkish fleet makes for Cyprus."},
+            {"speaker": "勃拉班修", "text": "好，那就到公爵面前評理去！", "en": "Away to council... I'll have't disputed on."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "the whole party marching along a torch-lit canal toward the distant lit windows of the Doge's palace, Othello, a powerful Moorish general with deep brown skin, a shaved head, a short grizzled black beard, a single gold hoop earring, a curved scimitar at his hip, walking unbowed at the front, the old senator fuming beside him, armed men trailing",
+          "dialogue": [{"speaker": "旁白", "text": "同一個晚上——戰爭與控訴，一起送到了公爵的桌上。", "en": "In one and the same night, war and accusation arrive together at the Duke's table."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "{characters} lingering last at the rear of the procession, pausing on the bridge to look straight out of the panel at the reader, torchlight from below carving his face into a mask, a faint sickly green tint in the shadows around his hooded eyes",
+          "dialogue": [{"speaker": "伊阿古", "text": "（自語）錢包裡有錢的傻瓜跟著我，摩爾人信任我。好戲——才剛剛開場。", "en": "(aside) Thus do I ever make my fool my purse... The Moor is of a free and open nature... Hell and night must bring this monstrous birth to the world's light."}]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "title": "李爾王 1-1 分國土",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, bleak windswept atmosphere",
+  "characters": "King Lear, a mighty old king with a wild mane of white hair, a long white beard, deep-lined imperious face, fierce hawk-like eyes",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "vast ancient British throne hall with rough-hewn stone pillars and hanging banners, a great map of Britain spread across a long table, courtiers assembling, cold light from high narrow windows",
+          "dialogue": [{"speaker": "旁白", "text": "不列顛。年老的李爾王決定退位，把國土分給三個女兒——按照她們有多愛他。", "en": "Britain. Old King Lear will divide his kingdom among his three daughters — measured by how much they love him."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Earl of Kent, a solid grey-bearded nobleman with a weathered honest face, plain sturdy clothes and a broad sword belt, talking quietly with Earl of Gloucester, a stout old courtier with a short white beard, a rich chain of office, leaning on a walking staff, beside them Edmund, a handsome young man with slicked black hair and a trim pointed beard, a half-smile that never reaches his eyes, a fine dark doublet, standing a step behind in shadow",
+          "dialogue": [
+            {"speaker": "肯特", "text": "我想王上對於奧本尼公爵，比對於康華爾公爵更有好感。", "en": "I thought the king had more affected the Duke of Albany than Cornwall."},
+            {"speaker": "葛羅斯特", "text": "我們一向都是這樣想。可是這次分割國土，倒看不出他偏心誰。這是我的兒子愛德蒙——私生的，可我一樣疼他。", "en": "It did always seem so to us: but now, in the division of the kingdom, it appears not which of the dukes he values most... this knave came something saucily into the world... yet was his mother fair."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters} in a great fur-trimmed royal robe and heavy gold crown sweeping into the hall, the whole court bowing low, he slams a hand down on the great map of Britain on the table",
+          "dialogue": [{"speaker": "李爾", "text": "把那地圖給我。聽著——我已經把國土劃成三份。我老了，決心擺脫一切政務的重擔，把它交給年輕力壯的人。", "en": "Give me the map there. Know that we have divided in three our kingdom: and 'tis our fast intent to shake all cares and business from our age, conferring them on younger strengths."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "{characters} in royal robe and crown spreading his arms wide from the throne dais, three daughters standing below: Goneril, a tall haughty duchess with dark hair under a severe jeweled headdress, cold narrow eyes, a high-collared black and gold gown, Regan, a sharp-faced smiling duchess with auburn hair in twin coiled braids, a fox-fur stole around her shoulders, and Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels",
+          "dialogue": [{"speaker": "李爾", "text": "孩子們，告訴我——你們中間，誰最愛我？誰說得最好，就分到最大的一份。高納里爾，你先說。", "en": "Tell me, my daughters... which of you shall we say doth love us most? That we our largest bounty may extend where nature doth with merit challenge. Goneril, our eldest-born, speak first."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.35,
+          "prompt": "Goneril, a tall haughty duchess with dark hair under a severe jeweled headdress, cold narrow eyes, a high-collared black and gold gown, sweeping into a deep curtsy with theatrical grace, one hand over her heart",
+          "dialogue": [{"speaker": "高納里爾", "text": "父親，我對您的愛，不是言語所能表達的。我愛您勝過自己的眼睛、整個的空間和廣大的自由——", "en": "Sir, I love you more than words can wield the matter; dearer than eye-sight, space, and liberty."}]
+        },
+        {
+          "weight": 0.35,
+          "prompt": "Regan, a sharp-faced smiling duchess with auburn hair in twin coiled braids, a fox-fur stole around her shoulders, pressing both hands to her breast with an even more theatrical rapture, glancing sideways at her elder sister",
+          "dialogue": [{"speaker": "里根", "text": "姊姊說出了我的心裡話——只是還說得不夠。除了愛您，一切的快樂我都視同仇敵。", "en": "I am made of that self metal as my sister... Only she comes too short: that I profess myself an enemy to all other joys."}]
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, eyes downcast, hands clasped tight, whispering to herself",
+          "dialogue": [{"speaker": "寇蒂莉亞", "text": "（低聲）寇蒂莉亞該怎麼辦？只有愛在心裡，不說話。", "en": "(aside) What shall Cordelia do? Love, and be silent."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "{characters} in royal robe and crown leaning forward from the throne with an expectant indulgent smile, beckoning to Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, standing very straight and small in the middle of the huge hall",
+          "dialogue": [
+            {"speaker": "李爾", "text": "現在，我的寶貝，我最小的女兒——為了比你姊姊們更大的一份土地，你要說些什麼？", "en": "Now, our joy, although the last, not least... what can you say to draw a third more opulent than your sisters? Speak."},
+            {"speaker": "寇蒂莉亞", "text": "沒有什麼，父親。", "en": "Nothing, my lord."}
+          ]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "tight two-shot across the map table, the old king's smile freezing, the young princess in white holding his gaze without flinching",
+          "dialogue": [
+            {"speaker": "李爾", "text": "沒有？", "en": "Nothing!"},
+            {"speaker": "寇蒂莉亞", "text": "沒有。", "en": "Nothing."},
+            {"speaker": "李爾", "text": "沒有只能換到沒有。重新說過！", "en": "Nothing will come of nothing: speak again."}
+          ],
+          "quote": {"text": "沒有只能換到沒有", "en": "Nothing will come of nothing."}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, speaking calmly with open honest hands, tears standing in her eyes but voice steady",
+          "dialogue": [{"speaker": "寇蒂莉亞", "text": "我愛您，是按照我做女兒的本分——不多，也不少。姊姊們要是把全部的愛都給了您，她們為什麼還要嫁人呢？", "en": "I love your majesty according to my bond; nor more nor less... Why have my sisters husbands, if they say they love you all?"}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "{characters} exploding up from his throne in fury, hurling his arm out in a banishing gesture, courtiers flinching back, the map crumpling under his other fist",
+          "dialogue": [{"speaker": "李爾", "text": "好，那就讓你的老實做你的嫁妝吧！憑著太陽神聖的光輝——從此我和你斷絕一切父女之情！", "en": "Let it be so; thy truth, then, be thy dower: for, by the sacred radiance of the sun... Here I disclaim all my paternal care."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "Earl of Kent, a solid grey-bearded nobleman with a weathered honest face, plain sturdy clothes and a broad sword belt, striding forward between the raging king and the pale princess, planting himself like a wall",
+          "dialogue": [
+            {"speaker": "肯特", "text": "王上！李爾發了瘋，肯特也只好放肆。你這老頭兒想幹什麼？你以為有權有位的人向諂媚低頭，盡忠的人就不敢說話了嗎？", "en": "Be Kent unmannerly, when Lear is mad. What wilt thou do, old man? Think'st thou that duty shall have dread to speak, when power to flattery bows?"},
+            {"speaker": "李爾", "text": "肯特，你要是想活命，別再說了！", "en": "Kent, on thy life, no more."}
+          ]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} with his hand on his sword hilt half-drawn, Kent, a solid grey-bearded nobleman with a weathered honest face, plain sturdy clothes and a broad sword belt, kneeling but unbowed, chin high, courtiers frozen in horror around them",
+          "dialogue": [
+            {"speaker": "肯特", "text": "我的命本來就是替你擋災用的。殺了我吧——只求你看清楚一點：小女兒並不是最不愛你的那一個。", "en": "My life I never held but as a pawn to wage against thy enemies... See better, Lear... Thy youngest daughter does not love thee least."},
+            {"speaker": "李爾", "text": "滾出我的國土！給你五天收拾行李——第六天再讓我看見你，立刻處死！", "en": "Out of my sight!... Five days we do allot thee... If, on the tenth day following, thy banish'd trunk be found in our dominions, the moment is thy death."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.45,
+          "prompt": "the King of France, a dignified young king in a fleur-de-lis embroidered cloak and slim crown, taking the hand of Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, before the whole court",
+          "dialogue": [{"speaker": "法蘭西王", "text": "被無情丟棄的，反而更值得珍愛。美麗的寇蒂莉亞，你一無所有，卻最富有——做我的王后，統治美好的法蘭西吧。", "en": "Fairest Cordelia, that art most rich, being poor; most choice, forsaken; and most loved, despised! Thee and thy virtues here I seize upon."}],
+          "quote": {"text": "一無所有，卻最富有", "en": "Most rich, being poor."}
+        },
+        {
+          "weight": 0.55,
+          "prompt": "Cordelia in white pausing at the great doors beside the French king, looking back over her shoulder at her two sisters, Goneril, a tall haughty duchess with dark hair under a severe jeweled headdress, cold narrow eyes, a high-collared black and gold gown, and Regan, a sharp-faced smiling duchess with auburn hair in twin coiled braids, a fox-fur stole around her shoulders, standing close together like conspirators",
+          "dialogue": [{"speaker": "寇蒂莉亞", "text": "我知道你們是怎樣的人。姊姊們，好好對待父親——我把他託付給你們口口聲聲的孝心了。", "en": "I know you what you are... Love well our father: to your professed bosoms I commit him."}]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "the emptied throne hall at dusk, Goneril and Regan alone by the crumpled map of Britain, heads bent together in the shadows, their jeweled silhouettes merging into one dark shape",
+          "dialogue": [
+            {"speaker": "高納里爾", "text": "妹妹，父親年老糊塗，今天連寇蒂莉亞都趕走了——他這暴躁的脾氣，往後只會更壞。", "en": "You see how full of changes his age is... he always loved our sister most; and with what poor judgment he hath now cast her off."},
+            {"speaker": "里根", "text": "趁熱打鐵。我們得一起想個辦法。", "en": "We shall further think on't... We must do something, and i' the heat."}
+          ]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "outside the hall, {characters} in his great fur robe but seen small from behind through the doorway, walking away down a long dark corridor, his long shadow thrown ahead of him by torchlight, the discarded map of Britain lying torn on the floor in the foreground",
+          "dialogue": [{"speaker": "旁白", "text": "老王還帶著一百名騎士、王的頭銜，和兩個女兒的承諾。他很快就會知道，這些承諾值多少錢。", "en": "The old king keeps a hundred knights, the name of king, and two daughters' promises. He will soon learn what such promises are worth."}]
+        }
+      ]
+    }
+  ]
+}

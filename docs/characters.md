@@ -45,6 +45,50 @@
   紅色在本劇不使用，全劇黑白＋單點幽藍。
 - 城牆戲（1-1、1-4to5）統一意象：海霧、垛口、遠處城堡燈火——與宮廷戲的燭光暖調對比。
 
+## 李爾王 King Lear
+
+人名採台灣慣用譯名（見 docs/text-sources.md 對照表）。李爾的袍服與王冠隨劇情剝落，
+不進 token——token 只鎖臉部特徵，衣著逐場在 prompt 內指定。
+
+| 角色 | 特徵 token（進 prompt 的原文） | 視覺錨點 | 首次登場 |
+| --- | --- | --- | --- |
+| 李爾 | `King Lear, a mighty old king with a wild mane of white hair, a long white beard, deep-lined imperious face, fierce hawk-like eyes` | 白髮鬃獅 | 1-1 |
+| 高納里爾 | `Goneril, a tall haughty duchess with dark hair under a severe jeweled headdress, cold narrow eyes, a high-collared black and gold gown` | 高聳珠冠冷眼 | 1-1 |
+| 里根 | `Regan, a sharp-faced smiling duchess with auburn hair in twin coiled braids, a fox-fur stole around her shoulders` | 狐裘雙辮假笑 | 1-1 |
+| 寇蒂莉亞 | `Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels` | 素白無飾 | 1-1 |
+| 肯特 | `Earl of Kent, a solid grey-bearded nobleman with a weathered honest face, plain sturdy clothes and a broad sword belt` | 灰鬚寬劍帶 | 1-1 |
+| 葛羅斯特 | `Earl of Gloucester, a stout old courtier with a short white beard, a rich chain of office, leaning on a walking staff` | 官鏈手杖 | 1-1 |
+| 愛德蒙 | `Edmund, a handsome young man with slicked black hair and a trim pointed beard, a half-smile that never reaches his eyes, a fine dark doublet` | 油亮黑髮半笑 | 1-1 |
+| 愛德加 | `Edgar, an earnest young nobleman with curly brown hair and an open honest face, in plain riding clothes` | 棕捲髮憨直 | 1-2（瘋乞丐湯姆造型逐場另述） |
+| 弄人 | `the Fool, a small wiry jester in a patched motley coat and a drooping three-pointed cap with tiny bells, sad knowing eyes` | 三角鈴帽悲眼 | 1-3 |
+
+### 全劇風格（李爾王）
+
+- `style_suffix`：`black and white ink comic style, high contrast, heavy shadows, bleak windswept atmosphere`
+- **無特許色**：四大悲劇中唯一純黑白的一部——荒野、暴風雨、白髮，最亮的白留給閃電。
+  刻意與馬克白（紅）、哈姆雷特（幽藍）、奧賽羅（綠）區隔。
+
+## 奧賽羅 Othello
+
+人名採台灣慣用譯名（見 docs/text-sources.md 對照表）。
+
+| 角色 | 特徵 token（進 prompt 的原文） | 視覺錨點 | 首次登場 |
+| --- | --- | --- | --- |
+| 奧賽羅 | `Othello, a powerful Moorish general with deep brown skin, a shaved head, a short grizzled black beard, a single gold hoop earring, a curved scimitar at his hip` | 光頭金耳環彎刀 | 1-1 |
+| 伊阿古 | `Iago, a lean soldier with cropped sandy hair, a neat short beard, hooded watchful eyes, in a plain buff military jerkin` | 低垂眼皮 | 1-1 |
+| 黛絲德夢娜 | `Desdemona, a graceful young Venetian lady with long golden hair in a loose braid, gentle bright eyes, in a pale silk gown with a delicate lace collar` | 金髮鬆辮蕾絲領 | 1-2（元老院） |
+| 卡西歐 | `Cassio, a handsome young Florentine officer, clean-shaven with wavy chestnut hair, an elegant half-cape and a rapier` | 俊秀半披風 | 1-2 |
+| 羅德利哥 | `Roderigo, a foppish rich young Venetian with limp curled hair, a drooping feather in his cap, a perpetually anxious face` | 垂羽帽苦臉 | 1-1 |
+| 勃拉班修 | `Brabantio, an old Venetian senator with thin white hair under a black cap, a dark damask robe with a heavy gold chain` | 黑帽金鏈 | 1-1 |
+| 愛米莉霞 | `Emilia, a practical middle-aged woman with brown hair pinned under a linen coif, a ring of household keys at her waist` | 亞麻頭巾鑰匙串 | 3-x（手帕） |
+
+### 全劇風格（奧賽羅）
+
+- `style_suffix`：`black and white ink comic style, high contrast, heavy shadows, Venetian chiaroscuro atmosphere`
+  （威尼斯／賽普勒斯的強烈明暗——運河夜色、火把、白牆烈日）
+- **特許色綠**（`a sickly green tint`）：「綠眼的妖魔」＝嫉妒。只用在伊阿古毒語入耳、
+  奧賽羅妒火發作的格；手帕等關鍵物件維持黑白強調。
+
 ## 使用方式
 
 - 該場最常出鏡的角色（或「整組同場」如三女巫）放 JSON 頂層 `characters` 欄位，prompt 用 `{characters}` 引用。

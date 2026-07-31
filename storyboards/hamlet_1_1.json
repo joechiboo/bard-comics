@@ -1,0 +1,111 @@
+{
+  "title": "哈姆雷特 1-1 城牆亡魂",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "very wide establishing shot of Elsinore castle on a sea cliff at midnight, sea mist rolling over the battlements, a single torch flickering on the wall walk, cold moonlight through torn clouds",
+          "dialogue": [{"speaker": "旁白", "text": "丹麥，艾辛諾爾城堡。老王駕崩不滿兩月，王弟已戴上王冠，娶了王后。", "en": "Elsinore, Denmark. The old king not two months dead; his brother now wears the crown, and has married the queen."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "on the dark battlements, sentinel Francisco in a heavy hooded cloak gripping a spear, spinning around startled toward an approaching torch, sentinel Barnardo emerging from the mist with halberd raised",
+          "dialogue": [
+            {"speaker": "勃那多", "text": "那邊是誰？", "en": "Who's there?"},
+            {"speaker": "弗蘭西斯柯", "text": "不，你先回答我！站住，報上名來！", "en": "Nay, answer me: stand, and unfold yourself."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "sentinel Francisco in a heavy hooded cloak hunching his shoulders against the cold as he hands over the watch, breath visible in the freezing air, sentinel Barnardo with halberd standing guard",
+          "dialogue": [{"speaker": "弗蘭西斯柯", "text": "謝謝你來換班。天冷得厲害，我心裡也發慌。這裡靜得連一隻老鼠都不動。", "en": "For this relief much thanks: 'tis bitter cold, and I am sick at heart. Not a mouse stirring."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} arriving on the battlements with sentinel Marcellus carrying a halberd, Horatio smiling skeptically with folded arms, torchlight on stone crenellations",
+          "dialogue": [
+            {"speaker": "馬西勒斯", "text": "霍拉旭說那不過是我們的幻想。", "en": "Horatio says 'tis but our fantasy."},
+            {"speaker": "霍拉旭", "text": "呸，呸，它才不會出現。", "en": "Tush, tush, 'twill not appear."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.3,
+          "prompt": "sentinel Barnardo pointing up past the crenellations at a bright lone star in the black sky, the others leaning in to listen, low camp-fire glow on their faces",
+          "dialogue": [{"speaker": "勃那多", "text": "就在昨天晚上——那顆星剛移到現在的位置，鐘敲一點的時候——", "en": "Last night of all, when yond same star that's westward from the pole... The bell then beating one—"}]
+        },
+        {
+          "weight": 0.7,
+          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, materializing out of the sea mist on the battlements, the three men recoiling in terror, torch guttering",
+          "dialogue": [{"speaker": "馬西勒斯", "text": "噓，別說了！瞧，它又來了！", "en": "Peace, break thee off; look, where it comes again!"}],
+          "quote": {"text": "瞧，它又來了！", "en": "Look, where it comes again!"}
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "{characters} stepping forward pale but resolute, raising an open hand toward the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, the two sentinels cowering behind",
+          "dialogue": [{"speaker": "霍拉旭", "text": "你是什麼東西——竟敢僭用先王的形貌，披著他生前的戰甲，在深夜裡遊行？憑著上天的名義，我命令你開口！", "en": "What art thou that usurp'st this time of night, together with that fair and warlike form in which the majesty of buried Denmark did sometimes march? By heaven I charge thee, speak!"}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, turning away in offended silence and striding into the mist along the wall walk",
+          "dialogue": [
+            {"speaker": "馬西勒斯", "text": "它生氣了，走了！", "en": "It is offended... See, it stalks away!"},
+            {"speaker": "勃那多", "text": "怎麼樣，霍拉旭？你在發抖，臉色發白。這總不只是幻想吧？", "en": "How now, Horatio! You tremble and look pale. Is not this something more than fantasy?"}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "close-up of {characters} shaken, staring at the empty mist where the ghost vanished, gripping the cold stone crenellation",
+          "dialogue": [{"speaker": "霍拉旭", "text": "要不是我親眼看見，我死也不肯相信。那分明是先王——連盔甲都跟他生前一模一樣。這預示著國家將有一場大變故。", "en": "Before my God, I might not this believe without the sensible and true avouch of mine own eyes. Such was the very armour he had on... This bodes some strange eruption to our state."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, reappearing with arms spread wide as if about to speak, Horatio lunging toward it, a rooster crowing on a distant rooftop silhouette",
+          "dialogue": [
+            {"speaker": "霍拉旭", "text": "站住！說話呀！我命令你，說話！", "en": "Stay! speak, speak! I charge thee, speak!"},
+            {"speaker": "音效", "text": "喔——喔——", "en": "The cock crows."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "wide shot of dawn breaking over the sea cliffs beyond the battlements, warm first light spilling across the dew on a high eastern hill, the night mist dissolving, three small figures on the wall",
+          "dialogue": [{"speaker": "霍拉旭", "text": "雞一叫，它就像罪人聽見傳喚一樣消失了。瞧，清晨披著赤褐色的外衣，已經踏著露水，走上東邊的山頭。", "en": "It faded on the crowing of the cock. But, look, the morn, in russet mantle clad, walks o'er the dew of yon high eastward hill."}],
+          "quote": {"text": "清晨披著赤褐色的外衣，踏著露水走來", "en": "The morn, in russet mantle clad, walks o'er the dew."}
+        },
+        {
+          "weight": 0.45,
+          "prompt": "{characters} turning to the two sentinels with grave resolve, morning light hard on their tired faces, the castle towers behind",
+          "dialogue": [{"speaker": "霍拉旭", "text": "把昨晚的事告訴年輕的哈姆雷特吧。我用性命打賭——這鬼魂對我們不開口，見了他一定會說話。", "en": "Let us impart what we have seen to-night unto young Hamlet; for, upon my life, this spirit, dumb to us, will speak to him."}]
+        }
+      ]
+    }
+  ]
+}

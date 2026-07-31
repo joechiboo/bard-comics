@@ -10,15 +10,32 @@
           "weight": 0.5,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, and Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, slipping behind a heavy tapestry, while Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, is posed alone in the gallery with an open prayer book",
           "dialogue": [
-            {"speaker": "波隆尼", "text": "拿著這本書讀，掩飾一下。他來了——我們躲起來吧。", "en": "Read on this book; that show of such an exercise may colour your loneliness... I hear him coming: let's withdraw, my lord."},
-            {"speaker": "克勞地", "text": "（內心）唉，這句話鞭在我的良心上，多重的一鞭！", "en": "(aside) How smart a lash that speech doth give my conscience!"}
+            {
+              "speaker": "波隆尼",
+              "text": "拿著這本書讀，掩飾一下。他來了——我們躲起來吧。",
+              "en": "Read on this book; that show of such an exercise may colour your loneliness... I hear him coming: let's withdraw, my lord."
+            },
+            {
+              "speaker": "克勞地",
+              "text": "（內心）唉，這句話鞭在我的良心上，多重的一鞭！",
+              "en": "(aside) How smart a lash that speech doth give my conscience!"
+            }
           ]
         },
         {
           "weight": 0.5,
           "prompt": "very wide shot of a long empty stone gallery with high narrow windows, {characters} entering small at the far end, his long shadow stretched across the flagstones",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "生存還是毀滅——這是一個值得考慮的問題。", "en": "To be, or not to be: that is the question."}],
-          "quote": {"text": "生存還是毀滅，這是一個值得考慮的問題", "en": "To be, or not to be: that is the question."}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "生存還是毀滅——這是一個值得考慮的問題。",
+              "en": "To be, or not to be: that is the question."
+            }
+          ],
+          "quote": {
+            "text": "生存還是毀滅，這是一個值得考慮的問題",
+            "en": "To be, or not to be: that is the question."
+          }
         }
       ]
     },
@@ -27,14 +44,29 @@
       "panels": [
         {
           "weight": 0.65,
-          "prompt": "side profile of {characters} standing at a tall arched window, grey sea light on his face, one hand pressed flat against the cold glass, storm clouds over the water beyond",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "默然忍受命運暴虐的毒箭，或是挺身反抗人世無涯的苦難，哪一種更高貴？死了——睡著了——什麼都完了。", "en": "Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them? To die: to sleep; no more."}]
+          "prompt": "very wide shot from the far end of the long gallery, {characters} pacing slowly between pools of cold window light, head bowed, hands clasped behind his back, his long shadow breaking across the flagstones, dust motes in the light shafts",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "默然忍受命運暴虐的毒箭，或是挺身反抗人世無涯的苦難，哪一種更高貴？死了——睡著了——什麼都完了。",
+              "en": "Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them? To die: to sleep; no more."
+            }
+          ]
         },
         {
           "weight": 0.35,
-          "prompt": "extreme close-up of the prince's shadowed sleepless eyes staring into darkness, a faint reflection of clouds moving across them",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "誰願意負著重擔呻吟流汗——倘不是因為懼怕死後的那個神秘之國，那個從來不曾有一個旅人回來過的地方？", "en": "Who would fardels bear, to grunt and sweat under a weary life, but that the dread of something after death, the undiscover'd country from whose bourn no traveller returns, puzzles the will?"}],
-          "quote": {"text": "從來不曾有一個旅人回來過的神秘之國", "en": "The undiscover'd country from whose bourn no traveller returns."}
+          "prompt": "medium shot from behind, {characters} leaning his forehead against the cold window glass, one fist pressed to the frame, shoulders slumped, the grey storm-lit sea filling the window before him",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "誰願意負著重擔呻吟流汗——倘不是因為懼怕死後的那個神秘之國，那個從來不曾有一個旅人回來過的地方？",
+              "en": "Who would fardels bear, to grunt and sweat under a weary life, but that the dread of something after death, the undiscover'd country from whose bourn no traveller returns, puzzles the will?"
+            }
+          ],
+          "quote": {
+            "text": "從來不曾有一個旅人回來過的神秘之國",
+            "en": "The undiscover'd country from whose bourn no traveller returns."
+          }
         }
       ]
     },
@@ -43,17 +75,34 @@
       "panels": [
         {
           "weight": 0.45,
-          "prompt": "Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, holding out a small bundle of letters and trinkets with both hands, eyes lowered, {characters} stopping short at the sight of her",
+          "prompt": "over-the-shoulder shot from behind the dark shoulder of the black-clad prince, Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, holding out a small bundle of letters and trinkets toward him with both hands, eyes lowered, the long gallery windows behind her",
           "dialogue": [
-            {"speaker": "奧菲莉亞", "text": "殿下，這些是您送我的紀念品——請您收回去吧。", "en": "My lord, I have remembrances of yours, that I have longed long to re-deliver; I pray you, now receive them."},
-            {"speaker": "哈姆雷特", "text": "不，我從來沒有給過你什麼。", "en": "No, not I; I never gave you aught."}
+            {
+              "speaker": "奧菲莉亞",
+              "text": "殿下，這些是您送我的紀念品——請您收回去吧。",
+              "en": "My lord, I have remembrances of yours, that I have longed long to re-deliver; I pray you, now receive them."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "不，我從來沒有給過你什麼。",
+              "en": "No, not I; I never gave you aught."
+            }
           ]
         },
         {
           "weight": 0.55,
-          "prompt": "{characters} suddenly harsh, glancing sideways at the trembling tapestry then rounding on the shrinking girl, his face half rage half heartbreak",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "你貞潔嗎？你美麗嗎？……到修道院去吧！為什麼要生一群罪人出來？我們都是十足的壞人——一個也不要相信。去吧！", "en": "Ha, ha! are you honest?... Get thee to a nunnery: why wouldst thou be a breeder of sinners?... We are arrant knaves, all; believe none of us. Go thy ways to a nunnery."}],
-          "quote": {"text": "到修道院去吧", "en": "Get thee to a nunnery."}
+          "prompt": "dynamic two-shot, {characters} flinging the bundle of letters into the air between them mid-shout, papers scattering like startled birds, his cloak swirling, the girl flinching back with an arm raised, seen slightly from below",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "你貞潔嗎？你美麗嗎？……到修道院去吧！為什麼要生一群罪人出來？我們都是十足的壞人——一個也不要相信。去吧！",
+              "en": "Ha, ha! are you honest?... Get thee to a nunnery: why wouldst thou be a breeder of sinners?... We are arrant knaves, all; believe none of us. Go thy ways to a nunnery."
+            }
+          ],
+          "quote": {
+            "text": "到修道院去吧",
+            "en": "Get thee to a nunnery."
+          }
         }
       ]
     },
@@ -62,14 +111,29 @@
       "panels": [
         {
           "weight": 0.55,
-          "prompt": "the black-clad prince storming away down the gallery, cloak flaring, while Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, sinks to her knees among scattered letters and trinkets",
-          "dialogue": [{"speaker": "奧菲莉亞", "text": "啊，一顆多麼高貴的心，就這樣隕落了！朝臣的眼睛、學者的辯舌、軍人的利劍——國家所矚望的一朵嬌花——全完了。", "en": "O, what a noble mind is here o'erthrown! The courtier's, soldier's, scholar's, eye, tongue, sword; the expectancy and rose of the fair state... quite, quite down!"}],
-          "quote": {"text": "一顆多麼高貴的心，就這樣隕落了", "en": "O, what a noble mind is here o'erthrown!"}
+          "prompt": "deep-focus shot: in the foreground Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, kneeling among scattered letters gathering them with shaking hands, while far down the gallery the small black-clad figure of the prince strides away, cloak flaring",
+          "dialogue": [
+            {
+              "speaker": "奧菲莉亞",
+              "text": "啊，一顆多麼高貴的心，就這樣隕落了！朝臣的眼睛、學者的辯舌、軍人的利劍——國家所矚望的一朵嬌花——全完了。",
+              "en": "O, what a noble mind is here o'erthrown! The courtier's, soldier's, scholar's, eye, tongue, sword; the expectancy and rose of the fair state... quite, quite down!"
+            }
+          ],
+          "quote": {
+            "text": "一顆多麼高貴的心，就這樣隕落了",
+            "en": "O, what a noble mind is here o'erthrown!"
+          }
         },
         {
           "weight": 0.45,
           "prompt": "the heavy tapestry pushed aside, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, emerging with a hard calculating face, Polonius behind him still peering after the departed prince, the kneeling girl ignored between them",
-          "dialogue": [{"speaker": "克勞地", "text": "戀愛？他的心事不在戀愛上。他說的話雖然顛三倒四，也不像瘋狂。——把他送到英格蘭去。", "en": "Love! his affections do not that way tend; nor what he spake, though it lack'd form a little, was not like madness... he shall with speed to England."}]
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "戀愛？他的心事不在戀愛上。他說的話雖然顛三倒四，也不像瘋狂。——把他送到英格蘭去。",
+              "en": "Love! his affections do not that way tend; nor what he spake, though it lack'd form a little, was not like madness... he shall with speed to England."
+            }
+          ]
         }
       ]
     },
@@ -78,14 +142,29 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "low-angle close-up of King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, staring down the dark gallery after the prince, candlelight from below turning his face into a cold mask",
-          "dialogue": [{"speaker": "克勞地", "text": "他的靈魂裡孵育著什麼東西……偉大人物的瘋狂，是不能聽其自然的。", "en": "There's something in his soul, o'er which his melancholy sits on brood... Madness in great ones must not unwatch'd go."}],
-          "quote": {"text": "偉大人物的瘋狂，是不能聽其自然的", "en": "Madness in great ones must not unwatch'd go."}
+          "prompt": "conspiratorial two-shot at the edge of the heavy tapestry, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, gripping the arm of an old stooped councillor seen from behind, both peering down the dark gallery after the departed prince, candlelight cutting their silhouettes out of the gloom",
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "他的靈魂裡孵育著什麼東西……偉大人物的瘋狂，是不能聽其自然的。",
+              "en": "There's something in his soul, o'er which his melancholy sits on brood... Madness in great ones must not unwatch'd go."
+            }
+          ],
+          "quote": {
+            "text": "偉大人物的瘋狂，是不能聽其自然的",
+            "en": "Madness in great ones must not unwatch'd go."
+          }
         },
         {
           "weight": 0.4,
           "prompt": "wide lonely shot of the empty gallery at dusk, the small pale figure of Ophelia still kneeling amid scattered letters, grey light dying in the tall windows",
-          "dialogue": [{"speaker": "旁白", "text": "沒有人問過誘餌痛不痛。", "en": "No one ever asks the bait whether it bleeds."}]
+          "dialogue": [
+            {
+              "speaker": "旁白",
+              "text": "沒有人問過誘餌痛不痛。",
+              "en": "No one ever asks the bait whether it bleeds."
+            }
+          ]
         }
       ]
     }

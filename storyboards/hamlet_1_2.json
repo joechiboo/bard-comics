@@ -9,12 +9,24 @@
         {
           "weight": 0.6,
           "prompt": "grand throne room of Elsinore blazing with candles, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, enthroned beside Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, courtiers bowing and smiling, while {characters} stands alone at the far edge of the hall in shadow",
-          "dialogue": [{"speaker": "旁白", "text": "葬禮的輓歌還沒散，婚禮的樂聲已經奏響。滿朝喜氣裡，只有一個人穿著黑衣。", "en": "The dirge of the funeral still hangs in the air, and already the wedding music plays. In all the merry court, one man alone wears black."}]
+          "dialogue": [
+            {
+              "speaker": "旁白",
+              "text": "葬禮的輓歌還沒散，婚禮的樂聲已經奏響。滿朝喜氣裡，只有一個人穿著黑衣。",
+              "en": "The dirge of the funeral still hangs in the air, and already the wedding music plays. In all the merry court, one man alone wears black."
+            }
+          ]
         },
         {
           "weight": 0.4,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, addressing the court from the throne with an easy practiced smile",
-          "dialogue": [{"speaker": "克勞地", "text": "王兄新喪，我們自然應當悲痛。但理智告訴我們要節哀——所以我已和昔日的皇嫂、當今的王后，結為夫婦。", "en": "Though yet of Hamlet our dear brother's death the memory be green... yet so far hath discretion fought with nature... Therefore our sometime sister, now our queen... have we taken to wife."}]
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "王兄新喪，我們自然應當悲痛。但理智告訴我們要節哀——所以我已和昔日的皇嫂、當今的王后，結為夫婦。",
+              "en": "Though yet of Hamlet our dear brother's death the memory be green... yet so far hath discretion fought with nature... Therefore our sometime sister, now our queen... have we taken to wife."
+            }
+          ]
         }
       ]
     },
@@ -25,17 +37,36 @@
           "weight": 0.45,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, turning on his throne toward {characters} with an outstretched welcoming arm, the prince's face turned away from him toward the viewer",
           "dialogue": [
-            {"speaker": "克勞地", "text": "還有你，我的姪兒哈姆雷特，我的孩子——", "en": "But now, my cousin Hamlet, and my son—"},
-            {"speaker": "哈姆雷特", "text": "（低聲）超乎尋常的親族，漠不相干的路人。", "en": "(aside) A little more than kin, and less than kind."}
+            {
+              "speaker": "克勞地",
+              "text": "還有你，我的姪兒哈姆雷特，我的孩子——",
+              "en": "But now, my cousin Hamlet, and my son—"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "（低聲）超乎尋常的親族，漠不相干的路人。",
+              "en": "(aside) A little more than kin, and less than kind."
+            }
           ],
-          "quote": {"text": "超乎尋常的親族，漠不相干的路人", "en": "A little more than kin, and less than kind."}
+          "quote": {
+            "text": "超乎尋常的親族，漠不相干的路人",
+            "en": "A little more than kin, and less than kind."
+          }
         },
         {
           "weight": 0.55,
           "prompt": "close-up two-shot, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, frowning down with feigned concern at {characters} who answers with a bitter deadpan stare",
           "dialogue": [
-            {"speaker": "克勞地", "text": "為什麼愁雲依舊籠罩在你身上？", "en": "How is it that the clouds still hang on you?"},
-            {"speaker": "哈姆雷特", "text": "不，陛下，我曬著太陽呢——曬得太多了。", "en": "Not so, my lord; I am too much i' the sun."}
+            {
+              "speaker": "克勞地",
+              "text": "為什麼愁雲依舊籠罩在你身上？",
+              "en": "How is it that the clouds still hang on you?"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "不，陛下，我曬著太陽呢——曬得太多了。",
+              "en": "Not so, my lord; I am too much i' the sun."
+            }
           ]
         }
       ]
@@ -46,12 +77,24 @@
         {
           "weight": 0.5,
           "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, rising from her throne and gently touching the black sleeve of {characters}, her face soft with worry",
-          "dialogue": [{"speaker": "葛簇特", "text": "好哈姆雷特，脫下你的黑衣吧。有生必有死，誰都要從生存踏進永恆的寧靜——這是最平常的事，何必看起來像是你一個人的不幸？", "en": "Good Hamlet, cast thy nighted colour off... Thou know'st 'tis common; all that lives must die, passing through nature to eternity... Why seems it so particular with thee?"}]
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "好哈姆雷特，脫下你的黑衣吧。有生必有死，誰都要從生存踏進永恆的寧靜——這是最平常的事，何必看起來像是你一個人的不幸？",
+              "en": "Good Hamlet, cast thy nighted colour off... Thou know'st 'tis common; all that lives must die, passing through nature to eternity... Why seems it so particular with thee?"
+            }
+          ]
         },
         {
           "weight": 0.5,
-          "prompt": "close-up of {characters} looking straight at his mother, eyes burning, one hand pressed flat against his own chest",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "「像」，母親？不，是「就是」，我不知道什麼叫「像」。黑衣、眼淚、嘆息，都演得出來——可是我心裡的東西，不是演出來的。", "en": "Seems, madam! nay it is; I know not 'seems.'... These indeed seem, for they are actions that a man might play: but I have that within which passeth show."}]
+          "prompt": "over-the-shoulder shot from behind Queen Gertrude's auburn braided hair and golden circlet, {characters} speaking straight into her face with one hand pressed flat against his own chest, candlelit throne room bokeh behind him",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "「像」，母親？不，是「就是」，我不知道什麼叫「像」。黑衣、眼淚、嘆息，都演得出來——可是我心裡的東西，不是演出來的。",
+              "en": "Seems, madam! nay it is; I know not 'seems.'... These indeed seem, for they are actions that a man might play: but I have that within which passeth show."
+            }
+          ]
         }
       ]
     },
@@ -61,12 +104,24 @@
         {
           "weight": 0.4,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, laying a heavy ringed hand on the black shoulder of {characters}, smiling wide while his eyes stay cold",
-          "dialogue": [{"speaker": "克勞地", "text": "一直沉浸在悲哀裡，是不敬天、不像男子漢的固執。把我當作你的父親吧——你是王位最直接的繼承者，留在我們身邊。", "en": "'Tis unmanly grief; it shows a will most incorrect to heaven... think of us as of a father: for let the world take note, you are the most immediate to our throne."}]
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "一直沉浸在悲哀裡，是不敬天、不像男子漢的固執。把我當作你的父親吧——你是王位最直接的繼承者，留在我們身邊。",
+              "en": "'Tis unmanly grief; it shows a will most incorrect to heaven... think of us as of a father: for let the world take note, you are the most immediate to our throne."
+            }
+          ]
         },
         {
           "weight": 0.6,
           "prompt": "very wide shot of the emptied throne hall, candles being snuffed by servants in the distance, {characters} a small solitary black figure in the vast cold space beneath towering stone pillars",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "啊，但願這太堅實的肉體會融解、消散，化成一片露水……上帝啊！這世界上的一切，在我看來是多麼可厭、陳腐、乏味而無聊！", "en": "O, that this too too solid flesh would melt, thaw and resolve itself into a dew!... How weary, stale, flat and unprofitable seem to me all the uses of this world!"}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "啊，但願這太堅實的肉體會融解、消散，化成一片露水……上帝啊！這世界上的一切，在我看來是多麼可厭、陳腐、乏味而無聊！",
+              "en": "O, that this too too solid flesh would melt, thaw and resolve itself into a dew!... How weary, stale, flat and unprofitable seem to me all the uses of this world!"
+            }
+          ]
         }
       ]
     },
@@ -76,13 +131,28 @@
         {
           "weight": 0.65,
           "prompt": "extreme close-up of the anguished face of {characters}, jaw clenched, a single candle flame reflected in his shadowed sleepless eyes, darkness pressing in from every side",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "父親死了還不到兩個月——那樣好的一個國王！母親當時哭得像個淚人——如今卻嫁給了我的叔父。脆弱啊，你的名字就是女人！", "en": "But two months dead... So excellent a king... she followed my poor father's body, like Niobe, all tears... married with my uncle. Frailty, thy name is woman!"}],
-          "quote": {"text": "脆弱啊，你的名字就是女人！", "en": "Frailty, thy name is woman!"}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "父親死了還不到兩個月——那樣好的一個國王！母親當時哭得像個淚人——如今卻嫁給了我的叔父。脆弱啊，你的名字就是女人！",
+              "en": "But two months dead... So excellent a king... she followed my poor father's body, like Niobe, all tears... married with my uncle. Frailty, thy name is woman!"
+            }
+          ],
+          "quote": {
+            "text": "脆弱啊，你的名字就是女人！",
+            "en": "Frailty, thy name is woman!"
+          }
         },
         {
           "weight": 0.35,
-          "prompt": "{characters} pressing a clenched fist against his mouth, knuckles white, swallowing his words in the dark empty hall",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "這不是好事，也不會有好結果。可是碎了吧，我的心——我必須噤住我的嘴。", "en": "It is not nor it cannot come to good: but break, my heart; for I must hold my tongue."}]
+          "prompt": "very wide shot of the empty throne hall, {characters} a small black figure slumped sideways against the base of a towering stone pillar, knees drawn up, surrounded by acres of dark flagstone, one distant candle still burning",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "這不是好事，也不會有好結果。可是碎了吧，我的心——我必須噤住我的嘴。",
+              "en": "It is not nor it cannot come to good: but break, my heart; for I must hold my tongue."
+            }
+          ]
         }
       ]
     },
@@ -93,20 +163,47 @@
           "weight": 0.45,
           "prompt": "Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, entering the hall with sentinel Marcellus, {characters} turning with the first faint light in his face",
           "dialogue": [
-            {"speaker": "霍拉旭", "text": "殿下，您永遠的忠僕霍拉旭。", "en": "Hail to your lordship!... your poor servant ever."},
-            {"speaker": "哈姆雷特", "text": "我的好朋友！你怎麼會離開威登堡，跑到艾辛諾爾來？", "en": "Sir, my good friend... But what, in faith, make you from Wittenberg?"}
+            {
+              "speaker": "霍拉旭",
+              "text": "殿下，您永遠的忠僕霍拉旭。",
+              "en": "Hail to your lordship!... your poor servant ever."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "我的好朋友！你怎麼會離開威登堡，跑到艾辛諾爾來？",
+              "en": "Sir, my good friend... But what, in faith, make you from Wittenberg?"
+            }
           ]
         },
         {
           "weight": 0.55,
           "prompt": "two-shot of {characters} and Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, the prince's bitter half-smile, his eyes drifting to the middle distance",
           "dialogue": [
-            {"speaker": "霍拉旭", "text": "殿下，我是來參加您父王葬禮的。", "en": "My lord, I came to see your father's funeral."},
-            {"speaker": "哈姆雷特", "text": "別取笑我了，同學——我看你是來喝我母后的喜酒的。葬禮上烤的肉，正好端上婚宴的桌。……我彷彿看見我的父親。", "en": "I pray thee, do not mock me, fellow-student; I think it was to see my mother's wedding... The funeral baked meats did coldly furnish forth the marriage tables... My father!—methinks I see my father."},
-            {"speaker": "霍拉旭", "text": "在哪裡，殿下？", "en": "Where, my lord?"},
-            {"speaker": "哈姆雷特", "text": "在我心靈的眼睛裡，霍拉旭。", "en": "In my mind's eye, Horatio."}
+            {
+              "speaker": "霍拉旭",
+              "text": "殿下，我是來參加您父王葬禮的。",
+              "en": "My lord, I came to see your father's funeral."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "別取笑我了，同學——我看你是來喝我母后的喜酒的。葬禮上烤的肉，正好端上婚宴的桌。……我彷彿看見我的父親。",
+              "en": "I pray thee, do not mock me, fellow-student; I think it was to see my mother's wedding... The funeral baked meats did coldly furnish forth the marriage tables... My father!—methinks I see my father."
+            },
+            {
+              "speaker": "霍拉旭",
+              "text": "在哪裡，殿下？",
+              "en": "Where, my lord?"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "在我心靈的眼睛裡，霍拉旭。",
+              "en": "In my mind's eye, Horatio."
+            }
           ],
-          "quote": {"text": "在我心靈的眼睛裡", "en": "In my mind's eye."}
+          "quote": {
+            "text": "在我心靈的眼睛裡",
+            "en": "In my mind's eye."
+          }
         }
       ]
     },
@@ -117,14 +214,28 @@
           "weight": 0.55,
           "prompt": "Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, leaning close and speaking low, {characters} seizing his arm, eyes suddenly wide",
           "dialogue": [
-            {"speaker": "霍拉旭", "text": "殿下……我想我昨天晚上看見他了。您的父王——全身甲冑，臉上的神情，悲哀多於憤怒。", "en": "My lord, I think I saw him yesternight... the king your father... Armed at point exactly... A countenance more in sorrow than in anger."},
-            {"speaker": "哈姆雷特", "text": "全身甲冑？！", "en": "Arm'd, say you?"}
+            {
+              "speaker": "霍拉旭",
+              "text": "殿下……我想我昨天晚上看見他了。您的父王——全身甲冑，臉上的神情，悲哀多於憤怒。",
+              "en": "My lord, I think I saw him yesternight... the king your father... Armed at point exactly... A countenance more in sorrow than in anger."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "全身甲冑？！",
+              "en": "Arm'd, say you?"
+            }
           ]
         },
         {
           "weight": 0.45,
           "prompt": "{characters} alone at a tall narrow window as night falls over the sea beyond, his silhouette rigid with resolve, cold moonlight edging his profile",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "今晚我跟你們一起守夜。要是它再出現，就算地獄張開嘴叫我住口，我也要跟它說話。……我父親的靈魂——全身甲冑！事情有些不妙。", "en": "I will watch to-night; perchance 'twill walk again... I'll speak to it, though hell itself should gape and bid me hold my peace... My father's spirit in arms! all is not well."}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "今晚我跟你們一起守夜。要是它再出現，就算地獄張開嘴叫我住口，我也要跟它說話。……我父親的靈魂——全身甲冑！事情有些不妙。",
+              "en": "I will watch to-night; perchance 'twill walk again... I'll speak to it, though hell itself should gape and bid me hold my peace... My father's spirit in arms! all is not well."
+            }
+          ]
         }
       ]
     }

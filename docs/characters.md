@@ -42,6 +42,8 @@
 | 波隆尼 | `Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash` | 分叉白鬚＋官鏈 | 1-2（主戲在 1-3） |
 | 雷歐提斯 | `Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak` | 短捲髮＋腰間細劍 | 1-3 |
 | 奧菲莉亞 | `Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown` | 及腰散髮淡色長裙 | 1-3 |
+| 羅森克蘭茲 | `Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile` | 金髮碗蓋頭 | 2-1to2 |
+| 吉爾登斯坦 | `Guildenstern, a thin courtier with lank dark hair and nervous darting eyes` | 油瘦垂髮驚眼 | 2-1to2 |
 
 ### 全劇風格（哈姆雷特）
 

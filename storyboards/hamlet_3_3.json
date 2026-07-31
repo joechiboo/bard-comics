@@ -1,0 +1,64 @@
+{
+  "title": "哈姆雷特 3-3 祈禱中的國王",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "{characters} handing a sealed commission to Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile, and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes, in a candlelit council chamber, his smile gone entirely",
+          "dialogue": [{"speaker": "克勞地", "text": "我不喜歡他現在的樣子。你們兩個護送他去英格蘭——國事不容我坐視這樣的瘋狂逼近。", "en": "I like him not, nor stands it safe with us to let his madness range... I your commission will forthwith dispatch, and he to England shall along with you."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "the courtiers gone, {characters} alone at the council table, slowly lifting the wide gold crown off his own head and setting it down beside the candle, staring at it",
+          "dialogue": [{"speaker": "克勞地", "text": "啊，我的罪惡的戾氣已經上達於天。一個兄弟的謀殺——人類最初、最古老的詛咒，就壓在它上面。", "en": "O, my offence is rank, it smells to heaven; it hath the primal eldest curse upon't, a brother's murder."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "{characters} sinking heavily to his knees before a small private altar with two candles, hands clasped white-knuckled, the discarded crown gleaming on the floor beside him",
+          "dialogue": [{"speaker": "克勞地", "text": "我能夠祈禱嗎？我的手裡還握著那些引我犯罪的東西——我的王冠、我的野心、我的王后。抓著贓物的人，懺悔有什麼用？", "en": "But, O, what form of prayer can serve my turn? 'Forgive me my foul murder'? That cannot be; since I am still possess'd of those effects for which I did the murder, my crown, mine own ambition and my queen."}]
+        },
+        {
+          "weight": 0.4,
+          "prompt": "behind the kneeling king, a chapel doorway in deep shadow, Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes, frozen mid-step with his sword half drawn, candlelight on the bare steel",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "（低聲）他在祈禱。我現在動手，正是時候——", "en": "Now might I do it pat, now he is praying; and now I'll do't."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "close-up of the half-drawn sword sliding slowly back into its sheath, the black-clad prince's pale face above it twisted between hatred and calculation, the kneeling king a blur of candlelight beyond",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "慢著。他在懺悔的時候被殺，靈魂會乾乾淨淨地上天堂——這是報仇嗎？不。收起來，我的劍；等一個更可怕的時機。", "en": "And so he goes to heaven; and so am I revenged. That would be scann'd... Up, sword; and know thou a more horrid hent."}],
+          "quote": {"text": "收起來，我的劍；等一個更可怕的時機", "en": "Up, sword; and know thou a more horrid hent."}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "the prince slipping away from the chapel doorway into darkness, one last backward glance over his shoulder, the two altar candles tiny in the black",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "我的母親在等我。——這一服藥，不過是替你延長幾天病痛的生命。", "en": "My mother stays: this physic but prolongs thy sickly days."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 1.0,
+          "prompt": "{characters} rising stiffly from his knees before the altar, his face hollow in the candlelight, the crown back in his hands but held away from him like a dead weight",
+          "dialogue": [{"speaker": "克勞地", "text": "我的言語飛上天去，我的思想留在地上。沒有思想的言語，永遠到不了天堂。", "en": "My words fly up, my thoughts remain below: words without thoughts never to heaven go."}],
+          "quote": {"text": "言語飛上天去，思想留在地上", "en": "My words fly up, my thoughts remain below."}
+        }
+      ]
+    }
+  ]
+}

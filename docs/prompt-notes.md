@@ -108,6 +108,16 @@
 | p6-2 | `a faint sickly green tint in the shadows` 被具現成**綠色連帽衫＋蒙面口罩**（現代刺客化）——色彩詞落在可穿戴載體附近就會實體化成衣物 | ✅ 已修：monochrome 前綴＋`green glow tinting only the deepest shadows`，重生後成立（綠光這輪未出，校稿再細調）。教訓：特許色要綁「光/霧」載體，別靠近衣物詞 |
 | p4、p6-1 | 火把暖色整格上色——Venetian chiaroscuro 對黑白的壓制力最弱（比 bleak windswept 更鬆） | 校稿項：彩色滲透格逐格補 monochrome 前綴；奧賽羅下一場分鏡直接每格前置 |
 
+### 哈姆雷特 5～13 話（首輪 pollinations，2026-07-31，粗看）
+
+| 頁-格 | 現象 | 處置 |
+| --- | --- | --- |
+| 3-2 p4-2 | 國王起身格：黑暗中半亡靈化的克勞地意外地有力，恐懼感成立 | 正面案例 |
+| 3-2 p4-1 | 「舞台上的下毒戲」畫成兩人像，戲台/觀眾框架消失——**戲中戲的「台上」概念模型不懂** | 校稿項：prompt 補 `on a small wooden stage with painted scenery, seen past audience silhouettes` 之類的實體載體 |
+| 5-1 p3-1 | Yorick 名場面：氛圍極佳但**手持骷髏沒具現**（變成手扶墓碑浮雕） | 校稿項：骷髏寫成畫面主角＋`holding a yellowed human skull at eye level` 前置；載體具現不穩定同王冠案例 |
+| 5-2 p9 | 「餘下的只有沉默」收尾特寫＋「晚安親愛的王子」大廳遠景一次成立 | 正面案例，全劇收得住 |
+| 全批 | 一日 172 格（80 頁）產線實測：分鏡→生圖→上站全流程順跑，pollinations 離峰約 10–20s/格 | 量級備忘更新參考 |
+
 ### 構圖雙胞胎掃描與修格（2026-07-30，感知雜湊全 cache 掃描）
 
 掃描方式：201 格 prompt 對回 cache（152 格已生圖），aHash 找近似對。無「同檔重用」，

@@ -1,0 +1,104 @@
+{
+  "title": "哈姆雷特 5-1 墓園骷髏",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a hillside churchyard with leaning gravestones and a bare yew tree, a grizzled gravedigger waist-deep in an open grave tossing out earth and old bones, whistling, his spade flashing",
+          "dialogue": [{"speaker": "掘墓人", "text": "（唱）一把鋤頭一把鍬，一件屍衣把身包；挖一個土坑深又深，來了個客人剛剛好。", "en": "(sings) A pick-axe, and a spade, a spade, for and a shrouding sheet: O, a pit of clay for to be made for such a guest is meet."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} and Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, approaching along the churchyard wall, the prince tilting his head at the singing from the grave",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "這傢伙一邊掘墳一邊唱歌——他不覺得這工作悲哀嗎？", "en": "Has this fellow no feeling of his business, that he sings at grave-making?"},
+            {"speaker": "霍拉旭", "text": "做慣了，也就不在乎了。", "en": "Custom hath made it in him a property of easiness."}
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "the gravedigger flipping a yellowed skull up out of the grave with his spade, {characters} catching it against his chest with mild surprise",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "這個骷髏也許是個律師。他的狡辯、他的訟案、他的產業條款——現在都到哪裡去了？", "en": "Why may not that be the skull of a lawyer? Where be his quiddities now, his quillets, his cases, his tenures, and his tricks?"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "the grizzled gravedigger leaning on his spade at the grave's edge, jerking a thumb at the skull in the prince's hands, grinning with missing teeth",
+          "dialogue": [{"speaker": "掘墓人", "text": "這一個啊，先生——是郁利克的骷髏，先王的弄人。在土裡躺了二十三年了。", "en": "This same skull, sir, was Yorick's skull, the king's jester... Here's a skull now; this skull has lain in the earth three and twenty years."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.7,
+          "prompt": "iconic composition: {characters} holding the skull up at eye level with one hand, face to hollow face, the bare yew tree and leaning gravestones behind, Horatio watching quietly at his shoulder",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "唉，可憐的郁利克！霍拉旭，我認識他——他有取之不竭的詼諧，背過我一千次。你的笑話呢？你的歌呢？現在，你還會嘲笑你自己的獰笑嗎？", "en": "Alas, poor Yorick! I knew him, Horatio: a fellow of infinite jest, of most excellent fancy: he hath borne me on his back a thousand times... Where be your gibes now? your gambols? your songs?... Not one now, to mock your own grinning?"}],
+          "quote": {"text": "唉，可憐的郁利克！", "en": "Alas, poor Yorick!"}
+        },
+        {
+          "weight": 0.3,
+          "prompt": "close-up of the skull set gently on a flat gravestone, the prince's gloved hand resting on it a moment, dead leaves blowing past",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "凱撒死了，變成泥土——也許哪一天，會拿去堵一個酒桶的口。", "en": "Imperious Caesar, dead and turn'd to clay, might stop a hole to keep the wind away."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "a funeral procession winding into the churchyard — a priest, a flower-strewn bier, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, and Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, in mourning — while the prince and the scholar duck behind a yew tree in the foreground",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "是誰的葬禮？儀式這樣簡略——是自己了斷性命的人嗎？瞧，雷歐提斯也在。", "en": "Who is this they follow? And with such maimed rites? This doth betoken the corse they follow did with desperate hand fordo its own life... That is Laertes, a very noble youth: mark."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, scattering flowers down into the open grave, her face wet",
+          "dialogue": [{"speaker": "葛簇特", "text": "好花是應當散在美人身上的。永別了——我本來希望你做我哈姆雷特的妻子。", "en": "Sweets to the sweet: farewell! I hoped thou shouldst have been my Hamlet's wife."}],
+          "quote": {"text": "好花是應當散在美人身上的", "en": "Sweets to the sweet: farewell!"}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, leaping down into the open grave, arms raised to catch the shrouded body, earth crumbling from the edges",
+          "dialogue": [{"speaker": "雷歐提斯", "text": "等一等——讓我再抱她一次！現在，把泥土倒在生者和死者身上吧！", "en": "Hold off the earth awhile, till I have caught her once more in mine arms: now pile your dust upon the quick and dead."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} striding out from behind the yew tree into the middle of the stunned funeral party, cloak thrown back, declaring himself with a raised arm",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "誰的悲哀能有這樣誇張？——我，丹麥王子哈姆雷特在此！", "en": "What is he whose grief bears such an emphasis?... This is I, Hamlet the Dane."}],
+          "quote": {"text": "丹麥王子哈姆雷特在此", "en": "This is I, Hamlet the Dane."}
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "attendants hauling the prince and the young nobleman apart at the grave's edge, both straining toward each other over the open pit, the priest clutching his book",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "我愛奧菲莉亞——四萬個兄弟的愛加起來，也抵不過我對她的愛！", "en": "I loved Ophelia: forty thousand brothers could not, with all their quantity of love, make up my sum."}],
+          "quote": {"text": "四萬個兄弟的愛，也抵不過我", "en": "Forty thousand brothers could not... make up my sum."}
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the mourners dispersing among the gravestones, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, drawing the young nobleman aside by the elbow, mouths close, eyes on the departing prince",
+          "dialogue": [{"speaker": "克勞地", "text": "忍耐點，好雷歐提斯——想想我們昨天晚上商量的事。這件事很快就有一個了結。", "en": "Good Laertes... Strengthen your patience in our last night's speech; we'll put the matter to the present push."}]
+        }
+      ]
+    }
+  ]
+}

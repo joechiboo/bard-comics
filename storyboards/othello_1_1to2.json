@@ -105,7 +105,7 @@
         },
         {
           "weight": 0.4,
-          "prompt": "{characters} lingering last at the rear of the procession, pausing on the bridge to look straight out of the panel at the reader, torchlight from below carving his face into a mask, a faint sickly green tint in the shadows around his hooded eyes",
+          "prompt": "monochrome ink illustration, close-up of {characters} pausing on the canal bridge at night, looking straight out of the panel at the reader with a thin knowing smile, torchlight from below carving his bearded face into a half-lit mask, a faint sickly green glow tinting only the deepest shadows around his eyes",
           "dialogue": [{"speaker": "伊阿古", "text": "（自語）錢包裡有錢的傻瓜跟著我，摩爾人信任我。好戲——才剛剛開場。", "en": "(aside) Thus do I ever make my fool my purse... The Moor is of a free and open nature... Hell and night must bring this monstrous birth to the world's light."}]
         }
       ]

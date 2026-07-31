@@ -1,0 +1,123 @@
+{
+  "title": "哈姆雷特 3-2 戲中戲",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "backstage behind a makeshift stage curtain, {characters} instructing a group of costumed players, miming a measured gesture with one raised hand, masks and prop crowns hanging around them",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "唸台詞要唸得順口自然。要是像有些伶人那樣張牙舞爪，我寧願叫街上的宣令員來唸——一切不要過火。", "en": "Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue: but if you mouth it... I had as lief the town-crier spoke my lines... o'erstep not the modesty of nature."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "two-shot in a shadowed alcove, {characters} gripping the shoulder of Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, both glancing toward the lit hall beyond",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "今晚有一場戲，其中一段情節很像我父親的死。好霍拉旭——替我盯緊我的叔父。", "en": "There is a play to-night before the king; one scene of it comes near the circumstance which I have told thee of my father's death... Observe mine uncle... Give him heedful note."}]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "the great hall arranged as a theatre, torches blazing, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, and Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, enthroned among courtiers, {characters} sprawled deliberately at the feet of Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown",
+          "dialogue": [
+            {"speaker": "克勞地", "text": "我們的姪兒過得好嗎？", "en": "How fares our cousin Hamlet?"},
+            {"speaker": "哈姆雷特", "text": "好極了——跟變色龍一樣吃空氣過活，塞滿了諾言。", "en": "Excellent, i' faith; of the chameleon's dish: I eat the air, promise-crammed."}
+          ]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "the little stage seen past silhouetted audience heads, mime players performing a dumb-show: a crowned figure asleep on a bank of prop flowers, a cloaked figure tipping a vial into his ear",
+          "dialogue": [{"speaker": "旁白", "text": "啞劇開場——一個人，往睡著的國王耳中，倒進毒藥。", "en": "The dumb-show enters: a man pours poison into the sleeping king's ear."}]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "on the small stage a Player Queen in a paste crown clasping her hands in exaggerated vows over a reclining Player King, torchlight flickering on painted scenery",
+          "dialogue": [{"speaker": "伶后", "text": "要是我死了丈夫再作新人，讓詛咒永遠跟隨我！", "en": "In second husband let me be accurst! None wed the second but who kill'd the first."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} twisting around from the floor to look up at Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, whose fan has stopped moving, her smile frozen",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "母親，您覺得這齣戲怎樣？", "en": "Madam, how like you this play?"},
+            {"speaker": "葛簇特", "text": "我想那位夫人發的誓，太重了些。", "en": "The lady doth protest too much, methinks."}
+          ],
+          "quote": {"text": "那位夫人發的誓太重了", "en": "The lady doth protest too much, methinks."}
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "on stage a sinister player in black pouring poison into the sleeping Player King's ear, while in the foreground {characters} leans forward hungrily, whispering with eyes fixed not on the stage but on the king's box",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "他在花園裡毒死了他，篡奪了他的位置。這故事是真事改編——瞧著吧，兇手馬上就要得到王后的愛了。", "en": "He poisons him i' the garden for's estate... the story is extant, and writ in choice Italian: you shall see anon how the murderer gets the love of Gonzago's wife."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "KING CLAUDIUS surging up from his seat, the jeweled goblet crashing from his hand, courtiers recoiling, torch flames streaming sideways, his broad face lit from below in raw terror",
+          "dialogue": [
+            {"speaker": "廷臣", "text": "王上站起來了！", "en": "The king rises!"},
+            {"speaker": "克勞地", "text": "給我點起火把來！走！", "en": "Give me some light: away!"}
+          ],
+          "quote": {"text": "給我點起火把來！走！", "en": "Give me some light: away!"}
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "chaos of scattering courtiers and streaking torches emptying the hall, benches overturned, while two figures stand still against the flow — the black-clad prince and the scholar in his dark gown",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "好霍拉旭！那鬼魂的話，一個字也不假——一千鎊我也敢賭。你看見了嗎？", "en": "O good Horatio, I'll take the ghost's word for a thousand pound. Didst perceive?"}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "close-up of Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, nodding once, grim and certain, an abandoned torch guttering on the floor behind him",
+          "dialogue": [{"speaker": "霍拉旭", "text": "看得清清楚楚，殿下。", "en": "Very well, my lord... I did very well note him."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile, and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes, cornering {characters} in a corridor, the prince thrusting a wooden recorder flute into the thin courtier's reluctant hands",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "你願意吹吹這管笛子嗎？", "en": "Will you play upon this pipe?"},
+            {"speaker": "吉爾登斯坦", "text": "殿下，我不會。", "en": "My lord, I cannot."}
+          ]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "extreme close-up of the prince's pale face gone cold and quiet, the recorder held up between two fingers like evidence, torchlight edging his shadowed sleepless eyes",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "你們把我當作什麼樂器？隨便你們把我叫作什麼樂器——你們可以撥弄我，卻不能玩弄我。", "en": "Why, look you now, how unworthy a thing you make of me! You would play upon me... call me what instrument you will, though you can fret me, yet you cannot play upon me."}],
+          "quote": {"text": "你們可以撥弄我，卻不能玩弄我", "en": "Though you can fret me, yet you cannot play upon me."}
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 1.0,
+          "prompt": "very wide shot of {characters} walking alone down a pitch-black corridor toward a distant lit doorway, his shadow thrown long behind him, one hand resting on the dagger at his belt",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "現在是深夜的巫魅時刻，墳墓洞開，地獄向人間吐出瘟疫。……我要去見我的母親了。心啊，不要失去你的天性——我要用利劍一樣的說話，可是決不用劍。", "en": "Tis now the very witching time of night, when churchyards yawn and hell itself breathes out contagion to this world... Soft! now to my mother... I will speak daggers to her, but use none."}],
+          "quote": {"text": "用利劍一樣的說話，可是決不用劍", "en": "I will speak daggers to her, but use none."}
+        }
+      ]
+    }
+  ]
+}

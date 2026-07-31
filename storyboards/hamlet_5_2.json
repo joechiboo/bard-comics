@@ -1,0 +1,162 @@
+{
+  "title": "哈姆雷特 5-2 最終決鬥",
+  "style_suffix": "black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere",
+  "characters": "Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes",
+  "pages": [
+    {
+      "page": 1,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "{characters} recounting to Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, by a narrow window, a flashback vignette behind them: a hooded figure by lantern light opening a sealed packet in a ship's cabin",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "我在黑夜裡摸到他們的公文——國王的密令，要英格蘭砍了我的頭。我另外偽造了一封：處死送信的人。", "en": "Groped I to find out them; had my desire... an exact command... my head should be struck off. / I sat me down, devised a new commission... that... he should the bearers put to sudden death."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "close two-shot at the window, grey sea light, the prince strangely calm, the scholar troubled",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "無論我們怎樣辛苦圖謀，我們的結局，早已有一種冥冥中的力量把它布置好了。", "en": "There's a divinity that shapes our ends, rough-hew them how we will."}],
+          "quote": {"text": "冥冥中的力量布置好了我們的結局", "en": "There's a divinity that shapes our ends."}
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "a foppish young courtier in an enormous plumed hat bowing so low his hat sweeps the floor before the unimpressed black-clad prince",
+          "dialogue": [{"speaker": "奧斯里克", "text": "殿下——王上以六匹巴巴利駿馬為賭注，請您和雷歐提斯先生比劍，十二個回合。", "en": "The king, sir, hath wagered with him six Barbary horses... The king, sir, hath laid, that in a dozen passes between yourself and him, he shall not exceed you three hits."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} and Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, alone in the anteroom before tall doors, the scholar gripping the prince's arm in warning, the prince gently shaking his head",
+          "dialogue": [
+            {"speaker": "霍拉旭", "text": "您一定會輸的，殿下。要是您心裡不願意，我去替您推辭。", "en": "You will lose this wager, my lord... If your mind dislike any thing, obey it: I will forestall their repair hither."},
+            {"speaker": "哈姆雷特", "text": "不。一隻雀子的死生，都有命運預先注定。隨時準備著就是了。", "en": "Not a whit, we defy augury: there's a special providence in the fall of a sparrow... The readiness is all."}
+          ],
+          "quote": {"text": "隨時準備著就是了", "en": "The readiness is all."}
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "the great hall set for the duel: a long table with wine cups, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, and Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, enthroned, courtiers ringing a cleared floor, {characters} offering his open hand to Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "原諒我，雷歐提斯——我得罪了你。得罪你的不是哈姆雷特，是他的瘋狂。", "en": "Give me your pardon, sir: I've done you wrong... Was't Hamlet wrong'd Laertes? Never Hamlet... His madness is poor Hamlet's enemy."}]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "close-up of a rack of rapiers, the young nobleman's hand deliberately drawing out one blade whose tip has no safety button, a bead of dark oil glistening along its edge",
+          "dialogue": [{"speaker": "雷歐提斯", "text": "在感情上，我已經滿足了。……來，給我一柄。這一柄正合手。", "en": "I am satisfied in nature... I do receive your offer'd love like love... Come, one for me... This is too heavy, let me see another."}]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "dynamic fencing panel, the two duellists mid-exchange across the cleared floor, blades crossed high, courtiers a blur of watching faces, the black-clad prince pressing forward",
+          "dialogue": [
+            {"speaker": "哈姆雷特", "text": "中了！", "en": "One."},
+            {"speaker": "奧斯里克", "text": "中了，明明白白地中了。", "en": "A hit, a very palpable hit."}
+          ],
+          "quote": {"text": "明明白白地中了", "en": "A hit, a very palpable hit."}
+        },
+        {
+          "weight": 0.5,
+          "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, ostentatiously dropping a great pearl into a wine cup at the long table, smiling wide while his eyes stay flat",
+          "dialogue": [{"speaker": "克勞地", "text": "哈姆雷特，這一顆珍珠是你的！為你的健康——乾杯。把這杯酒給他。", "en": "Stay; give me drink. Hamlet, this pearl is thine; here's to thy health... Give him the cup."}]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": [
+        {
+          "weight": 0.55,
+          "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, lifting the pearl cup toward her son with a proud smile, the king half-risen from his throne with an outstretched arrested hand",
+          "dialogue": [
+            {"speaker": "葛簇特", "text": "王后為你的勝利乾杯，哈姆雷特。", "en": "The queen carouses to thy fortune, Hamlet."},
+            {"speaker": "克勞地", "text": "葛簇特，不要喝！", "en": "Gertrude, do not drink."},
+            {"speaker": "葛簇特", "text": "我要喝的，陛下——請您原諒我。", "en": "I will, my lord; I pray you, pardon me."}
+          ]
+        },
+        {
+          "weight": 0.45,
+          "prompt": "extreme close-up of the king sinking back onto his throne, knuckles white on the armrest, sweat at his temple, watching over the rim of the hall",
+          "dialogue": [{"speaker": "克勞地", "text": "（內心）那一杯就是毒酒——太遲了。", "en": "(aside) It is the poison'd cup: it is too late."}]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "chaotic scuffle panel: the young nobleman lunging a treacherous thrust that scores the prince's arm outside the bout, then both grappling close, rapiers wrenched from hand to hand in the confusion",
+          "dialogue": [{"speaker": "旁白", "text": "雷歐提斯偷襲得手。混戰之中——兩人的劍，換了手。", "en": "Laertes wounds Hamlet; then, in scuffling, they change rapiers."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "the prince's counter-thrust catching the young nobleman, while behind them Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, sways and crashes against the long table, cups scattering",
+          "dialogue": [{"speaker": "葛簇特", "text": "那杯酒，那杯酒——我中毒了。", "en": "The drink, the drink! I am poison'd."}],
+          "quote": {"text": "那杯酒，那杯酒！", "en": "The drink, the drink! I am poison'd."}
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, fallen against an overturned bench, pressing his wound, confessing with the last of his strength, pointing across the hall",
+          "dialogue": [{"speaker": "雷歐提斯", "text": "奸計反害了我自己……劍上有毒，你也活不過半小時了。罪魁是國王——是國王！", "en": "The foul practise hath turn'd itself on me... In thee there is not half an hour of life; the treacherous instrument is in thy hand, unbated and envenom'd... the king, the king's to blame."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} driving the envenomed rapier into King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, against his toppling throne, forcing the pearl cup toward the king's mouth with the other hand, courtiers shrinking back in a ring of horror",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "好，毒藥，發揮你的力量吧！——喝乾這杯酒，跟我的母親一起去吧！", "en": "The point envenom'd too! Then, venom, to thy work!... Drink off this potion... Follow my mother."}],
+          "quote": {"text": "毒藥，發揮你的力量吧！", "en": "Then, venom, to thy work!"}
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": [
+        {
+          "weight": 0.5,
+          "prompt": "the two young men reaching toward each other across the wrecked floor, the dying nobleman's hand clasped in the prince's",
+          "dialogue": [{"speaker": "雷歐提斯", "text": "高貴的哈姆雷特，讓我們互相寬恕——我的死和我父親的死，都不算在你頭上；你的死，也不算在我頭上。", "en": "Exchange forgiveness with me, noble Hamlet: mine and my father's death come not upon thee, nor thine on me."}]
+        },
+        {
+          "weight": 0.5,
+          "prompt": "{characters} sinking into the arms of Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, who has snatched the poisoned cup away from his own lips, wine spilling across the flagstones",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "霍拉旭，我死了，你還活著。請你暫時犧牲天堂的幸福，留在這個冷酷的人間，替我把故事告訴世人。", "en": "Horatio, I am dead; thou livest; report me and my cause aright to the unsatisfied... Absent thee from felicity awhile, and in this harsh world draw thy breath in pain, to tell my story."}]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": [
+        {
+          "weight": 0.6,
+          "prompt": "close-up of the prince's face at rest in the scholar's arms, the shadowed sleepless eyes finally closed, one hand open and empty on the stone floor",
+          "dialogue": [{"speaker": "哈姆雷特", "text": "餘下的——只有沉默。", "en": "The rest is silence."}],
+          "quote": {"text": "餘下的，只有沉默", "en": "The rest is silence."}
+        },
+        {
+          "weight": 0.4,
+          "prompt": "wide final shot of the great hall from above: four royal bodies among overturned benches, the scholar kneeling at the centre, distant doors opening to soldiers with banners silhouetted against dawn light",
+          "dialogue": [
+            {"speaker": "霍拉旭", "text": "一顆高貴的心，碎了。晚安，親愛的王子——願成群的天使，歌唱著送你安息。", "en": "Now cracks a noble heart. Good night, sweet prince: and flights of angels sing thee to thy rest!"},
+            {"speaker": "旁白", "text": "挪威的軍號聲由遠而近。四具王族的屍體——和一個終於可以被完整說出的故事。全劇終。", "en": "Fortinbras' drums draw near. Four royal bodies — and a story that can at last be told whole. The end."}
+          ],
+          "quote": {"text": "晚安，親愛的王子", "en": "Good night, sweet prince."}
+        }
+      ]
+    }
+  ]
+}

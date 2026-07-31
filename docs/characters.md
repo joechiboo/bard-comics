@@ -9,6 +9,12 @@
 | 女巫甲 | `witch one has a single eye` | 獨眼 | 1-1 |
 | 女巫乙 | `witch two has a torn grinning mouth` | 裂嘴笑 | 1-1 |
 | 女巫丙 | `witch three has pale white pupils` | 白瞳 | 1-1 |
+
+女巫定案補記（2026-07-31）：**尖頂帽入 canon**——群組 token 統一為
+`all in tattered cloaks and tall battered pointed hats, faces mostly in shadow`
+（模型自發畫帽且效果佳；「否定句不可靠」已實錘，禁帽不可控）。
+**馬克白左頰疤**：token 保留不動，但只在特寫格另行強調（`the pale scar clearly visible`），
+遠景格放棄疤的呈現——避免 canon 改字全劇重生（見 prompt-notes 跨場結論）。
 | 馬克白 | `Macbeth, a broad-shouldered warrior in dark plate armor, shoulder-length black hair, short black beard, a pale diagonal scar across his left cheek` | 左頰斜疤 | 1-2（戰場回憶） |
 | 鄧肯王 | `elderly King Duncan with a long white beard, gold crown, fur-trimmed deep blue robe` | 白鬚金冠藍袍 | 1-2 |
 | 馬爾康 | `young prince Malcolm, clean-shaven, short fair hair, thin gold circlet` | 無鬚金髮細冠 | 1-2 |

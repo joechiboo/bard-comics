@@ -21,7 +21,7 @@ TPL_HEAD = """<!DOCTYPE html>
 </head>
 <body>
   <main>
-    <nav class="crumbs"><a href="{prefix}">BARD COMICS</a> ／ <a href="{prefix}shakespeare/">莎士比亞戲劇</a> ／ <a href="../">馬克白</a> ／ <a href="./">{short}</a> ／ 劇本</nav>
+    <nav class="crumbs"><a href="{prefix}">BARD COMICS</a> ／ <a href="{prefix}shakespeare/">莎士比亞戲劇</a> ／ <a href="../">{play}</a> ／ <a href="./">{short}</a> ／ 劇本</nav>
     <header class="masthead">
       <p class="house">The Script</p>
       <h1>{short}<span class="latin">Bilingual Script</span></h1>
@@ -43,9 +43,11 @@ TPL_FOOT = """  </main>
 def build(sb_path, out_dir):
     sb = json.loads(Path(sb_path).read_text(encoding="utf-8"))
     title = sb["title"]                      # 例：馬克白 1-1 荒野女巫
+    play = title.split(" ", 1)[0]            # 例：馬克白／哈姆雷特（麵包屑用）
     short = title.split(" ", 1)[1] if " " in title else title   # 例：1-1 荒野女巫
-    prefix = "../" * 3                        # shakespeare/macbeth/<scene>/ 固定三層
-    parts = [TPL_HEAD.format(title=html.escape(title), short=html.escape(short), prefix=prefix)]
+    prefix = "../" * 3                        # shakespeare/<play>/<scene>/ 固定三層
+    parts = [TPL_HEAD.format(title=html.escape(title), short=html.escape(short),
+                             play=html.escape(play), prefix=prefix)]
 
     for page in sb["pages"]:
         parts.append(f'    <section class="script-page">\n')

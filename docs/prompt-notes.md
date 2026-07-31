@@ -91,6 +91,15 @@
 | 1-4to5 p5-1 | 果園毒殺格帶紫調底色，非「黑白＋單點幽藍」 | 校稿改 prompt 強調 monochrome；幽藍只留毒液細線 |
 | 1-4to5 p5-2 | 哈姆雷特特寫偏少年、偏柔 | 校稿與 1-2 特寫一併補強（吸取夫人臉教訓：一次一個詞） |
 
+### 李爾王 1-1 分國土（首輪 pollinations，2026-07-31，粗看）
+
+| 頁-格 | 現象 | 處置 |
+| --- | --- | --- |
+| p4-1 | 「in royal robe」被畫成袍子滑落半裸（宙斯化）＋紅色王座椅 | ✅ 已修：prompt 改 `wrapped in a heavy fur-trimmed royal robe buttoned up to the neck` ＋格內前置 `monochrome ink illustration`，單格重生成立 |
+| p2-1、p2-2 | 金冠、暖膚色、紅椅背——**「純黑白」規則被彩色滲透**，bleak windswept 的壓色力道比 dark fantasy 弱 | 校稿項：彩色滲透格逐格補 `monochrome ink illustration` 前綴（p4-1 已驗證有效）；下一場分鏡直接把前綴寫進王座廳格 |
+| p5-2 | 李爾震怒格極強：亂髮如鬃、黑白對比足 | 正面案例 |
+| p5-1 | 寇蒂莉亞素白成立；肩線偏露、臉偏娃娃 | 可接受；定裝重生時收斂 |
+
 ### 構圖雙胞胎掃描與修格（2026-07-30，感知雜湊全 cache 掃描）
 
 掃描方式：201 格 prompt 對回 cache（152 格已生圖），aHash 找近似對。無「同檔重用」，

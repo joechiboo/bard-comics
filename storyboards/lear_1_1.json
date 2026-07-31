@@ -61,7 +61,7 @@
       "panels": [
         {
           "weight": 0.5,
-          "prompt": "{characters} in royal robe and crown leaning forward from the throne with an expectant indulgent smile, beckoning to Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, standing very straight and small in the middle of the huge hall",
+          "prompt": "monochrome ink illustration, {characters} wrapped in a heavy fur-trimmed royal robe buttoned up to the neck, wearing a heavy crown, leaning forward from his high dark throne with an expectant indulgent smile, beckoning across the map table to Cordelia, a young princess with soft wavy fair hair loose over her shoulders, clear steady eyes, in a plain white gown with no jewels, standing very straight and small in the middle of the huge hall",
           "dialogue": [
             {"speaker": "李爾", "text": "現在，我的寶貝，我最小的女兒——為了比你姊姊們更大的一份土地，你要說些什麼？", "en": "Now, our joy, although the last, not least... what can you say to draw a third more opulent than your sisters? Speak."},
             {"speaker": "寇蒂莉亞", "text": "沒有什麼，父親。", "en": "Nothing, my lord."}

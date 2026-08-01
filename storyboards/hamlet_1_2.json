@@ -19,7 +19,7 @@
         },
         {
           "weight": 0.4,
-          "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, addressing the court from the throne with an easy practiced smile",
+          "prompt": "mid-toast shot down the long feast table, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, rising to raise his jeweled goblet to the hall while servants pour wine along the table and courtiers scramble to their feet answering the toast, wedding garlands hung between the candles",
           "dialogue": [
             {
               "speaker": "克勞地",
@@ -55,7 +55,7 @@
         },
         {
           "weight": 0.55,
-          "prompt": "close-up two-shot, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, frowning down with feigned concern at {characters} who answers with a bitter deadpan stare",
+          "prompt": "on the dais steps, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, descending one step to loom over {characters} with feigned fatherly concern, one ringed hand reaching for the prince's shoulder, curious courtiers craning to watch from below",
           "dialogue": [
             {
               "speaker": "克勞地",
@@ -177,7 +177,7 @@
         },
         {
           "weight": 0.55,
-          "prompt": "two-shot of {characters} and Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, the prince's bitter half-smile, his eyes drifting to the middle distance",
+          "prompt": "tracking two-shot in a torchlit corridor where servants hurry past carrying platters of leftover wedding feast, {characters} walking beside Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, flicking a bitter hand toward the food as he jokes, the scholar frowning at the jest",
           "dialogue": [
             {
               "speaker": "霍拉旭",

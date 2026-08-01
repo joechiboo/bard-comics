@@ -9,12 +9,24 @@
         {
           "weight": 0.5,
           "prompt": "a grey stone quay below Elsinore castle, a tall-masted ship loading in the background, gulls wheeling, Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, speaking earnestly to {characters} beside stacked travel chests",
-          "dialogue": [{"speaker": "雷歐提斯", "text": "行李都上船了，妹妹。至於哈姆雷特殿下那些殷勤——當它是年輕人的一時興致吧。像一朵早春的紫羅蘭，開得早，謝得也快。", "en": "My necessaries are embark'd... For Hamlet and the trifling of his favour, hold it a fashion and a toy in blood: a violet in the youth of primy nature, forward, not permanent."}]
+          "dialogue": [
+            {
+              "speaker": "雷歐提斯",
+              "text": "行李都上船了，妹妹。至於哈姆雷特殿下那些殷勤——當它是年輕人的一時興致吧。像一朵早春的紫羅蘭，開得早，謝得也快。",
+              "en": "My necessaries are embark'd... For Hamlet and the trifling of his favour, hold it a fashion and a toy in blood: a violet in the youth of primy nature, forward, not permanent."
+            }
+          ]
         },
         {
           "weight": 0.5,
-          "prompt": "close-up of {characters} tilting her head with a teasing knowing smile, one eyebrow raised at her brother, sea wind lifting her long hair",
-          "dialogue": [{"speaker": "奧菲莉亞", "text": "不過如此嗎？好哥哥，我記住了。可是你自己別學那些壞牧師——指給人家上天堂的荊棘路，自己倒在花街柳巷裡流連。", "en": "No more but so?... But, good my brother, do not, as some ungracious pastors do, show me the steep and thorny way to heaven; whiles, like a puff'd and reckless libertine, himself the primrose path of dalliance treads."}]
+          "prompt": "quayside two-shot, {characters} tucking a folded scarf into her brother's open travel bag while glancing up at him with a teasing knowing smile, sailors hauling crates up the gangplank behind them, gulls screaming around the mast",
+          "dialogue": [
+            {
+              "speaker": "奧菲莉亞",
+              "text": "不過如此嗎？好哥哥，我記住了。可是你自己別學那些壞牧師——指給人家上天堂的荊棘路，自己倒在花街柳巷裡流連。",
+              "en": "No more but so?... But, good my brother, do not, as some ungracious pastors do, show me the steep and thorny way to heaven; whiles, like a puff'd and reckless libertine, himself the primrose path of dalliance treads."
+            }
+          ]
         }
       ]
     },
@@ -24,13 +36,28 @@
         {
           "weight": 0.55,
           "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, hurrying onto the quay with one finger raised in lecture, Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, kneeling dutifully for his father's blessing",
-          "dialogue": [{"speaker": "波隆尼", "text": "還在這兒，雷歐提斯！上船去，上船去！……再聽幾句教訓，記在心裡：不要想到什麼就說什麼。對人要和氣，可是不要過分狎昵。", "en": "Yet here, Laertes! aboard, aboard, for shame!... And these few precepts in thy memory... Give thy thoughts no tongue... Be thou familiar, but by no means vulgar."}]
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "還在這兒，雷歐提斯！上船去，上船去！……再聽幾句教訓，記在心裡：不要想到什麼就說什麼。對人要和氣，可是不要過分狎昵。",
+              "en": "Yet here, Laertes! aboard, aboard, for shame!... And these few precepts in thy memory... Give thy thoughts no tongue... Be thou familiar, but by no means vulgar."
+            }
+          ]
         },
         {
           "weight": 0.45,
-          "prompt": "close-up of the wagging finger and shrewd wrinkled face of Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash",
-          "dialogue": [{"speaker": "波隆尼", "text": "不要向人告貸，也不要借錢給人——借出去，往往錢和朋友一起丟。", "en": "Neither a borrower nor a lender be; for loan oft loses both itself and friend."}],
-          "quote": {"text": "不要向人告貸，也不要借錢給人", "en": "Neither a borrower nor a lender be."}
+          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, straightening his kneeling son's collar and brushing dust from his shoulders as he lectures, the young man suffering it with a sidelong roll of his eyes, coils of rope and stacked cargo crates around them on the quay",
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "不要向人告貸，也不要借錢給人——借出去，往往錢和朋友一起丟。",
+              "en": "Neither a borrower nor a lender be; for loan oft loses both itself and friend."
+            }
+          ],
+          "quote": {
+            "text": "不要向人告貸，也不要借錢給人",
+            "en": "Neither a borrower nor a lender be."
+          }
         }
       ]
     },
@@ -40,15 +67,32 @@
         {
           "weight": 0.6,
           "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, gripping his kneeling son's shoulders with both hands, sudden real tenderness breaking through the lecturing, the ship's sails rising behind",
-          "dialogue": [{"speaker": "波隆尼", "text": "尤其要緊的——你必須對自己忠實。正像有了白晝才有黑夜一樣，對自己忠實，才不會對別人欺詐。", "en": "This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man."}],
-          "quote": {"text": "你必須對自己忠實", "en": "To thine own self be true."}
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "尤其要緊的——你必須對自己忠實。正像有了白晝才有黑夜一樣，對自己忠實，才不會對別人欺詐。",
+              "en": "This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man."
+            }
+          ],
+          "quote": {
+            "text": "你必須對自己忠實",
+            "en": "To thine own self be true."
+          }
         },
         {
           "weight": 0.4,
           "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, waving from the ship's gangplank, {characters} waving back from the quay, her other hand pressed over her heart",
           "dialogue": [
-            {"speaker": "雷歐提斯", "text": "再會，奧菲莉亞。記住我對你說的話。", "en": "Farewell, Ophelia; and remember well what I have said to you."},
-            {"speaker": "奧菲莉亞", "text": "已經鎖在我的記憶裡了——鑰匙就交給你保管。", "en": "'Tis in my memory lock'd, and you yourself shall keep the key of it."}
+            {
+              "speaker": "雷歐提斯",
+              "text": "再會，奧菲莉亞。記住我對你說的話。",
+              "en": "Farewell, Ophelia; and remember well what I have said to you."
+            },
+            {
+              "speaker": "奧菲莉亞",
+              "text": "已經鎖在我的記憶裡了——鑰匙就交給你保管。",
+              "en": "'Tis in my memory lock'd, and you yourself shall keep the key of it."
+            }
           ]
         }
       ]
@@ -60,16 +104,32 @@
           "weight": 0.55,
           "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, turning sternly on {characters}, jabbing a finger, she shrinking with eyes cast down, the emptying quay behind them",
           "dialogue": [
-            {"speaker": "奧菲莉亞", "text": "父親，殿下最近……的確向我表示過許多情意。", "en": "He hath, my lord, of late made many tenders of his affection to me."},
-            {"speaker": "波隆尼", "text": "情意！哼！傻孩子，那些都是捕捉愚蠢山鷸的圈套。從現在起，不許你再跟哈姆雷特殿下說一句話！", "en": "Affection! pooh! you speak like a green girl... springes to catch woodcocks... from this time forth... give words or talk with the Lord Hamlet."}
+            {
+              "speaker": "奧菲莉亞",
+              "text": "父親，殿下最近……的確向我表示過許多情意。",
+              "en": "He hath, my lord, of late made many tenders of his affection to me."
+            },
+            {
+              "speaker": "波隆尼",
+              "text": "情意！哼！傻孩子，那些都是捕捉愚蠢山鷸的圈套。從現在起，不許你再跟哈姆雷特殿下說一句話！",
+              "en": "Affection! pooh! you speak like a green girl... springes to catch woodcocks... from this time forth... give words or talk with the Lord Hamlet."
+            }
           ]
         },
         {
           "weight": 0.45,
           "prompt": "wide lonely shot of {characters} standing small on the empty quay at dusk, the ship a shrinking silhouette on the grey sea, her head bowed",
           "dialogue": [
-            {"speaker": "奧菲莉亞", "text": "我一定聽您的話，父親。", "en": "I shall obey, my lord."},
-            {"speaker": "旁白", "text": "一句順從。日後，要用一生來償還。", "en": "One word of obedience — to be repaid, in time, with a life."}
+            {
+              "speaker": "奧菲莉亞",
+              "text": "我一定聽您的話，父親。",
+              "en": "I shall obey, my lord."
+            },
+            {
+              "speaker": "旁白",
+              "text": "一句順從。日後，要用一生來償還。",
+              "en": "One word of obedience — to be repaid, in time, with a life."
+            }
           ]
         }
       ]

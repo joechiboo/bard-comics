@@ -9,12 +9,24 @@
         {
           "weight": 0.5,
           "prompt": "Ophelia, a slight young woman with very long loose fair hair, wide gentle eyes, in a simple pale flowing gown, rushing frightened into a study, clutching her sewing to her chest, Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, looking up startled from his desk",
-          "dialogue": [{"speaker": "奧菲莉亞", "text": "父親，我嚇壞了！哈姆雷特殿下——衣衫凌亂、臉色慘白，抓住我的手腕深深端詳，像是要把我的臉畫下來。", "en": "O, my lord, my lord, I have been so affrighted!... Lord Hamlet, with his doublet all unbraced... pale as his shirt... He took me by the wrist and held me hard... he falls to such perusal of my face as he would draw it."}]
+          "dialogue": [
+            {
+              "speaker": "奧菲莉亞",
+              "text": "父親，我嚇壞了！哈姆雷特殿下——衣衫凌亂、臉色慘白，抓住我的手腕深深端詳，像是要把我的臉畫下來。",
+              "en": "O, my lord, my lord, I have been so affrighted!... Lord Hamlet, with his doublet all unbraced... pale as his shirt... He took me by the wrist and held me hard... he falls to such perusal of my face as he would draw it."
+            }
+          ]
         },
         {
           "weight": 0.5,
-          "prompt": "close-up of Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, slapping his own forehead in self-reproach then pointing off-panel with sudden decision",
-          "dialogue": [{"speaker": "波隆尼", "text": "這是戀愛的瘋狂！都怪我叫你拒絕他，我還以為他不過是玩玩。走——這件事得馬上奏明王上！", "en": "This is the very ecstasy of love... I am sorry that with better heed and judgment I had not quoted him... Come, go we to the king: this must be known."}]
+          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, seizing his daughter's wrist and pulling her toward the study door in mid-realization, his other hand thrown up in self-reproach, her sewing basket toppling from the desk in a spill of thread",
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "這是戀愛的瘋狂！都怪我叫你拒絕他，我還以為他不過是玩玩。走——這件事得馬上奏明王上！",
+              "en": "This is the very ecstasy of love... I am sorry that with better heed and judgment I had not quoted him... Come, go we to the king: this must be known."
+            }
+          ]
         }
       ]
     },
@@ -24,15 +36,32 @@
         {
           "weight": 0.55,
           "prompt": "throne room, Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, lecturing with one finger raised before King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, and Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown",
-          "dialogue": [{"speaker": "波隆尼", "text": "陛下，娘娘——討論國王的尊嚴、臣子的本分，都是浪費時間。簡潔是智慧的靈魂：您的兒子瘋了。", "en": "My liege, and madam, to expostulate... were nothing but to waste night, day and time. Therefore, since brevity is the soul of wit... Your noble son is mad."}],
-          "quote": {"text": "簡潔是智慧的靈魂", "en": "Brevity is the soul of wit."}
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "陛下，娘娘——討論國王的尊嚴、臣子的本分，都是浪費時間。簡潔是智慧的靈魂：您的兒子瘋了。",
+              "en": "My liege, and madam, to expostulate... were nothing but to waste night, day and time. Therefore, since brevity is the soul of wit... Your noble son is mad."
+            }
+          ],
+          "quote": {
+            "text": "簡潔是智慧的靈魂",
+            "en": "Brevity is the soul of wit."
+          }
         },
         {
           "weight": 0.45,
           "prompt": "two-shot, Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, rubbing her temple wearily while the old councillor bows apologetically clutching a love letter",
           "dialogue": [
-            {"speaker": "葛簇特", "text": "多一點實質，少一點技巧。", "en": "More matter, with less art."},
-            {"speaker": "波隆尼", "text": "娘娘，我發誓我一點不用技巧。瞧——這是他寫給小女的情書。", "en": "Madam, I swear I use no art at all... I have a daughter... who... hath given me this: now gather, and surmise."}
+            {
+              "speaker": "葛簇特",
+              "text": "多一點實質，少一點技巧。",
+              "en": "More matter, with less art."
+            },
+            {
+              "speaker": "波隆尼",
+              "text": "娘娘，我發誓我一點不用技巧。瞧——這是他寫給小女的情書。",
+              "en": "Madam, I swear I use no art at all... I have a daughter... who... hath given me this: now gather, and surmise."
+            }
           ]
         }
       ]
@@ -44,16 +73,36 @@
           "weight": 0.5,
           "prompt": "a long stone gallery, {characters} shuffling along reading a small book very close to his face, Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, approaching with an ingratiating bow",
           "dialogue": [
-            {"speaker": "波隆尼", "text": "殿下在讀什麼？", "en": "What do you read, my lord?"},
-            {"speaker": "哈姆雷特", "text": "空話，空話，空話。", "en": "Words, words, words."}
+            {
+              "speaker": "波隆尼",
+              "text": "殿下在讀什麼？",
+              "en": "What do you read, my lord?"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "空話，空話，空話。",
+              "en": "Words, words, words."
+            }
           ],
-          "quote": {"text": "空話，空話，空話", "en": "Words, words, words."}
+          "quote": {
+            "text": "空話，空話，空話",
+            "en": "Words, words, words."
+          }
         },
         {
           "weight": 0.5,
           "prompt": "over-the-shoulder shot past the black-clad prince, close on the old councillor's face turned aside to mutter to himself, eyebrows knotted",
-          "dialogue": [{"speaker": "波隆尼", "text": "（旁白）雖然是瘋話，卻有深意。……殿下，我要向您告辭了。", "en": "(aside) Though this be madness, yet there is method in't. — My honourable lord, I will most humbly take my leave of you."}],
-          "quote": {"text": "雖然是瘋話，卻有深意", "en": "Though this be madness, yet there is method in't."}
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "（旁白）雖然是瘋話，卻有深意。……殿下，我要向您告辭了。",
+              "en": "(aside) Though this be madness, yet there is method in't. — My honourable lord, I will most humbly take my leave of you."
+            }
+          ],
+          "quote": {
+            "text": "雖然是瘋話，卻有深意",
+            "en": "Though this be madness, yet there is method in't."
+          }
         }
       ]
     },
@@ -64,15 +113,32 @@
           "weight": 0.45,
           "prompt": "Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile, and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes, bowing in unison to {characters}, who looks from one to the other with a knowing tilt of the head",
           "dialogue": [
-            {"speaker": "哈姆雷特", "text": "我的好朋友們！說老實話——你們是自己來的，還是被人叫來的？", "en": "My excellent good friends!... Were you not sent for? Is it your own inclining?... be even and direct with me, whether you were sent for, or no?"},
-            {"speaker": "羅森克蘭茲", "text": "殿下，我們……是奉命而來。", "en": "My lord, we were sent for."}
+            {
+              "speaker": "哈姆雷特",
+              "text": "我的好朋友們！說老實話——你們是自己來的，還是被人叫來的？",
+              "en": "My excellent good friends!... Were you not sent for? Is it your own inclining?... be even and direct with me, whether you were sent for, or no?"
+            },
+            {
+              "speaker": "羅森克蘭茲",
+              "text": "殿下，我們……是奉命而來。",
+              "en": "My lord, we were sent for."
+            }
           ]
         },
         {
           "weight": 0.55,
-          "prompt": "{characters} standing at a tall arched window with grey light on his face, arms open in a hollow gesture toward the sky, the two courtiers exchanging uneasy glances behind him",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "人類是一件多麼了不起的傑作！理性多麼高貴，儀表多麼像天使——可是在我看來，這一撮泥土算得了什麼？人不能使我發生興趣。", "en": "What a piece of work is a man! how noble in reason!... in action how like an angel!... And yet, to me, what is this quintessence of dust? man delights not me."}],
-          "quote": {"text": "人類是一件多麼了不起的傑作！", "en": "What a piece of work is a man!"}
+          "prompt": "on a rooftop walk under a vast grey sky, {characters} spreading both arms wide to the wheeling gulls as he declaims, while Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes hang back at the stair door exchanging uneasy glances, banners snapping on the battlements",
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "人類是一件多麼了不起的傑作！理性多麼高貴，儀表多麼像天使——可是在我看來，這一撮泥土算得了什麼？人不能使我發生興趣。",
+              "en": "What a piece of work is a man! how noble in reason!... in action how like an angel!... And yet, to me, what is this quintessence of dust? man delights not me."
+            }
+          ],
+          "quote": {
+            "text": "人類是一件多麼了不起的傑作！",
+            "en": "What a piece of work is a man!"
+          }
         }
       ]
     },
@@ -82,12 +148,24 @@
         {
           "weight": 0.55,
           "prompt": "a troupe of travelling players spilling into the torchlit castle courtyard with a painted wagon, trumpets, masks and prop swords, {characters} striding to greet them with the first genuine energy in his step",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "歡迎，各位朋友！今晚就演那齣《貢查古之死》如何？——我還要親筆加進十幾行台詞。", "en": "You are welcome, masters; welcome, all... We'll ha't to-morrow night... you could, for a need, study a speech of some dozen or sixteen lines, which I would set down and insert in't, could you not?"}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "歡迎，各位朋友！今晚就演那齣《貢查古之死》如何？——我還要親筆加進十幾行台詞。",
+              "en": "You are welcome, masters; welcome, all... We'll ha't to-morrow night... you could, for a need, study a speech of some dozen or sixteen lines, which I would set down and insert in't, could you not?"
+            }
+          ]
         },
         {
           "weight": 0.45,
           "prompt": "an old grey-bearded player mid-declamation by torchlight, one hand clawing the air, real tears shining on his weathered cheeks, the black-clad prince watching from the shadows with narrowed eyes",
-          "dialogue": [{"speaker": "旁白", "text": "老伶人唸到赫卡柏王后的悲痛——眼淚，真的流了下來。", "en": "Speaking of Hecuba, the old player weeps real tears."}]
+          "dialogue": [
+            {
+              "speaker": "旁白",
+              "text": "老伶人唸到赫卡柏王后的悲痛——眼淚，真的流了下來。",
+              "en": "Speaking of Hecuba, the old player weeps real tears."
+            }
+          ]
         }
       ]
     },
@@ -97,13 +175,28 @@
         {
           "weight": 0.6,
           "prompt": "{characters} alone in the emptied courtyard among abandoned prop swords and masks, fists clenched at his sides, head thrown back in self-disgust, a single torch guttering",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "我是一個多麼不中用的蠢才！一個伶人，為了虛構的悲哀尚且可以流淚——我呢？我只會空口詛咒，像個婊子似的用空話發洩。呸！", "en": "O, what a rogue and peasant slave am I!... What's Hecuba to him, or he to Hecuba, that he should weep for her?... I... must, like a whore, unpack my heart with words, and fall a-cursing, like a very drab. Fie upon't! foh!"}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "我是一個多麼不中用的蠢才！一個伶人，為了虛構的悲哀尚且可以流淚——我呢？我只會空口詛咒，像個婊子似的用空話發洩。呸！",
+              "en": "O, what a rogue and peasant slave am I!... What's Hecuba to him, or he to Hecuba, that he should weep for her?... I... must, like a whore, unpack my heart with words, and fall a-cursing, like a very drab. Fie upon't! foh!"
+            }
+          ]
         },
         {
           "weight": 0.4,
           "prompt": "extreme close-up of a pale fist pressing a playbill flat against stone, the prince's shadowed sleepless eyes burning above it in the dark",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "聽說犯罪的人看戲的時候，會被逼得當場招認。我要憑著這齣戲——抓住國王的良心。", "en": "I have heard that guilty creatures sitting at a play have... proclaim'd their malefactions... the play's the thing wherein I'll catch the conscience of the king."}],
-          "quote": {"text": "憑著這齣戲，抓住國王的良心", "en": "The play's the thing wherein I'll catch the conscience of the king."}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "聽說犯罪的人看戲的時候，會被逼得當場招認。我要憑著這齣戲——抓住國王的良心。",
+              "en": "I have heard that guilty creatures sitting at a play have... proclaim'd their malefactions... the play's the thing wherein I'll catch the conscience of the king."
+            }
+          ],
+          "quote": {
+            "text": "憑著這齣戲，抓住國王的良心",
+            "en": "The play's the thing wherein I'll catch the conscience of the king."
+          }
         }
       ]
     }

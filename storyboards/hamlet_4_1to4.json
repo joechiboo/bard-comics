@@ -9,12 +9,24 @@
         {
           "weight": 0.5,
           "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, still shaken, reporting to King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, in a cold grey morning chamber",
-          "dialogue": [{"speaker": "葛簇特", "text": "他瘋得像互相爭勝的大海和狂風。他聽見帷幕後有動靜，拔劍就刺——把那位好老人家殺了。", "en": "Mad as the sea and wind, when both contend which is the mightier: in his lawless fit, behind the arras hearing something stir, whips out his rapier... and... kills the unseen good old man."}]
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "他瘋得像互相爭勝的大海和狂風。他聽見帷幕後有動靜，拔劍就刺——把那位好老人家殺了。",
+              "en": "Mad as the sea and wind, when both contend which is the mightier: in his lawless fit, behind the arras hearing something stir, whips out his rapier... and... kills the unseen good old man."
+            }
+          ]
         },
         {
           "weight": 0.5,
-          "prompt": "close-up of the king turning away to the window, goblet forgotten, his face all cold calculation with fear underneath",
-          "dialogue": [{"speaker": "克勞地", "text": "要是我在那裡，躺下的就是我。放著他這樣，對誰都是威脅——這件事必須小心處置。", "en": "It had been so with us, had we been there: his liberty is full of threats to all... this vile deed we must, with all our majesty and skill, both countenance and excuse."}]
+          "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, pacing before a tall grey window twisting the rings on his fingers, his jeweled goblet forgotten on the sill, cold dawn light cutting his shadow across a table strewn with maps and unsigned orders",
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "要是我在那裡，躺下的就是我。放著他這樣，對誰都是威脅——這件事必須小心處置。",
+              "en": "It had been so with us, had we been there: his liberty is full of threats to all... this vile deed we must, with all our majesty and skill, both countenance and excuse."
+            }
+          ]
         }
       ]
     },
@@ -23,18 +35,34 @@
       "panels": [
         {
           "weight": 0.5,
-          "prompt": "torch-lit corridor at night, Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile, and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes, pressing {characters} with questions, the prince smiling maddeningly",
+          "prompt": "low-angle shot on a spiral staircase, {characters} striding down two steps at a time with a maddening smile, Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile and Guildenstern, a thin courtier with lank dark hair and nervous darting eyes scrambling after him, torch flames streaming sideways in their wake",
           "dialogue": [
-            {"speaker": "羅森克蘭茲", "text": "殿下，屍體在哪裡？", "en": "What have you done, my lord, with the dead body?"},
-            {"speaker": "哈姆雷特", "text": "屍體和國王在一起，可是國王沒有和屍體在一起。國王是一件東西——", "en": "The body is with the king, but the king is not with the body. The king is a thing—"}
+            {
+              "speaker": "羅森克蘭茲",
+              "text": "殿下，屍體在哪裡？",
+              "en": "What have you done, my lord, with the dead body?"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "屍體和國王在一起，可是國王沒有和屍體在一起。國王是一件東西——",
+              "en": "The body is with the king, but the king is not with the body. The king is a thing—"
+            }
           ]
         },
         {
           "weight": 0.5,
           "prompt": "throne room, {characters} standing insolently loose before the enthroned king, guards flanking him",
           "dialogue": [
-            {"speaker": "克勞地", "text": "哈姆雷特，波隆尼在哪裡？", "en": "Now, Hamlet, where's Polonius?"},
-            {"speaker": "哈姆雷特", "text": "在吃晚飯。不是他在吃，是蛆蟲在吃他——一場政治性的蟲宴。", "en": "At supper... Not where he eats, but where he is eaten: a certain convocation of politic worms are e'en at him."}
+            {
+              "speaker": "克勞地",
+              "text": "哈姆雷特，波隆尼在哪裡？",
+              "en": "Now, Hamlet, where's Polonius?"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "在吃晚飯。不是他在吃，是蛆蟲在吃他——一場政治性的蟲宴。",
+              "en": "At supper... Not where he eats, but where he is eaten: a certain convocation of politic worms are e'en at him."
+            }
           ]
         }
       ]
@@ -46,17 +74,42 @@
           "weight": 0.55,
           "prompt": "{characters} sweeping a mocking farewell bow to the fuming king, guards already gripping the prince's shoulders to march him off",
           "dialogue": [
-            {"speaker": "克勞地", "text": "你必須立刻去英格蘭。", "en": "Therefore prepare thyself... every thing is bent for England."},
-            {"speaker": "哈姆雷特", "text": "好——去英格蘭！再會，親愛的母親。", "en": "For England! Good. — Farewell, dear mother."},
-            {"speaker": "克勞地", "text": "是你慈愛的父親，哈姆雷特。", "en": "Thy loving father, Hamlet."},
-            {"speaker": "哈姆雷特", "text": "父親跟母親是夫妻，夫妻是一體。所以——再會，我的母親。", "en": "My mother: father and mother is man and wife; man and wife is one flesh; and so, my mother."}
+            {
+              "speaker": "克勞地",
+              "text": "你必須立刻去英格蘭。",
+              "en": "Therefore prepare thyself... every thing is bent for England."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "好——去英格蘭！再會，親愛的母親。",
+              "en": "For England! Good. — Farewell, dear mother."
+            },
+            {
+              "speaker": "克勞地",
+              "text": "是你慈愛的父親，哈姆雷特。",
+              "en": "Thy loving father, Hamlet."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "父親跟母親是夫妻，夫妻是一體。所以——再會，我的母親。",
+              "en": "My mother: father and mother is man and wife; man and wife is one flesh; and so, my mother."
+            }
           ]
         },
         {
           "weight": 0.45,
           "prompt": "King Claudius alone at a high window watching a ship's sails shrink toward the horizon, his reflection ghosted in the glass, one hand crushing a sealed letter",
-          "dialogue": [{"speaker": "克勞地", "text": "英格蘭王啊——照我密函上的指示辦：把哈姆雷特立刻處死。辦好它，英格蘭。", "en": "And, England... thou mayst not coldly set our sovereign process; which imports at full... the present death of Hamlet. Do it, England."}],
-          "quote": {"text": "把哈姆雷特立刻處死。辦好它，英格蘭", "en": "The present death of Hamlet. Do it, England."}
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "英格蘭王啊——照我密函上的指示辦：把哈姆雷特立刻處死。辦好它，英格蘭。",
+              "en": "And, England... thou mayst not coldly set our sovereign process; which imports at full... the present death of Hamlet. Do it, England."
+            }
+          ],
+          "quote": {
+            "text": "把哈姆雷特立刻處死。辦好它，英格蘭",
+            "en": "The present death of Hamlet. Do it, England."
+          }
         }
       ]
     },
@@ -66,13 +119,28 @@
         {
           "weight": 0.55,
           "prompt": "a bleak coastal plain under a huge grey sky, an army column with pikes and banners crossing tiny in the far distance like a line of ants, {characters} halted in the foreground with two guards, watching them pass",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "兩萬個人，為了一塊還不夠埋葬他們的土地，像上床一樣走向墳墓。而我呢——父親被害、母親受辱，理由比天大，卻讓一切沉睡。", "en": "The imminent death of twenty thousand men, that, for a fantasy and trick of fame, go to their graves like beds, fight for a plot... which is not tomb enough... How stand I then, that have a father kill'd, a mother stain'd... and let all sleep?"}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "兩萬個人，為了一塊還不夠埋葬他們的土地，像上床一樣走向墳墓。而我呢——父親被害、母親受辱，理由比天大，卻讓一切沉睡。",
+              "en": "The imminent death of twenty thousand men, that, for a fantasy and trick of fame, go to their graves like beds, fight for a plot... which is not tomb enough... How stand I then, that have a father kill'd, a mother stain'd... and let all sleep?"
+            }
+          ]
         },
         {
           "weight": 0.45,
           "prompt": "extreme close-up of the prince's wind-whipped face against the grey sky, jaw set, eyes no longer sleepless but burning",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "啊，從這一刻起——讓我的思想只染血色，不然就一文不值！", "en": "O, from this time forth, my thoughts be bloody, or be nothing worth!"}],
-          "quote": {"text": "讓我的思想只染血色，不然就一文不值", "en": "My thoughts be bloody, or be nothing worth!"}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "啊，從這一刻起——讓我的思想只染血色，不然就一文不值！",
+              "en": "O, from this time forth, my thoughts be bloody, or be nothing worth!"
+            }
+          ],
+          "quote": {
+            "text": "讓我的思想只染血色，不然就一文不值",
+            "en": "My thoughts be bloody, or be nothing worth!"
+          }
         }
       ]
     },
@@ -82,7 +150,13 @@
         {
           "weight": 1.0,
           "prompt": "a lone dark ship under sail on a vast black night sea, cold moonlight on the water, tiny lit portholes, framed like a woodcut with heavy black borders",
-          "dialogue": [{"speaker": "旁白", "text": "船向英格蘭去。船上載著兩個同學、一封要他項上人頭的信——和一個已經下定決心的王子。", "en": "The ship sails for England, carrying two schoolfellows, a letter that asks for his head — and a prince whose mind is made up at last."}]
+          "dialogue": [
+            {
+              "speaker": "旁白",
+              "text": "船向英格蘭去。船上載著兩個同學、一封要他項上人頭的信——和一個已經下定決心的王子。",
+              "en": "The ship sails for England, carrying two schoolfellows, a letter that asks for his head — and a prince whose mind is made up at last."
+            }
+          ]
         }
       ]
     }

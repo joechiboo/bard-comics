@@ -103,7 +103,7 @@
       "panels": [
         {
           "weight": 0.55,
-          "prompt": "{characters} stepping forward pale but resolute, raising an open hand toward the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, the two sentinels cowering behind",
+          "prompt": "wide shot along the wall walk, a towering blue-glowing armoured silhouette at the far parapet half-dissolved in sea mist, and facing it Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt, his scholar's gown whipping in the wind as he strides forward with one open hand raised high, the two cloaked sentinels crouched behind the crenellations between them",
           "dialogue": [
             {
               "speaker": "霍拉旭",
@@ -135,7 +135,7 @@
       "panels": [
         {
           "weight": 0.5,
-          "prompt": "close-up of {characters} shaken, staring at the empty mist where the ghost vanished, gripping the cold stone crenellation",
+          "prompt": "three men crowded along the parapet peering out into the drifting sea mist where the ghost vanished, Horatio, a sober young scholar in a plain dark scholar's gown with a high collar, short neatly combed brown hair, a small leather book at his belt gripping the cold stone with both hands, a sentinel lifting a torch high overhead, the flame streaming sideways",
           "dialogue": [
             {
               "speaker": "霍拉旭",

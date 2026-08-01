@@ -9,13 +9,28 @@
         {
           "weight": 0.6,
           "prompt": "{characters} drifting barefoot through the throne room with wildflowers tangled in her disheveled hair, strewing petals on the flagstones, singing to no one, courtiers frozen in pity along the walls",
-          "dialogue": [{"speaker": "奧菲莉亞", "text": "（唱）他死了，不見了，姑娘，他死了，不見了；他頭上是青青的草，腳下是一塊石頭。", "en": "(sings) He is dead and gone, lady, he is dead and gone; at his head a grass-green turf, at his heels a stone."}]
+          "dialogue": [
+            {
+              "speaker": "奧菲莉亞",
+              "text": "（唱）他死了，不見了，姑娘，他死了，不見了；他頭上是青青的草，腳下是一塊石頭。",
+              "en": "(sings) He is dead and gone, lady, he is dead and gone; at his head a grass-green turf, at his heels a stone."
+            }
+          ]
         },
         {
           "weight": 0.4,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, and Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, watching from the dais, both stricken",
-          "dialogue": [{"speaker": "克勞地", "text": "悲哀來的時候，不是單個來的，是成群結隊來的——她的父親被殺、你的兒子遠放、人民議論紛紛，現在又是這個可憐的孩子。", "en": "O Gertrude, Gertrude, when sorrows come, they come not single spies, but in battalions... poor Ophelia divided from herself and her fair judgment."}],
-          "quote": {"text": "悲哀是成群結隊來的", "en": "When sorrows come, they come not single spies, but in battalions."}
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "悲哀來的時候，不是單個來的，是成群結隊來的——她的父親被殺、你的兒子遠放、人民議論紛紛，現在又是這個可憐的孩子。",
+              "en": "O Gertrude, Gertrude, when sorrows come, they come not single spies, but in battalions... poor Ophelia divided from herself and her fair judgment."
+            }
+          ],
+          "quote": {
+            "text": "悲哀是成群結隊來的",
+            "en": "When sorrows come, they come not single spies, but in battalions."
+          }
         }
       ]
     },
@@ -25,12 +40,24 @@
         {
           "weight": 0.55,
           "prompt": "the great doors bursting open, Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, storming in sword drawn with an armed mob crowding behind him",
-          "dialogue": [{"speaker": "雷歐提斯", "text": "你這萬惡的國王！把我的父親還給我！", "en": "O thou vile king, give me my father!"}]
+          "dialogue": [
+            {
+              "speaker": "雷歐提斯",
+              "text": "你這萬惡的國王！把我的父親還給我！",
+              "en": "O thou vile king, give me my father!"
+            }
+          ]
         },
         {
           "weight": 0.45,
           "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, standing unarmed with both palms open, utterly calm before the levelled sword point",
-          "dialogue": [{"speaker": "克勞地", "text": "冷靜點，好雷歐提斯。國王有神明護衛，叛逆只能在一邊乾瞪眼。告訴我你的父親怎麼死的——罪不在我。", "en": "What is the cause, Laertes, that thy rebellion looks so giant-like?... There's such divinity doth hedge a king, that treason can but peep to what it would... I am guiltless of your father's death."}]
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "冷靜點，好雷歐提斯。國王有神明護衛，叛逆只能在一邊乾瞪眼。告訴我你的父親怎麼死的——罪不在我。",
+              "en": "What is the cause, Laertes, that thy rebellion looks so giant-like?... There's such divinity doth hedge a king, that treason can but peep to what it would... I am guiltless of your father's death."
+            }
+          ]
         }
       ]
     },
@@ -40,13 +67,28 @@
         {
           "weight": 0.6,
           "prompt": "{characters} re-entering with an apron full of wildflowers, pressing a sprig of rosemary into the trembling hands of Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, his sword arm fallen slack",
-          "dialogue": [{"speaker": "奧菲莉亞", "text": "這是迷迭香，是代表回憶的——親愛的，請你記著。這是三色堇，是代表想念的。", "en": "There's rosemary, that's for remembrance; pray, love, remember: and there is pansies, that's for thoughts."}],
-          "quote": {"text": "迷迭香，代表回憶", "en": "Rosemary, that's for remembrance."}
+          "dialogue": [
+            {
+              "speaker": "奧菲莉亞",
+              "text": "這是迷迭香，是代表回憶的——親愛的，請你記著。這是三色堇，是代表想念的。",
+              "en": "There's rosemary, that's for remembrance; pray, love, remember: and there is pansies, that's for thoughts."
+            }
+          ],
+          "quote": {
+            "text": "迷迭香，代表回憶",
+            "en": "Rosemary, that's for remembrance."
+          }
         },
         {
           "weight": 0.4,
           "prompt": "close-up of the young nobleman's face crumbling from rage into grief as the flower girl drifts away singing, petals falling from her apron",
-          "dialogue": [{"speaker": "雷歐提斯", "text": "憂愁、苦難、悲哀和地獄的磨折——在她身上，都變成了可憐可愛。", "en": "Thought and affliction, passion, hell itself, she turns to favour and to prettiness."}]
+          "dialogue": [
+            {
+              "speaker": "雷歐提斯",
+              "text": "憂愁、苦難、悲哀和地獄的磨折——在她身上，都變成了可憐可愛。",
+              "en": "Thought and affliction, passion, hell itself, she turns to favour and to prettiness."
+            }
+          ]
         }
       ]
     },
@@ -56,14 +98,28 @@
         {
           "weight": 0.5,
           "prompt": "a shadowed private chamber, King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, leaning close over a table conspiring with Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, firelight on both faces",
-          "dialogue": [{"speaker": "克勞地", "text": "殺你父親的人回來了。我們安排一場友誼比劍——他生性寬厚，不會檢查劍刃。你只要挑一柄沒有包頭的利劍……", "en": "Hamlet comes back... We'll put on those shall praise your excellence... He, being remiss, most generous and free from all contriving, will not peruse the foils; so that, with ease... you may choose a sword unbated."}]
+          "dialogue": [
+            {
+              "speaker": "克勞地",
+              "text": "殺你父親的人回來了。我們安排一場友誼比劍——他生性寬厚，不會檢查劍刃。你只要挑一柄沒有包頭的利劍……",
+              "en": "Hamlet comes back... We'll put on those shall praise your excellence... He, being remiss, most generous and free from all contriving, will not peruse the foils; so that, with ease... you may choose a sword unbated."
+            }
+          ]
         },
         {
           "weight": 0.5,
           "prompt": "close-up of two hands over the table: the young man's hand holding up a small vial of dark oil, the king's ringed hand resting on a wine chalice",
           "dialogue": [
-            {"speaker": "雷歐提斯", "text": "我還有一服毒藥，劍尖只要沾上一點，見血就是死。", "en": "I bought an unction of a mountebank, so mortal that, but dip a knife in it, where it draws blood no cataplasm so rare... can save the thing from death that is but scratch'd withal."},
-            {"speaker": "克勞地", "text": "再備一杯毒酒。萬一他躲過你的劍——那杯酒不會失手。", "en": "I ha't... A chalice for the nonce, whereon but sipping, if he by chance escape your venom'd stuck, our purpose may hold there."}
+            {
+              "speaker": "雷歐提斯",
+              "text": "我還有一服毒藥，劍尖只要沾上一點，見血就是死。",
+              "en": "I bought an unction of a mountebank, so mortal that, but dip a knife in it, where it draws blood no cataplasm so rare... can save the thing from death that is but scratch'd withal."
+            },
+            {
+              "speaker": "克勞地",
+              "text": "再備一杯毒酒。萬一他躲過你的劍——那杯酒不會失手。",
+              "en": "I ha't... A chalice for the nonce, whereon but sipping, if he by chance escape your venom'd stuck, our purpose may hold there."
+            }
           ]
         }
       ]
@@ -74,13 +130,28 @@
         {
           "weight": 0.65,
           "prompt": "dreamlike inset framed in flowing water: {characters} floating on her back in a dark brook beneath a leaning willow, her pale gown spread wide on the surface, garlands of wildflowers drifting around her, her face calm, mouth open in song",
-          "dialogue": [{"speaker": "葛簇特", "text": "一株柳樹橫在溪水上。她編的花圈掉進水裡，她也跟著落下去——衣裳張開，把她像人魚一樣托在水面，她嘴裡還斷斷續續唱著古老的歌。", "en": "There is a willow grows aslant a brook... an envious sliver broke; when down her weedy trophies and herself fell in the weeping brook. Her clothes spread wide; and, mermaid-like, awhile they bore her up: which time she chanted snatches of old tunes."}],
-          "quote": {"text": "一株柳樹橫在溪水上", "en": "There is a willow grows aslant a brook."}
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "一株柳樹橫在溪水上。她編的花圈掉進水裡，她也跟著落下去——衣裳張開，把她像人魚一樣托在水面，她嘴裡還斷斷續續唱著古老的歌。",
+              "en": "There is a willow grows aslant a brook... an envious sliver broke; when down her weedy trophies and herself fell in the weeping brook. Her clothes spread wide; and, mermaid-like, awhile they bore her up: which time she chanted snatches of old tunes."
+            }
+          ],
+          "quote": {
+            "text": "一株柳樹橫在溪水上",
+            "en": "There is a willow grows aslant a brook."
+          }
         },
         {
           "weight": 0.35,
-          "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, turning sharply away from the queen's news, fist against his mouth, eyes squeezed shut",
-          "dialogue": [{"speaker": "雷歐提斯", "text": "可憐的奧菲莉亞，你的水已經太多了，我禁住我的眼淚。", "en": "Too much of water hast thou, poor Ophelia, and therefore I forbid my tears."}]
+          "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak turned sharply away against a stone window arch, fist pressed to his mouth, while behind him the queen's outstretched hand hovers not quite touching his shoulder, rain streaking the dark glass",
+          "dialogue": [
+            {
+              "speaker": "雷歐提斯",
+              "text": "可憐的奧菲莉亞，你的水已經太多了，我禁住我的眼淚。",
+              "en": "Too much of water hast thou, poor Ophelia, and therefore I forbid my tears."
+            }
+          ]
         }
       ]
     },
@@ -90,7 +161,13 @@
         {
           "weight": 1.0,
           "prompt": "the empty brook at dusk seen from the bank, the leaning willow black against a fading sky, a single flower garland caught on a branch trailing in the current, no figure anywhere",
-          "dialogue": [{"speaker": "旁白", "text": "歌聲沉了下去。復仇的計畫，也定了下來。", "en": "The song sinks below the water; and the plot is sealed."}]
+          "dialogue": [
+            {
+              "speaker": "旁白",
+              "text": "歌聲沉了下去。復仇的計畫，也定了下來。",
+              "en": "The song sinks below the water; and the plot is sealed."
+            }
+          ]
         }
       ]
     }

@@ -9,14 +9,28 @@
         {
           "weight": 0.45,
           "prompt": "the queen's candlelit bedchamber with a great curtained bed and a heavy woven arras along one wall, Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, lifting the edge of the arras to slip behind it",
-          "dialogue": [{"speaker": "波隆尼", "text": "他來了。請您狠狠教訓他——我就躲在這裡。", "en": "He will come straight. Look you lay home to him... I'll sconce me even here. Pray you, be round with him."}]
+          "dialogue": [
+            {
+              "speaker": "波隆尼",
+              "text": "他來了。請您狠狠教訓他——我就躲在這裡。",
+              "en": "He will come straight. Look you lay home to him... I'll sconce me even here. Pray you, be round with him."
+            }
+          ]
         },
         {
           "weight": 0.55,
           "prompt": "{characters} throwing open the chamber door, Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, rising from her chair with brittle authority",
           "dialogue": [
-            {"speaker": "葛簇特", "text": "哈姆雷特，你把你的父親大大得罪了。", "en": "Hamlet, thou hast thy father much offended."},
-            {"speaker": "哈姆雷特", "text": "母親，你把我的父親大大得罪了。", "en": "Mother, you have my father much offended."}
+            {
+              "speaker": "葛簇特",
+              "text": "哈姆雷特，你把你的父親大大得罪了。",
+              "en": "Hamlet, thou hast thy father much offended."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "母親，你把我的父親大大得罪了。",
+              "en": "Mother, you have my father much offended."
+            }
           ]
         }
       ]
@@ -27,16 +41,33 @@
         {
           "weight": 0.5,
           "prompt": "{characters} gripping his mother's wrist and forcing her down into the chair, her free hand flung up in fright, candle flames shuddering",
-          "dialogue": [{"speaker": "葛簇特", "text": "你要幹什麼？你不是要殺我吧？——救命！救命啊！", "en": "What wilt thou do? thou wilt not murder me? Help, help, ho!"}]
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "你要幹什麼？你不是要殺我吧？——救命！救命啊！",
+              "en": "What wilt thou do? thou wilt not murder me? Help, help, ho!"
+            }
+          ]
         },
         {
           "weight": 0.5,
           "prompt": "{characters} whirling and driving his sword clean through the bulging arras, the fabric caving around the blade, a muffled cry behind it",
           "dialogue": [
-            {"speaker": "波隆尼", "text": "（帷幕後）救命！", "en": "(behind) What, ho! help, help, help!"},
-            {"speaker": "哈姆雷特", "text": "怎麼！一隻耗子？死吧！", "en": "How now! a rat? Dead, for a ducat, dead!"}
+            {
+              "speaker": "波隆尼",
+              "text": "（帷幕後）救命！",
+              "en": "(behind) What, ho! help, help, help!"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "怎麼！一隻耗子？死吧！",
+              "en": "How now! a rat? Dead, for a ducat, dead!"
+            }
           ],
-          "quote": {"text": "一隻耗子？死吧！", "en": "How now! a rat? Dead, for a ducat, dead!"}
+          "quote": {
+            "text": "一隻耗子？死吧！",
+            "en": "How now! a rat? Dead, for a ducat, dead!"
+          }
         }
       ]
     },
@@ -47,14 +78,28 @@
           "weight": 0.55,
           "prompt": "the arras pulled back to reveal Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, crumpled dead against the wall, the queen's hands pressed to her mouth",
           "dialogue": [
-            {"speaker": "葛簇特", "text": "啊，多麼鹵莽殘酷的行為！", "en": "O me, what hast thou done?... O, what a rash and bloody deed is this!"},
-            {"speaker": "哈姆雷特", "text": "殘酷的行為？好媽媽——跟殺了一個國王、再嫁給他的兄弟，差不多同樣壞。", "en": "A bloody deed! almost as bad, good mother, as kill a king, and marry with his brother."}
+            {
+              "speaker": "葛簇特",
+              "text": "啊，多麼鹵莽殘酷的行為！",
+              "en": "O me, what hast thou done?... O, what a rash and bloody deed is this!"
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "殘酷的行為？好媽媽——跟殺了一個國王、再嫁給他的兄弟，差不多同樣壞。",
+              "en": "A bloody deed! almost as bad, good mother, as kill a king, and marry with his brother."
+            }
           ]
         },
         {
           "weight": 0.45,
           "prompt": "{characters} looking down at the dead councillor with a weary, almost gentle contempt, sword point lowered to the floor",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "你這倒楣的、鹵莽的、愛管閒事的傻瓜，再會！我還以為是一個在你上面的人。", "en": "Thou wretched, rash, intruding fool, farewell! I took thee for thy better."}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "你這倒楣的、鹵莽的、愛管閒事的傻瓜，再會！我還以為是一個在你上面的人。",
+              "en": "Thou wretched, rash, intruding fool, farewell! I took thee for thy better."
+            }
+          ]
         }
       ]
     },
@@ -64,13 +109,28 @@
         {
           "weight": 0.6,
           "prompt": "{characters} thrusting two miniature portrait lockets side by side before his mother's face, she twisting away, candlelight hard on the two tiny painted faces",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "瞧這一幅畫像，再瞧這一幅。這是你的前夫，額角上帶著天神的威嚴；這是你的現任丈夫——像一株霉爛的禾穗。你有眼睛嗎？", "en": "Look here, upon this picture, and on this... See, what a grace was seated on this brow... Here is your husband; like a mildew'd ear... Have you eyes?"}],
-          "quote": {"text": "你有眼睛嗎？", "en": "Have you eyes?"}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "瞧這一幅畫像，再瞧這一幅。這是你的前夫，額角上帶著天神的威嚴；這是你的現任丈夫——像一株霉爛的禾穗。你有眼睛嗎？",
+              "en": "Look here, upon this picture, and on this... See, what a grace was seated on this brow... Here is your husband; like a mildew'd ear... Have you eyes?"
+            }
+          ],
+          "quote": {
+            "text": "你有眼睛嗎？",
+            "en": "Have you eyes?"
+          }
         },
         {
           "weight": 0.4,
-          "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown, collapsing inward on her chair, face buried in her hands, the golden circlet slipping askew",
-          "dialogue": [{"speaker": "葛簇特", "text": "啊，哈姆雷特，別說下去了！你使我的眼睛看進了我自己的靈魂——那上面的黑點，洗都洗不掉。", "en": "O Hamlet, speak no more: thou turn'st mine eyes into my very soul; and there I see such black and grained spots as will not leave their tinct."}]
+          "prompt": "Queen Gertrude, a stately middle-aged queen with coiled auburn braids under a golden circlet, in a layered brocade gown collapsed forward at her candlelit dressing table, face buried in her hands, the golden circlet slipped off among scattered pearls, the two miniature portrait lockets lying face-up between her elbows",
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "啊，哈姆雷特，別說下去了！你使我的眼睛看進了我自己的靈魂——那上面的黑點，洗都洗不掉。",
+              "en": "O Hamlet, speak no more: thou turn'st mine eyes into my very soul; and there I see such black and grained spots as will not leave their tinct."
+            }
+          ]
         }
       ]
     },
@@ -81,14 +141,28 @@
           "weight": 0.6,
           "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, standing between the bed curtains, {characters} dropping to his knees staring up while his mother stares only at her kneeling son in terror",
           "dialogue": [
-            {"speaker": "哈姆雷特", "text": "天使保佑我！……您是來責備您兒子的拖延嗎？", "en": "Save me, and hover o'er me with your wings, you heavenly guards!... Do you not come your tardy son to chide?"},
-            {"speaker": "鬼魂", "text": "別忘記。我來，是要磨快你快要鈍了的決心。可是瞧——你的母親多麼驚恐，替她分憂吧。", "en": "Do not forget: this visitation is but to whet thy almost blunted purpose. But, look, amazement on thy mother sits... speak to her, Hamlet."}
+            {
+              "speaker": "哈姆雷特",
+              "text": "天使保佑我！……您是來責備您兒子的拖延嗎？",
+              "en": "Save me, and hover o'er me with your wings, you heavenly guards!... Do you not come your tardy son to chide?"
+            },
+            {
+              "speaker": "鬼魂",
+              "text": "別忘記。我來，是要磨快你快要鈍了的決心。可是瞧——你的母親多麼驚恐，替她分憂吧。",
+              "en": "Do not forget: this visitation is but to whet thy almost blunted purpose. But, look, amazement on thy mother sits... speak to her, Hamlet."
+            }
           ]
         },
         {
           "weight": 0.4,
           "prompt": "reverse angle: the bed curtains empty of any ghost, only shadow — Queen Gertrude clutching her son's arm, her eyes wide at the vacant air he stares into",
-          "dialogue": [{"speaker": "葛簇特", "text": "唉，他瘋了——對著空氣說話。你在跟誰說話？我什麼也沒看見。", "en": "Alas, he's mad!... To whom do you speak this?... Nothing at all; yet all that is I see."}]
+          "dialogue": [
+            {
+              "speaker": "葛簇特",
+              "text": "唉，他瘋了——對著空氣說話。你在跟誰說話？我什麼也沒看見。",
+              "en": "Alas, he's mad!... To whom do you speak this?... Nothing at all; yet all that is I see."
+            }
+          ]
         }
       ]
     },
@@ -98,16 +172,33 @@
         {
           "weight": 0.55,
           "prompt": "{characters} kneeling at his seated mother's side now gentle, taking her hands in both of his, the candles burned low around them",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "母親——向上天懺悔過去，警戒未來。不要上我叔父的床。今晚忍一忍，下一次就容易一些。", "en": "Confess yourself to heaven; repent what's past; avoid what is to come... Go not to mine uncle's bed... Refrain to-night, and that shall lend a kind of easiness to the next abstinence."}]
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "母親——向上天懺悔過去，警戒未來。不要上我叔父的床。今晚忍一忍，下一次就容易一些。",
+              "en": "Confess yourself to heaven; repent what's past; avoid what is to come... Go not to mine uncle's bed... Refrain to-night, and that shall lend a kind of easiness to the next abstinence."
+            }
+          ]
         },
         {
           "weight": 0.45,
           "prompt": "close two-shot, the queen's tear-streaked face against her son's, her circlet fallen to her lap",
           "dialogue": [
-            {"speaker": "葛簇特", "text": "啊，哈姆雷特，你把我的心劈成兩半了。", "en": "O Hamlet, thou hast cleft my heart in twain."},
-            {"speaker": "哈姆雷特", "text": "那就把壞的一半丟掉，用另外一半好好過活吧。", "en": "O, throw away the worser part of it, and live the purer with the other half."}
+            {
+              "speaker": "葛簇特",
+              "text": "啊，哈姆雷特，你把我的心劈成兩半了。",
+              "en": "O Hamlet, thou hast cleft my heart in twain."
+            },
+            {
+              "speaker": "哈姆雷特",
+              "text": "那就把壞的一半丟掉，用另外一半好好過活吧。",
+              "en": "O, throw away the worser part of it, and live the purer with the other half."
+            }
           ],
-          "quote": {"text": "你把我的心劈成兩半了", "en": "Thou hast cleft my heart in twain."}
+          "quote": {
+            "text": "你把我的心劈成兩半了",
+            "en": "Thou hast cleft my heart in twain."
+          }
         }
       ]
     },
@@ -117,8 +208,17 @@
         {
           "weight": 1.0,
           "prompt": "very wide shot of the dim bedchamber doorway, {characters} dragging the heavy body of the old councillor out by the heels into the dark corridor, looking back over his shoulder one last time, a single guttering candle and the slumped queen small in the background",
-          "dialogue": [{"speaker": "哈姆雷特", "text": "我必須到英格蘭去，你知道嗎？……這位大臣生前是個嘮叨的傻瓜，現在倒是嚴肅沉默得很。——晚安，母親。", "en": "I must to England; you know that?... This counsellor is now most still, most secret and most grave, who was in life a foolish prating knave. — Good night, mother."}],
-          "quote": {"text": "晚安，母親", "en": "Good night, mother."}
+          "dialogue": [
+            {
+              "speaker": "哈姆雷特",
+              "text": "我必須到英格蘭去，你知道嗎？……這位大臣生前是個嘮叨的傻瓜，現在倒是嚴肅沉默得很。——晚安，母親。",
+              "en": "I must to England; you know that?... This counsellor is now most still, most secret and most grave, who was in life a foolish prating knave. — Good night, mother."
+            }
+          ],
+          "quote": {
+            "text": "晚安，母親",
+            "en": "Good night, mother."
+          }
         }
       ]
     }

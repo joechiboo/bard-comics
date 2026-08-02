@@ -339,3 +339,35 @@ footer {
 }
 footer a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--rule); }
 footer a:hover { color: var(--gold); border-color: var(--gold); }
+
+/* 角色介紹肖像卡（漫畫式 Dramatis Personae） */
+.cast-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+.cast-grid li { border: none; padding: 0; }
+.cast-grid li + li { border-top: none; }
+.cast-grid figure { margin: 0; }
+.cast-grid img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  display: block;
+  border: 1px solid var(--rule);
+  filter: grayscale(12%);
+}
+.cast-grid figcaption { padding: 0.5rem 0.15rem 0; }
+.cast-grid .who { display: block; font-weight: 700; }
+.cast-grid .who .latin {
+  display: block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.cast-grid .desc { display: block; font-size: 0.82rem; color: var(--muted); line-height: 1.55; margin-top: 0.3rem; }
+.cast-grid .mark { color: var(--gold); }

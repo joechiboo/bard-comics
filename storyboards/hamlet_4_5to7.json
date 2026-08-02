@@ -50,7 +50,7 @@
         },
         {
           "weight": 0.45,
-          "prompt": "King Claudius, a broad heavyset king with a neatly trimmed dark pointed beard, a wide gold crown, fur-trimmed brocade robes, a jeweled goblet in hand, standing unarmed with both palms open, utterly calm before the levelled sword point",
+          "prompt": "over-the-shoulder from behind the young avenger, his levelled rapier cutting across the frame, and beyond its point the king's open empty palms and gold crown catching the torchlight, his face lost in shadow above",
           "dialogue": [
             {
               "speaker": "克勞地",
@@ -81,7 +81,7 @@
         },
         {
           "weight": 0.4,
-          "prompt": "close-up of the young nobleman's face crumbling from rage into grief as the flower girl drifts away singing, petals falling from her apron",
+          "prompt": "close shot of a sprig of rosemary trembling in a clenched fist, a dropped rapier lying across the flagstones at his feet, and beyond them the pale flower girl drifting away down the hall in a blur of scattered petals",
           "dialogue": [
             {
               "speaker": "雷歐提斯",

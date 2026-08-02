@@ -45,7 +45,7 @@
       "panels": [
         {
           "weight": 0.65,
-          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, looming suddenly out of the sea mist before {characters}, who staggers back one step then holds his ground, cloak whipping in the wind",
+          "prompt": "over-the-shoulder shot past the small black-cloaked figure of the prince, a mountainous shape in ancient plate armour looming out of the sea mist above him, its raised visor a well of darkness with two pinpoints of cold blue light, his cloak whipping in the wind",
           "dialogue": [
             {
               "speaker": "霍拉旭",
@@ -123,7 +123,7 @@
       "panels": [
         {
           "weight": 0.5,
-          "prompt": "a lonely windswept cliff-top beyond the walls, the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, turning at last to face {characters}, sea crashing far below",
+          "prompt": "on the windswept cliff-top, the armoured apparition standing at the edge with its back to the viewer against the moonlit sea, turning only its helmeted head in dark profile, a faint cold blue glow leaking from the visor's edge, waves crashing far below",
           "dialogue": [
             {
               "speaker": "鬼魂",
@@ -195,7 +195,7 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, arms wide in remembered agony against the black sky, storm clouds boiling behind him",
+          "prompt": "a gigantic armoured shadow thrown across the cliff rocks and over the small kneeling figure of the black-clad prince, cast by an unseen presence off-panel, storm clouds boiling, the shadow's clawed gauntlet stretching toward the castle on the horizon",
           "dialogue": [
             {
               "speaker": "鬼魂",

@@ -83,7 +83,7 @@
         },
         {
           "weight": 0.7,
-          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, materializing out of the sea mist on the battlements, the three men recoiling in terror, torch guttering",
+          "prompt": "the sea mist parting around a towering figure in ancient plate armour, its raised visor holding only darkness and two pinpoints of cold blue light, the three men's torch flames bending away from it as they recoil against the crenellations",
           "dialogue": [
             {
               "speaker": "馬西勒斯",
@@ -146,7 +146,7 @@
         },
         {
           "weight": 0.5,
-          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, reappearing with arms spread wide as if about to speak, Horatio lunging toward it, a rooster crowing on a distant rooftop silhouette",
+          "prompt": "the armoured apparition dissolving into streaming mist at the first cockcrow, plates of ancient armour unravelling like smoke, only one gauntlet still solid and reaching out, a rooster crowing on a distant rooftop silhouette against the greying sky",
           "dialogue": [
             {
               "speaker": "霍拉旭",

@@ -45,6 +45,15 @@
 | 羅森克蘭茲 | `Rosencrantz, a plump smooth-faced courtier with a short blond bowl-cut and an eager ingratiating smile` | 金髮碗蓋頭 | 2-1to2 |
 | 吉爾登斯坦 | `Guildenstern, a thin courtier with lank dark hair and nervous darting eyes` | 油瘦垂髮驚眼 | 2-1to2 |
 
+### 臉的特權（哈姆雷特，2026-08-01 定案）
+
+- **正面臉只留給哈姆雷特與奧菲莉亞**（情感核心）。
+- **鬼魂永不露臉**：掀開的面甲裡只有黑暗＋兩點幽藍；其餘用巨影、盔甲霧散、
+  幽藍冷光滲出（床幔）等載體呈現——先王的臉是全劇最大的懸念，不給。
+- 配角（克勞地/葛簇特/波隆尼/雷歐提斯）用剪影、手部、道具講戲：
+  戴戒指的手＋金冠、掐扶手的白指節、拳中顫抖的迷迭香。
+- 例外：刻意的重音特寫（名句題字頁）每頁至多一格，且優先給主角。
+
 ### 全劇風格（哈姆雷特）
 
 - `style_suffix`：`black and white ink comic style, high contrast, heavy shadows, cold gothic atmosphere`

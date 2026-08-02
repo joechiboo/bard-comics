@@ -139,7 +139,7 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "the Ghost of old King Hamlet, a towering spectral king in full plate armour with the visor raised, a long grey beard, hollow eyes, a faint cold blue glow around his translucent form, standing between the bed curtains, {characters} dropping to his knees staring up while his mother stares only at her kneeling son in terror",
+          "prompt": "a cold blue glow spilling from between the parted bed curtains, washing over Hamlet, a lean young prince dressed head to toe in black, a short dark cloak, tousled dark hair, pale clean-shaven face with shadowed sleepless eyes, dropped to his knees staring up into the light, while his mother shrinks back in her chair staring only at her kneeling son",
           "dialogue": [
             {
               "speaker": "哈姆雷特",

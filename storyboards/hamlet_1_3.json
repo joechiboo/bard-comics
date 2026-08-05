@@ -19,7 +19,7 @@
         },
         {
           "weight": 0.5,
-          "prompt": "quayside two-shot, {characters} tucking a folded scarf into her brother's open travel bag while glancing up at him with a teasing knowing smile, sailors hauling crates up the gangplank behind them, gulls screaming around the mast",
+          "prompt": "monochrome ink illustration, on the gangplank steps, {characters} tucking a folded scarf into the open travel bag slung on a young traveller seen from behind, glancing up at him with a teasing sideways smile, sailors rolling barrels along the busy quay behind them",
           "dialogue": [
             {
               "speaker": "奧菲莉亞",
@@ -35,7 +35,7 @@
       "panels": [
         {
           "weight": 0.55,
-          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, hurrying onto the quay with one finger raised in lecture, Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, kneeling dutifully for his father's blessing",
+          "prompt": "monochrome ink illustration, on the quay between stacked cargo crates, a stooped old councillor seen from behind — long forked white beard blown over his shoulder, chain of office glinting — wagging one raised finger over a young traveller kneeling for the blessing, dock workers ducking past with coils of rope",
           "dialogue": [
             {
               "speaker": "波隆尼",
@@ -46,7 +46,7 @@
         },
         {
           "weight": 0.45,
-          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, straightening his kneeling son's collar and brushing dust from his shoulders as he lectures, the young man suffering it with a sidelong roll of his eyes, coils of rope and stacked cargo crates around them on the quay",
+          "prompt": "monochrome ink illustration, close shot of two weathered old hands straightening the collar of a kneeling young traveller and brushing dust from his shoulder, a heavy chain of office swinging forward into the frame, ropes and cargo crates blurred around them",
           "dialogue": [
             {
               "speaker": "波隆尼",
@@ -66,7 +66,7 @@
       "panels": [
         {
           "weight": 0.6,
-          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, gripping his kneeling son's shoulders with both hands, sudden real tenderness breaking through the lecturing, the ship's sails rising behind",
+          "prompt": "monochrome ink illustration, seen past the kneeling young traveller's shoulder: two weathered old hands gripping his shoulders hard, a long forked white beard and bowed head above them with the face lost in shadow, the ship's rising sails filling the sky behind",
           "dialogue": [
             {
               "speaker": "波隆尼",
@@ -81,7 +81,7 @@
         },
         {
           "weight": 0.4,
-          "prompt": "Laertes, a hot-blooded young nobleman with short dark curls and a thin moustache, a slender rapier at his hip, a short travel cloak, waving from the ship's gangplank, {characters} waving back from the quay, her other hand pressed over her heart",
+          "prompt": "monochrome ink illustration, wide shot from the quay: a young traveller waving from high on the ship's gangplank as sailors haul in the lines, {characters} below waving back with her other hand pressed over her heart, gulls swirling around the filling sails",
           "dialogue": [
             {
               "speaker": "雷歐提斯",
@@ -102,7 +102,7 @@
       "panels": [
         {
           "weight": 0.55,
-          "prompt": "Polonius, a stooped elderly councillor with a long forked white beard, a heavy chain of office over dark robes, a rolled parchment in his sash, turning sternly on {characters}, jabbing a finger, she shrinking with eyes cast down, the emptying quay behind them",
+          "prompt": "monochrome ink illustration, the old councillor a dark stooped silhouette in the near foreground with one finger jabbed across the frame, and beyond it {characters} shrinking back a step, eyes cast down, hugging her elbows, the emptying grey quay stretching out behind her",
           "dialogue": [
             {
               "speaker": "奧菲莉亞",
